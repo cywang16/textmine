@@ -1,0 +1,231 @@
+Pos.  	Word                	Type      
+7     	NEW YORK            	place     
+9     	(                   	          
+16    	Reuters             	org       
+17    	)                   	          
+19    	-                   	          
+25    	Hotel               	org       
+54    	real estate investment trust	          
+62    	Patriot             	org       
+71    	American            	org       
+83    	Hospitality         	org       
+88    	Inc.                	org       
+93    	said                	          
+101   	Tuesday             	time      
+104   	it                  	          
+108   	had                 	          
+115   	agreed              	          
+118   	to                  	          
+126   	acquire             	          
+137   	Interstate          	org       
+144   	Hotels              	org       
+149   	Corp                	org       
+150   	,                   	          
+152   	a                   	          
+158   	hotel               	          
+169   	management          	          
+177   	company             	          
+178   	,                   	          
+181   	in                  	          
+183   	a                   	          
+188   	cash                	          
+192   	and                 	          
+198   	stock               	          
+210   	transaction         	          
+217   	valued              	          
+220   	at                  	          
+222   	$                   	currency  
+225   	2.1                 	number    
+233   	billion             	          
+234   	,                   	          
+244   	including           	          
+248   	the                 	          
+259   	assumption          	          
+262   	of                  	          
+264   	$                   	currency  
+267   	785                 	number    
+275   	million             	          
+278   	of                  	          
+289   	Interstate          	org       
+294   	debt                	          
+295   	.                   	          
+317   	Interstate's        	org       
+327   	portfolio           	          
+336   	includes            	          
+339   	40                  	number    
+345   	owned               	          
+352   	hotels              	          
+356   	and                 	          
+364   	resorts             	          
+365   	,                   	          
+375   	primarily           	          
+383   	upscale             	          
+384   	,                   	          
+397   	full-service        	          
+408   	facilities          	          
+415   	leases              	          
+419   	for                 	          
+422   	90                  	number    
+429   	hotels              	          
+433   	and                 	          
+452   	management-service  	          
+463   	agreements          	          
+467   	for                 	          
+470   	92                  	number    
+477   	hotels              	          
+478   	.                   	          
+483   	On                  	          
+494   	completion          	          
+497   	of                  	          
+501   	the                 	          
+512   	Interstate          	org       
+517   	deal                	          
+521   	and                 	          
+525   	its                 	          
+533   	pending             	          
+545   	acquisition         	          
+548   	of                  	          
+556   	Wyndham             	org       
+562   	Hotel               	org       
+568   	Corp.               	org       
+572   	and                 	          
+576   	WHG                 	org       
+584   	Reuters             	org       
+588   	and                 	          
+596   	Casinos             	org       
+601   	Inc.                	org       
+602   	,                   	          
+612   	Patriot's           	org       
+622   	portfolio           	          
+627   	will                	          
+635   	consist             	          
+638   	of                  	          
+642   	455                 	number    
+648   	owned               	          
+649   	,                   	          
+656   	leased              	          
+657   	,                   	          
+665   	managed             	          
+666   	,                   	          
+677   	franchised          	          
+678   	,                   	          
+681   	or                  	          
+690   	serviced            	          
+701   	properties          	          
+706   	with                	          
+712   	about               	          
+720   	103,000             	number    
+726   	rooms               	          
+727   	.                   	          
+730   	A                   	          
+741   	definities          	          
+751   	agreement           	          
+759   	between             	          
+767   	Patriot             	org       
+771   	and                 	          
+782   	Interstate          	org       
+789   	values              	          
+800   	Interstate          	org       
+803   	at                  	          
+805   	$                   	currency  
+810   	37.50               	number    
+814   	per                 	          
+820   	share               	          
+821   	.                   	          
+829   	Patriot             	org       
+834   	will                	          
+843   	pay cash            	          
+847   	for                 	          
+850   	40                  	number    
+858   	percent             	          
+861   	of                  	          
+874   	Interstate's        	org       
+881   	shares              	          
+885   	and                 	          
+890   	will                	          
+899   	exchange            	          
+907   	Patriot             	org       
+914   	paired              	          
+921   	shares              	          
+925   	for                 	          
+929   	the                 	          
+934   	rest                	          
+935   	.                   	          
+942   	Paired              	          
+949   	shares              	          
+955   	trade               	          
+963   	jointly             	          
+967   	for                 	          
+979   	real estate         	          
+990   	investment          	          
+997   	trusts              	          
+1001  	and                 	          
+1007  	their               	          
+1014  	paired              	          
+1024  	operating           	          
+1034  	companies           	          
+1035  	.                   	          
+1044  	Patriot             	org       
+1049  	said                	          
+1052  	it                  	          
+1060  	expects             	          
+1064  	the                 	          
+1076  	transaction         	          
+1079  	to                  	          
+1082  	be                  	          
+1088  	about               	          
+1090  	8                   	number    
+1098  	percent             	          
+1108  	accretive           	          
+1111  	to                  	          
+1115  	its                 	          
+1121  	funds               	          
+1126  	from                	          
+1137  	operations          	          
+1138  	.                   	          
+1142  	It                  	          
+1147  	said                	          
+1151  	the                 	          
+1161  	agreement           	          
+1165  	had                 	          
+1170  	been                	          
+1179  	approved            	          
+1182  	by                  	          
+1186  	the                 	          
+1193  	boards              	          
+1196  	of                  	          
+1207  	Interstate          	org       
+1211  	and                 	          
+1219  	Wyndham             	org       
+1227  	Patriot             	org       
+1232  	said                	          
+1235  	it                  	          
+1243  	did not             	          
+1250  	expect              	          
+1254  	the                 	          
+1259  	deal                	          
+1262  	to                  	          
+1268  	delay               	          
+1272  	the                 	          
+1280  	closing             	          
+1283  	if                  	          
+1287  	its                 	          
+1299  	transaction         	          
+1304  	with                	          
+1312  	Wyndham             	org       
+1313  	,                   	          
+1319  	which               	          
+1322  	is                  	          
+1325  	to                  	          
+1331  	close               	          
+1334  	by                  	          
+1343  	year-end            	          
+1344  	.                   	          
+-->place org org org org org time org org org currency number currency number 
+-->miscellaneous number number number 
+-->org org org org org org org miscellaneous number number 
+-->org org currency number 
+-->number miscellaneous 
+-->
+-->number 
+-->org org org org 

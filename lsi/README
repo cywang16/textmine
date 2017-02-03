@@ -1,0 +1,34 @@
+
+ This directory contains all the files to run a SVD on a 
+ term document matrix.  The code has been modified to run with some 
+ Perl code that loads the matrix and reads the data from text files. 
+
+ Files		Description
+ --------------------------------------------------------------
+ lao2		Output file containing U matrix, sigma values, and V matrix
+ lap2		Input parameter file to run SVD
+ las2		UNIX executable (create using the makefile)
+ las2.c		Modified source for las2
+ las2.exe	Windows executable (built using gcc on cygwin)
+ las2.h		Header file for las2.c
+ lav2		Binary output file
+ makefile	Makefile to compile and create the executable
+ matrix		Term document matrix in the Boeing-Hartwell format
+
+ To run las2:
+
+ 1. Create the matrix file
+
+ 2. Set the parameter file - lap2
+
+ 3. On Windows, you need the las2.exe executable and on Linux
+    you can create the executable using the makefile
+
+ 4. To run a test from the command line, pass the full directory 
+    path to the LSI input files with a trailing slash 
+
+    a) las2 /home/user1/lsi/
+
+          or
+
+    b) las2.exe C:\lsi\

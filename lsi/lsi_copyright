@@ -1,0 +1,7 @@
+
+ Some of the code in this directory is taken from the SVDPACKC package 
+ from the University of Tennessee. The entire package
+ can be downloaded from http://www.netlib.org/svdpack/.  One of the 
+ modules, las2.c has been modified to dump the matrices for a Perl script.
+
+ The single vector Lanczos method has been used to compute the SVD of a matrix. 

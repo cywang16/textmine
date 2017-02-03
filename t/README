@@ -1,0 +1,18 @@
+
+ A bunch of scripts to test various text mining features.
+ Type perl file_name from the command line to run the test.
+
+ File		Description
+ --------------------------------------------------------------------
+ cluster.pl	Test clustering code
+ db_test.pl	Test session management 
+ match.pl	Verify the text_match function
+ phrases.pl	Test phrase extraction
+ pos_test.pl 	Test parts of speech tagging
+ sense.pl	Disambiguate words with multiple senses
+ summary.pl	Test the summarizer
+ test_ent.pl	Test the entity extractor
+ tgen.pl	Random sentence generator
+ tsplit.pl	Test splitting of text into sentences
+ vectors.pl	Generate vectors using different indexing methods
+ words.pl	Test other functions

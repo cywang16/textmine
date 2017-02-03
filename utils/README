@@ -1,0 +1,28 @@
+
+ This directory contains utilities for the TextMine package.
+
+ Files 			Description
+ ------------		---------------------------------------------------
+ compile.pl		Compile perl scripts in directories
+ configure.pl		Script to configure Constants.pm
+ db_proc.pl		Script to backup/restore tables
+ em_b_delete.pl		Delete the e-mails marked for deletion
+ em_b_receive.pl	Read a file and load the e-mails into the table
+ fetch_b_url.pl		Fetch the URL in batch
+ install.pl		Script to copy files to web directories
+ load_mod.pl		Load the dependent Perl modules
+ load_tab.pl		Load the DB tables
+ me_b_index.pl		Index files in directories
+ me_b_repair.pl		Fix an index that is not in sync with file names
+ ne_collector.pl	Collect, index, summarize, and cluster news articles
+ pack.pl		Compress read only DB tables
+ run_collector.pl	Script to run the news collector in parallel
+ run_fetch		Script to fetch an URL
+ setup.pl		Create and load the database
+ sp_log.pl		Script to dump the log for a particular crawl
+ sp_b_spider.pl		Spider script to crawl the web
+ tables.sql		SQL to load tables
+
+ Directories		Description
+ ------------		--------------------------------------------------
+ data			Files to load DB tables

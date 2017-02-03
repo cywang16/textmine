@@ -1,0 +1,8 @@
+
+
+ Name		Description
+ --------------------------------------------------------------------
+ pos/		Files to build a part of speech table
+ quanda/	Files to handle Q&A
+ reuters/	Files for entity extraction
+ wordnet/	WordNet dictionary files

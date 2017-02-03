@@ -1,0 +1,12 @@
+
+Copyright (c) 2006 Manu Konchady. All rights reserved.
+Text Mine is free software: you can distribute
+it and/or modify it under the same terms as Perl itself.
+
+ Exclusions:
+
+  1. Code from the las2.c module of SVDPACKC included in the lsi directory 
+     (see Copyright statement included in the lsi directory).
+
+  2. Dictionary source files from WordNet  
+     (see Copyright statement in the tools/wordnet directory).

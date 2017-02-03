@@ -1,0 +1,1136 @@
+#!/usr/bin/perl
+ use lib ("/home/manuk/textmine-0.2/");
+ #*-----------------------------------------------------
+ #*- bld_pos_testing.pl
+ #*- script to create testing data
+ #*- The translation table from Brown corpus tags
+ #*- to our tags is followed by a sample tagged file
+ #*-----------------------------------------------------
+ use Text::Wrap qw(wrap 80);
+ use strict; use warnings;
+
+ #*-- build the tag translation table
+ my $inline; my %tag_trans = ();
+ while ($inline = <DATA>)
+  {
+   chomp($inline);
+   last if ($inline eq 'end_of_tag_table');
+   if ($inline =~ /^(.*?)\t(.*?)$/)
+    { my ($key, $val) = ($1, $2);
+      $key =~ s/^\s+//; $key =~ s/\s+$//;
+      $val =~ s/^\s+//; $val =~ s/\s+$//;
+      $tag_trans{$key} = $val; } 
+  }
+
+ #*-- read the tagged data
+ my @words = my @tags = ();
+ while ($inline = <DATA>)
+  {
+   chomp($inline);
+   if ($inline =~ m%^(.*?)/(.*?)$%)
+    { my ($word, $tag) = ($1, $2);
+      next if ($word =~ /\.{2,200}$/); #*-- not handling blah......
+      if ($tag_trans{$tag})
+       { $word =~ s/^\s+//; $word =~ s/\s+$//; $word = lc($word);
+         push (@words, $word); push (@tags, $tag_trans{$tag}); }
+    }
+  }
+
+ use TextMine::DbCall;
+ use TextMine::Constants;
+ use TextMine::Tokens qw/assemble_tokens/;
+
+ my ($dbh, $sth, $command);
+
+ ($dbh) = TextMine::DbCall->new ( 'Host' => '',
+       'Userid' => 'tmadmin', 'Password' => 'tmpass', 'Dbname' => $DB_NAME);
+
+ #*-- split the text into sentences.
+ local $" = ' '; my $text = "@words";
+ my ($rtok) = &assemble_tokens(\$text, $dbh);
+ $text = ''; my $j = 0;
+ foreach my $token (@$rtok)
+  { my $num_spaces = 0; 
+    if (length($token) > 1)
+     { $num_spaces++ while ($token =~ /[\s]/g); }
+    $j += $num_spaces;
+    $text .= "$token <$tags[$j]>"; $j++; }
+ $text = &wrap('','', $text);
+ open (OUT, ">pos_testing.txt") || 
+      die ("Could not open pos_testing.txt $!\n");
+ binmode OUT, ":raw";
+ print OUT ("$text\n");
+ close(OUT);
+
+ $dbh->disconnect_db($sth);
+
+ exit(0);
+
+#*-- from http://www.scs.leeds.ac.uk/amalgam/amalgam/corpus/tagged_prf.html
+#*-- The Multi-Tagged Corpus (Proofread) The IPSM sentences - BROWN Tag-set
+__DATA__
+"	u
+(	u
+)	u
+*	u
+,	u
+.	u
+:	u
+ABN	d
+AP	d
+AT	d
+BE	v
+BEDZ	v
+BEN	v
+BER	v
+BEZ	v
+CC	c
+CD	a
+CS	c
+DO	v
+DOZ	v
+DT	d
+DTI	d
+DTS	d
+EX	p
+HV	v
+HVZ	v
+IN	o
+JJ	a
+JJR	a
+MD	v
+MD*	v
+NN	n	
+NN$	n
+NNS	n
+NP	n
+NP$	n
+NPS	n
+OD	a
+PN	p
+PP$	p
+PPO	p
+PPS	p
+PPSS	p
+QL	r
+RB	r
+RP	r
+TO	o
+VB	v
+VBG	v
+VBN	v
+VBZ	v
+WDT	d
+WPS	p
+WRB	r
+end_of_tag_table
+if/CS
+your/PP$
+library/NN
+is/BEZ
+on/IN
+a/AT
+network/NN
+and/CC
+has/HVZ
+the/AT
+Dynix/NP
+Gateways/NPS
+product/NN
+,/,
+patrons/NNS
+and/CC
+staff/NN
+at/IN
+your/PP$
+library/NN
+can/MD
+use/VB
+gateways/NNS
+to/IN
+access/VB
+information/NN
+on/IN
+other/AP
+systems/NNS
+as/QL
+well/RB
+./.
+for/IN
+example/NN
+,/,
+you/PPSS
+can/MD
+search/VB
+for/IN
+items/NNS
+and/CC
+place/VB
+holds/NNS
+on/IN
+items/NNS
+at/IN
+other/AP
+libraries/NNS
+,/,
+research/NN
+computer/NN
+centers/NNS
+,/,
+and/CC
+universities/NNS
+./.
+typically/RB
+,/,
+there/EX
+are/BER
+multiple/JJ
+search/NN
+menus/NNS
+on/IN
+your/PP$
+system/NN
+,/,
+each/DT
+of/IN
+which/WDT
+is/BEZ
+set/VBN
+up/RP
+differently/RB
+./.
+the/AT
+search/NN
+menu/NN
+in/IN
+the/AT
+Circulation/NN
+module/NN
+may/MD
+make/VB
+additional/JJ
+search/NN
+methods/NNS
+available/JJ
+to/IN
+library/NN
+staff/NN
+./.
+for/IN
+example/NN
+,/,
+an/AT
+alphabetical/JJ
+search/NN
+on/IN
+the/AT
+word/NN
+"/"
+Ulysses/NP
+"/"
+locates/VBZ
+all/ABN
+titles/NNS
+that/WPS
+contain/VB
+the/AT
+word/NN
+"/"
+Ulysses/NP
+./.
+"/"
+displays/VBZ
+the/AT
+records/NNS
+that/WPS
+have/HV
+a/AT
+specific/JJ
+word/NN
+or/CC
+words/NNS
+in/IN
+the/AT
+TITLE/NN
+,/,
+CONTENTS/NN
+,/,
+SUBJECT/NN
+,/,
+or/CC
+SERIES/NN
+fields/NNS
+of/IN
+the/AT
+BIB/NP
+record/NN
+,/,
+depending/IN
+on/IN
+which/WDT
+fields/VBZ
+have/HV
+been/BEN
+included/VBN
+in/IN
+each/DT
+index/NN
+./.
+for/IN
+example/NN
+,/,
+you/PPSS
+can/MD
+use/VB
+an/AT
+accelerated/VBN
+search/NN
+command/NN
+to/TO
+perform/VB
+an/AT
+author/NN
+authority/NN
+search/NN
+or/CC
+a/AT
+title/NN
+keyword/NN
+search/NN
+./.
+the/AT
+search/NN
+abbreviation/NN
+is/BEZ
+included/VBN
+in/IN
+parentheses/NNS
+following/VBG
+the/AT
+search/NN
+name/NN
+:/:
+a/AT
+system/NN
+menu/NN
+./.
+any/DTI
+screen/NN
+where/WRB
+you/PPSS
+can/MD
+enter/VB
+"/"
+SO/NN
+"/"
+to/TO
+start/VB
+a/AT
+search/NN
+over/RP
+./.
+certain/JJ
+abbreviations/NNS
+may/MD
+work/VB
+at/IN
+one/CD
+prompt/NN
+but/CC
+not/*
+at/IN
+another/DT
+./.
+to/TO
+perform/VB
+an/AT
+accelerated/VBN
+search/NN
+,/,
+follow/VB
+these/DTS
+instructions/NNS
+:/:
+that/CS
+item's/NN$
+full/JJ
+BIB/NN
+display/NN
+appears/VBZ
+./.
+write/VB
+down/RP
+any/DTI
+information/NN
+you/PPSS
+need/VB
+,/,
+or/CC
+select/VB
+the/AT
+item/NN
+if/CS
+you/PPSS
+are/BER
+placing/VBG
+a/AT
+hold/NN
+./.
+alphabetical/JJ
+Title/NN
+Search/NN
+./.
+enter/VB
+the/AT
+line/NN
+number/NN
+of/IN
+the/AT
+alphabetical/JJ
+title/NN
+search/NN
+option/NN
+./.
+a/AT
+BIB/NN
+summary/NN
+screen/NN
+appears/VBZ
+,/,
+listing/VBG
+the/AT
+titles/NNS
+that/WPS
+match/VB
+your/PP$
+entry/NN
+:/:
+when/WRB
+you/PPSS
+access/VB
+the/AT
+BIB/NN
+record/NN
+you/PPSS
+want/VB
+,/,
+you/PPSS
+can/MD
+print/VB
+the/AT
+screen/NN
+,/,
+write/VB
+down/RP
+any/DTI
+information/NN
+you/PPSS
+need/VB
+,/,
+or/CC
+select/VB
+the/AT
+item/NN
+if/CS
+you/PPSS
+are/BER
+placing/VBG
+a/AT
+hold/NN
+./.
+the/AT
+cursor/NN
+symbol/NN
+(/(
+>/)
+)/)
+appears/VBZ
+on/IN
+the/AT
+alphabetical/JJ
+list/NN
+next/IN
+to/IN
+the/AT
+heading/NN
+that/CS
+most/QL
+closely/RB
+matches/VBZ
+your/PP$
+request/NN
+./.
+Byzantine/JJ
+empire/NN
+./.
+when/WRB
+you/PPSS
+are/BER
+editing/VBG
+a/AT
+document/NN
+,/,
+you/PPSS
+want/VB
+to/TO
+be/BE
+able/JJ
+to/TO
+move/VB
+quickly/RB
+through/IN
+the/AT
+pages/NNS
+./.
+scrolling/VBG
+changes/VBZ
+the/AT
+display/NN
+but/CC
+does/DOZ
+not/*
+move/VB
+the/AT
+insertion/NN
+point/NN
+./.
+to/TO
+use/VB
+keyboard/NN
+shortcuts/NNS
+to/TO
+navigate/VB
+a/AT
+document/NN
+./.
+move/VB
+the/AT
+mouse/NN
+pointer/NN
+until/CS
+the/AT
+I-beam/NN
+is/BEZ
+at/IN
+the/AT
+beginning/NN
+of/IN
+the/AT
+text/NN
+you/PPSS
+want/VB
+to/TO
+select/VB
+./.
+for/IN
+information/NN
+,/,
+refer/VB
+to/IN
+"/"
+Undoing/VBG
+one/CD
+or/CC
+more/AP
+actions/NNS
+"/"
+in/IN
+this/DT
+chapter/NN
+./.
+Ami/NP
+Pro/NP
+provides/VBZ
+three/CD
+modes/NNS
+for/IN
+typing/VBG
+text/NN
+./.
+in/IN
+Insert/NN
+mode/NN
+,/,
+you/PPSS
+insert/VB
+text/NN
+at/IN
+the/AT
+position/NN
+of/IN
+the/AT
+insertion/NN
+point/NN
+and/CC
+any/DTI
+existing/VBG
+text/NN
+automatically/RB
+moves/VBZ
+./.
+if/CS
+you/PPSS
+press/VB
+BACKSPACE/NN
+,/,
+Ami/NP
+Pro/NP
+deletes/VBZ
+the/AT
+selected/VBN
+text/NN
+and/CC
+one/CD
+character/NN
+to/IN
+the/AT
+left/NN
+of/IN
+the/AT
+selected/VBN
+text/NN
+./.
+you/PPSS
+can/MD
+disable/VB
+Drag&Drop/NN
+./.
+if/CS
+you/PPSS
+want/VB
+to/TO
+move/VB
+the/AT
+text/NN
+,/,
+position/NN
+the/AT
+mouse/NN
+pointer/NN
+anywhere/RB
+in/IN
+the/AT
+selected/VBN
+text/NN
+and/CC
+drag/VB
+the/AT
+mouse/NN
+until/CS
+the/AT
+insertion/NN
+point/NN
+is/BEZ
+in/IN
+the/AT
+desired/VBN
+location/NN
+./.
+the/AT
+contents/NNS
+of/IN
+the/AT
+Clipboard/NN
+appear/VB
+in/IN
+the/AT
+desired/VBN
+location/NN
+./.
+to/TO
+move/VB
+or/CC
+copy/VB
+text/NN
+between/IN
+documents/NNS
+./.
+choose/VB
+Edit/NN
+or/CC
+Edit/NN
+to/TO
+place/VB
+the/AT
+selected/VBN
+text/NN
+on/IN
+the/AT
+Clipboard/NN
+./.
+if/CS
+the/AT
+document/NN
+into/IN
+which/WDT
+you/PPSS
+want/VB
+to/TO
+paste/VB
+the/AT
+text/NN
+is/BEZ
+already/RB
+open/VB
+,/,
+you/PPSS
+can/MD
+switch/VB
+to/IN
+that/DT
+window/NN
+by/IN
+clicking/VBG
+in/IN
+it/PPO
+or/CC
+by/IN
+choosing/VBG
+the/AT
+Window/NN
+menu/NN
+and/CC
+selecting/VBG
+the/AT
+desired/VBN
+document/NN
+./.
+press/VB
+SHIFT+INS/NN
+or/CC
+CTRL+V/NN
+./.
+select/VB
+the/AT
+text/NN
+you/PPSS
+want/VB
+to/TO
+protect/VB
+./.
+permanently/RB
+inserts/VBZ
+the/AT
+date/NN
+the/AT
+current/JJ
+document/NN
+was/BEDZ
+created/VBN
+./.
+you/PPSS
+can/MD
+select/VB
+Off/NN
+,/,
+1/CD
+,/,
+2/CD
+,/,
+3/CD
+,/,
+or/CC
+4/CD
+levels/NNS
+./.
+when/WRB
+you/PPSS
+want/VB
+to/TO
+reverse/VB
+an/AT
+action/NN
+,/,
+choose/VB
+Edit/NN
+./.
+modifying/VBG
+the/AT
+Appearance/NN
+of/IN
+Text/NN
+./.
+the/AT
+following/VBG
+are/BER
+suggestions/NNS
+on/IN
+how/WRB
+to/TO
+proceed/VB
+when/WRB
+using/VBG
+the/AT
+Translator's/NN$
+Workbench/NP
+together/RB
+with/IN
+Word/NP
+for/IN
+Windows/NPS
+6.0/CD
+./.
+another/DT
+important/JJ
+category/NN
+of/IN
+non-textual/JJ
+data/NNS
+is/BEZ
+what/WDT
+is/BEZ
+referred/VBN
+to/IN
+as/CS
+"/"
+hidden/VBN
+text/NN
+./.
+"/"
+alternatively/RB
+,/,
+choose/VB
+the/AT
+Options.../NNS
+menu/NN
+item/NN
+from/IN
+Word's/NP$
+Tools/NNS
+menu/NN
+./.
+thus/RB
+,/,
+you/PPSS
+will/MD
+make/VB
+sure/JJ
+that/CS
+you/PPSS
+see/VB
+all/ABN
+the/AT
+information/NN
+that/CS
+the/AT
+Workbench/NP
+manages/VBZ
+during/IN
+translation/NN
+:/:
+always/RB
+put/VB
+one/CD
+abbreviation/NN
+on/IN
+a/AT
+line/NN
+,/,
+followed/VBN
+by/IN
+a/AT
+period/NN
+./.
+during/IN
+the/AT
+translation/NN
+of/IN
+this/DT
+example/NN
+,/,
+the/AT
+Workbench/NP
+should/MD
+ignore/VB
+the/AT
+second/OD
+sentence/NN
+when/WRB
+moving/VBG
+from/IN
+the/AT
+first/OD
+sentence/NN
+to/IN
+the/AT
+third/OD
+one/PN
+./.
+in/IN
+Word/NN
+,/,
+you/PPSS
+can/MD
+immediately/RB
+recognize/VB
+a/AT
+100%/NN
+match/NN
+from/IN
+the/AT
+color/NN
+of/IN
+the/AT
+target/NN
+field/NN
+./.
+the/AT
+TWB1/NN
+button/NN
+,/,
+also/RB
+labeled/VBN
+Translate/NP
+Until/NP
+Next/AP
+Fuzzy/NP
+Match/NP
+,/,
+tells/VBZ
+the/AT
+Workbench/NP
+to/TO
+do/DO
+precisely/RB
+this/DT
+./.
+you/PPSS
+can/MD
+also/RB
+use/VB
+the/AT
+shortcut/NN
+[/(
+Alt/NN
+]/)
++/CC
+[/(
+x/NN
+]/)
+on/IN
+the/AT
+separate/JJ
+numeric/JJ
+keypad/NN
+to/TO
+start/VB
+this/DT
+function/NN
+./.
+that/DT
+is/BEZ
+,/,
+these/DTS
+words/NNS
+make/VB
+the/AT
+source/NN
+sentence/NN
+longer/JJR
+or/CC
+shorter/JJR
+than/CS
+the/AT
+TM/NN
+sentence/NN
+./.
+likewise/RB
+,/,
+if/CS
+something/PN
+has/HVZ
+been/BEN
+left/VBN
+out/RP
+in/IN
+the/AT
+source/NN
+sentence/NN
+,/,
+you/PPSS
+will/MD
+have/HV
+to/TO
+delete/VB
+the/AT
+corresponding/JJ
+parts/NNS
+in/IN
+the/AT
+suggested/VBN
+translation/NN
+as/QL
+well/RB
+./.
+automatic/JJ
+Substitution/NN
+of/IN
+Interchangeable/JJ
+Elements/NNS
+./.
+if/CS
+the/AT
+Workbench/NP
+cannot/MD*
+find/VB
+any/DTI
+fuzzy/JJ
+match/NN
+,/,
+it/PPS
+will/MD
+display/VB
+a/AT
+corresponding/JJ
+message/NN
+(/(
+"/"
+No/AT
+match/NN
+"/"
+)/)
+in/IN
+the/AT
+lower/JJR
+right/JJ
+corner/NN
+of/IN
+its/PP$
+status/NN
+bar/NN
+and/CC
+you/PPSS
+will/MD
+be/BE
+presented/VBN
+with/IN
+an/AT
+empty/JJ
+yellow/JJ
+target/NN
+field/NN
+./.
+then/RB
+go/VB
+on/IN
+translating/VBG
+until/CS
+you/PPSS
+want/VB
+to/TO
+insert/VB
+the/AT
+next/AP
+translation/NN
+./.
+select/VB
+the/AT
+text/NN
+to/TO
+be/BE
+copied/VBN
+in/IN
+the/AT
+Concordance/NN
+window/NN
+,/,
+usually/RB
+the/AT
+translation/NN
+of/IN
+the/AT
+sentence/NN
+part/NN
+that/CS
+you/PPSS
+have/HV
+searched/VBN
+for/RB
+./.
+the/AT
+same/AP
+goes/VBZ
+for/IN
+formatting/VBG
+:/:
+making/VBG
+Corrections/NNS
+./.
+if/CS
+you/PPSS
+would/MD
+like/VB
+to/TO
+make/VB
+corrections/NNS
+to/IN
+translations/NNS
+after/IN
+their/PP$
+initial/JJ
+creation/NN
+,/,
+you/PPSS
+should/MD
+always/RB
+do/DO
+this/DT
+in/IN
+TM/NN
+mode/NN
+so/CS
+that/CS
+the/AT
+corrections/NNS
+will/MD
+be/BE
+stored/VBN
+in/IN
+Translation/NN
+Memory/NN
+as/QL
+well/RB
+as/CS
+in/IN
+your/PP$
+document/NN
+./.
+but/CC
+consider/VB
+the/AT
+following/VBG
+example/NN
+where/WRB
+text/NN
+is/BEZ
+used/VBN
+within/IN
+an/AT
+index/NN
+entry/NN
+field/NN
+:/:
+if/CS
+a/AT
+perfect/JJ
+or/CC
+fuzzy/JJ
+match/NN
+is/BEZ
+found/VBN
+,/,
+the/AT
+Workbench/NP
+will/MD
+again/RB
+automatically/RB
+transfer/VB
+its/PP$
+translation/NN
+into/IN
+the/AT
+target/NN
+field/NN
+in/IN
+WinWord/NP
+./.

@@ -1,0 +1,1000 @@
+#*-------------------------------------------------------------------
+#*- Generated training data for PEOPLE, PLACE, and ORG entities
+#*- from the reuters corpus
+#*-------------------------------------------------------------------
+Destinations were the U.S., Covertible currency areas, <PLACE>Uruguay</PLACE> and open ports.
+Buyers were the U.S., Argentina, <PLACE>Uruguay</PLACE> and convertible currency areas.
+BankAmerica stock fell this week, along with other banking issues, on the news that <PLACE>Brazil</PLACE> has suspended interest payments on a large portion of its foreign debt.
+billion dlrs in Brazilian loans, stands to lose 15-20 mln dlrs if the interest rate is reduced on the debt, and as much as 200 mln dlrs if <PLACE>Brazil</PLACE> pays no interest for a year, said Joseph Arsenio, analyst with Birr, Wilson and Co.
+With other major banks standing to lose even more than BankAmerica if <PLACE>Brazil</PLACE> fails to service its debt, the analysts said they expect the debt will be restructured, similar to way Mexico's debt was, minimizing losses to the creditor banks.
+BankAmerica stock fell this week, along with other banking issues, on the news that <PLACE>Brazil</PLACE> has suspended interest payments on a large portion of its foreign debt.
+billion dlrs in Brazilian loans, stands to lose 15-20 mln dlrs if the interest rate is reduced on the debt, and as much as 200 mln dlrs if <PLACE>Brazil</PLACE> pays no interest for a year, said Joseph Arsenio, analyst with Birr, Wilson and Co.
+With other major banks standing to lose even more than BankAmerica if <PLACE>Brazil</PLACE> fails to service its debt, the analysts said they expect the debt will be restructured, similar to way Mexico's debt was, minimizing losses to the creditor banks.
+<PLACE>Venezuela</PLACE> and its bank advisory committee have agreed in principle on revisions to the terms of a 21 billion dlr debt-rescheduling package signed last February, bankers said.
+The interest rate on the rescheduling was originally set at 1-1/8 pct over Eurodollar rates, but <PLACE>Venezuela</PLACE> requested easier terms because of a 40 pct drop in oil income last year.
+It also asked for a reduction in the repayments it was due to make in 1987, 1988 and 1989 - after an earlier request that it make no amortizations at all in those years was rebuffed - and sought a commitment from the banks to finance new investment in <PLACE>Venezuela</PLACE>.
+While the sudden progress is to some extent coincidental, bankers acknowledge a desire to chalk up some quick successes after the shock of <PLACE>Brazil</PLACE>'s unilateral interest suspension last Friday.
+By striking swift deals, banks hope to reduce the incentive for other debtors to emulate <PLACE>Brazil</PLACE>.
+The Tower Commission report, which says President <PERSON>Reagan</PERSON> was ignorant about much of the Iran arms deal, just about ends his prospects of regaining political dominance in Washington, political analysts said. "
+In one of the most direct criticisms, board chairman John Tower, a longtime <PERSON>Reagan</PERSON> supporter and former Republican senator from Texas, told a press conference, "The president clearly did not understand the nature of this operation."
+The report, which lent credence to widespread opinion in Washington that <PERSON>Reagan</PERSON> is not in full command of the government, was particularly damaging because it was prepared by a board of the Republican president's own choosing.
+What can we say except 'we're sorry, we won't do it again'?" The strategist, who works for one of his party's top 1988 presidential contenders and asked not to be identified, said the report was like "an anvil falling on us." Hess, with the Brookings Institution public policy study group, said the report is the final blow to <PERSON>Reagan</PERSON>'s hopes of regaining the upper hand he once had in dealings with Congress, the press and the Washington bureaucracy.
+Regan, expected to resign or be fired shortly, was savaged for allegedly failing both to help <PERSON>Reagan</PERSON> conduct the Iran initiative and to avoid "chaos" in the disclosure process.
+While <PERSON>Reagan</PERSON> retains considerable constitutional powers, including command of the armed forces and the right to veto legislation, analysts say it will be difficult for him to retake control of the country's policy agenda -- particularly with Congress controlled by the Democrats.
+The crucial remaining question, they said, is whether the man in the street will forsake <PERSON>Reagan</PERSON> over the affair.
+A Los Angeles Times poll released earlier this week showed that just 37 pct of those surveyed thought <PERSON>Reagan</PERSON> was in control of the government, but 55 pct still thought he was doing a good job as president.
+American Enterprise Institute analyst William Schneider, a Democrat, says <PERSON>Reagan</PERSON>'s loss of support among Washington power brokers could be offset by continued backing of the public. "
+<PERSON>Reagan</PERSON> will again plead his case that way in a televised address next week.
+Analysts also point out that <PERSON>Reagan</PERSON>'s personal popularity has not always translated into public backing for his policies.
+Secretary of State George Shultz acknowledged failings in the <PLACE>Iran</PLACE> arms affair but declared he would not resign.
+In 1984 and 1985 <PLACE>Brazil</PLACE>'s annual trade surpluses had been sufficient to cover the 12 billion dlrs needed to service its 109 billion dlr foreign debt.
+The <PLACE>Panama</PLACE> Canal Commission, a U.S. government agency, said in its daily operations report that there was a backlog of 39 ships waiting to enter the canal early today.
+mln dlrs in credit guarantees previously earmarked to cover sales of dry edible beans to <PLACE>Honduras</PLACE> have been switched to cover sales of white corn, the U.S. Agriculture Department said.
+<PLACE>Argentina</PLACE> could suspend payments on its foreign debt if creditor banks reject a 2.15 billion dlr loan request to meet 1987 growth targets, ruling Radical Party Deputy Raul Baglini told a local radio station. "
+<PLACE>Argentina</PLACE> does not discard the use of (a moratorium) if the negotiations do not produce a result that guarantees the growth of the country," he added.
+Baglini, an observer at <PLACE>Argentina</PLACE>'s negotiations in New York with the steering committee for its 320 creditors banks, told the Radio del Plata in a telephone interview that the banks were divided on the loan request.
+He said <PLACE>Argentina</PLACE> was prepared to follow the example of Brazil, which last week declared a moratorium on interest payments of a large portion of its 108 billion dlr foreign debt.
+<PLACE>Argentina</PLACE>'s prime objective in renegotiating the debt was to maintain growth, which has been targeted at four pct in 1987, Baglini said. "
+Canadian Finance Minister <PERSON>Michael Wilson</PERSON> said he will use temporary authority under the Financial Administration act to borrow an additional 600 mln dlrs in next Thursday's treasury bill auction.
+In a statement, <PERSON>Wilson</PERSON> said the action would permit the government to proceed with its debt program during a period when there was not sufficient borrowing authority, which is granted by Parliament, to cover the government's needs.
+Iran announced tonight that its major offensive against <PLACE>Iraq</PLACE> in the Gulf war had ended after dealing savage blows against the Baghdad government.
+The Iranian news agency IRNA, in a report received in London, said the operation code-named Karbala-5 launched into <PLACE>Iraq</PLACE> on January 9 was now over.
+It quoted a joint statewment by the Iranian Army and Revolutionary Guards Corps as saying that their forces had "dealt one of the severest blows on the Iraqi war machine in the history of the <PLACE>Iraq</PLACE>-imposed war."
+The statement by the Iranian High Command appeared to herald the close of an assault on the port city of Basra in southern <PLACE>Iraq</PLACE>. "
+It claimed massive victories in the seven-week offensive and called on supporters of Baghdad to "come to their senses" and discontinue support for what it called the tottering regime in <PLACE>Iraq</PLACE>.
+<PLACE>Iran</PLACE> said its forces had "liberated" 155 square kilometers of enemy-occupied territory during the 1987 offensive and taken over islands, townships, rivers and part of a road leading into Basra.
+<PLACE>Venezuela</PLACE> is seeking a 'constructive and flexible' attitude from its creditor banks in current talks to reschedule 21 billion dlrs in foreign debt, finance minister manuel azpurua told a press conference.
+He declined to comment on meetings this week in new york between public finances director jorge marcano and <PLACE>Venezuela</PLACE>'s 13-bank advisory committee except to say, "they are progressing."
+Azpurua said <PLACE>Venezuela</PLACE> has shown solidarity with brazil's decision to suspend payments, but each country must negotiate according to its own interest.
+According to banking sources, the banks' latest offer to <PLACE>Venezuela</PLACE> is also a one pct margin as against the last february's 1-1/8 pct rescheduling accord and the 7/8 pct <PLACE>Venezuela </PLACE> wants.
+He said <PLACE>Venezuela</PLACE>'s original proposal was to pay no principal on restructured debt this year, but is now insisting that if it makes payments they be compensated by new bank loans.
+Nova, the Canadian company that owns 56 pct of Husky Oil Ltd, said it received government approval for a transaction under which &lt;Union Faith <PLACE>Canada</PLACE> Holding Ltd> would buy a 43 pct stake in Husky.
+<PLACE>Brazil</PLACE>'s 14-bank advisory committee expressed "grave concern" to chief debt negotiator Antonio Padua de Seixas over the country's suspension of interest payments, according to a telex from committee chairman Citibank to creditor banks worldwide.
+Bankers said the diplomatic phrase belied the deep anger and frustration on the committee over <PLACE>Brazil</PLACE>'s unilateral move last Friday and its subsequent freeze on some 15 billion dlrs of short-term trade and interbank lines.
+Funaro will be explaining <PLACE>Brazil</PLACE>'s actions to U.S. Treasury Secretary James Baker, Federal Reserve Board chairman Paul Volcker and International Monetary Fund managing director Michel Camdessus before travelling to Europe at the weekend.
+Meanwhile, bankers were to hear in New York this afternoon what impact <PLACE>Brazil</PLACE>'s hard line would have on Argentina, with an initial presentation from Argentine Treasury Secretary Mario Brodersohn on his country's request for 2.15
+Argentina has threatened to emulate <PLACE>Brazil</PLACE>'s payments moratorium if the banks do not grant its request.
+Liquefied natural gas imports from <PLACE>Algeria</PLACE> are unlikely to happen in 1987 even though its economically feasible, U.S. industry analysts sources said.
+Company sources currently in talks with <PLACE>Algeria</PLACE> agree, saying that Algerian LNG would only serve to meet peak demand.
+Company sources also said that any negotiations with <PLACE>Algeria</PLACE> would emphasize looser arrangements which would relate volumes to market requirements and prices to U.S. spot market values.
+The Tower Commission's scathing comments on President <PERSON>Reagan</PERSON>'s embattled chief of staff Donald Regan could signal the death knell to his White House tenure, but the impact of its strong criticism on two other top officials was less clear.
+Regan has come in for tough criticism for his handling of <PERSON>Reagan</PERSON>'s worst political crisis since details of the covert arms sales to Iran and diversion of profits to Nicaraguan rebels first emerged last November.
+The report saved some of its most scathing language for Regan, a gruff former Wall Street executive and close personal friend of <PERSON>Reagan</PERSON> whose autocratic rule in the White House angered some top <PERSON>Reagan</PERSON> officials and, perhaps more importantly, <PERSON>Reagan</PERSON>'s wife Nancy. "
+Senate Republican leader Robert Dole, a key <PERSON>Reagan</PERSON> ally, told reporters the report disclosed "colossal blunders" and said people who had not served the president well should step aside, but he did not specify who should go. "
+Switzerland's economy, combining low unemployment, financial stability and a large external payments surplus, is in excellent condition and faces a satisfactory future, the <ORG>Organisation for Economic Cooperation and Development</ORG>, OECD, said.
+The OECD, in its annual report on <PLACE>Switzerland</PLACE>, picked out some signs of a slowdown in activity and a slight pick-up in inflation this year, but said these gave no cause for concern.
+But "given <PLACE>Switzerland</PLACE>'s large external surplus, there should be no concern if domestic demand grows faster than GDP.
+The grain companies are trying to get this fired up again," an aide to Agriculture Secretary <PERSON>Richard Lyng</PERSON> said. "
+I just don't see any proposal like that sailing through any interagency process," the aide to <PERSON>Lyng</PERSON> said. "
+But <PERSON>Lyng</PERSON>'s aide said that during a day-long visit to Capitol Hill yesterday, House members did not press the secretary on the subsidy question a single time.
+The U.S. Treasury said it was willing to participate with several other industrial countries in providing a 500 mln-dlr short-term bridge loan to <PLACE>Argentina</PLACE>.
+<PLACE>Argentina</PLACE> announced a wage and price freeze on Wednesday night and is negotiating with New York bankers for about 2.15
+Our willingness to participate in this multilateral short-term financing indicates our support for <PLACE>Argentina</PLACE>'s economic program to achieve sustainable growth and a viable balance of payments position," the Treassury statement said.
+But <PLACE>Argentina</PLACE> did not suspend interest payments on its foreign debts, as neighboring Brazil did last week.
+The Treasury said the U.S. share of bridge financing for <PLACE>Argentina</PLACE> would come from its Exchange Stabilization Fund.
+The one-page statement noted the International Monetary Fund expressed confidence in <PLACE>Argentina</PLACE>'s economic policies and prospects by approving a new stand-by financing arrangement for it on February 18. "
+<PLACE>Argentina</PLACE> is expected to qualify for IMF balance-of-payments financing which would enable <PLACE>Argentina </PLACE> to repay a multilateral bridge loan and support the implementation of its economic program," the statement said.
+Along with new financing, <PLACE>Argentina</PLACE> reportedly wants lower interest rates on an existing total 53 billion dlrs in foreign debt and elimination of foreign banks' control over how some of the money is loaned in <PLACE>Argentina </PLACE>.
+(E.H. Industries ( <PLACE>Canada</PLACE>) Inc) said it plans to bid its EH101 helicopter to replace <PLACE>Canada </PLACE>'s fleet of Sea King aircraft.
+It said it is joining with (Bell Textron of <PLACE>Canada</PLACE>), Canadian Marconi Co (CMW), (IMP Group), and (Paramax Electronics Inc) and is supported by (Augusta S.P.A.), (Sikorsky Aircraft), and (Westland Group) in the bid.
+Texaco <PLACE>Canada</PLACE> said it lowered the contract price it will pay for crude oil 64 Canadian cts a barrel, effective today.
+Texaco <PLACE>Canada</PLACE> last changed its crude oil postings on Feb 19.
+The numbers were a little disappointing, but I think we can take Mr <PERSON>Volcker</PERSON> at his word when he said that nothing had changed," said Bob Bannon of Security Pacific National Bank.
+Fed Chairman <PERSON>Paul Volcker</PERSON> told a Congressional committee last Thursday that the Fed's policy "has been unchanged up to today."
+Although <PERSON>Volcker</PERSON>'s statement last Thursday allayed most fears that the Fed had marginally tightened its grip on reserves to help an ailing dollar, many economists still wanted confirmation of a steady policy in today's data, which covered the two-week bank statement period ended yesterday.
+<PLACE>Japan</PLACE> has pledged to try to increase its purchase of U.S. car parts and also to exchange data to monitor the purchases, the Commerce Department said.
+<PLACE>Japan</PLACE> had agreed to try to increase purchases of U.S.-made parts by Japanese car makers and to begin long term contracts for parts purchases, a Commerce department official said.
+He added that the agreement also said <PLACE>Japan</PLACE> agreed to try to devise a way to collect purchasing information in order to monitor progress in stepping up Japanese orders.
+The Commerce Department said in a statement last year that "statistics support the perception in the United States that American auto parts suppliers are not welcome in the inner circles of <PLACE>Japan</PLACE>'s auto companies and their traditional suppliers."
+It estimated that while <PLACE>Japan</PLACE>'s car firms sold almost five billion dlrs worth of parts in the United States in 1985, U.S. firms sold only one per cent of <PLACE>Japan </PLACE>'s 55 billion dlr market.
+<PLACE>France</PLACE>'s right wing government is facing growing pressure to modify its economic policies after revising down its 1987 growth targets and revising up its inflation forecasts for this year.
+And bank economists contacted by Reuters said they believed Prime Minister <PERSON>Jacques Chirac</PERSON> could be forced by slow growth and rising unemployment to reflate the economy later this year, perhaps in the autumn, to boost his prospects in Presidential elections due by April 1988. "
+But the head of the socialist CFDT union federation, Edmond Maire, meeting with <PERSON>Chirac</PERSON> today, renewed union demands already rejected by the government for indexation clauses to be built into future pay contracts to safeguard workers against higher prices.
+He announced after his meeting that Chirac had told him the government would spend two billion francs on a series of measures to boost employment and training Andre Bergeron, a widely respected leader of the moderate Force Ouvriere labour group, put similar demands to Chirac earlier in the week while the Communist-led CGT, the largest of <PLACE>France</PLACE>'s unions, declared the defence of its members earnings its top priority.
+But with unemployment nearing 11 per cent last month, and still rising, government supporters and some economic analysts said they were confident <PERSON>Chirac</PERSON> could resist union pay demands. "
+<PLACE>Japan</PLACE>'s unadjusted consumer price index (base 1985) fell 0.4
+Leaders of <PLACE>Italy</PLACE>'s five coalition parties have agreed to meet today to try to settle their differences which are mainly between Prime Minister Bettino Craxi's Socialist Party and the majority Christian Democrats.
+Monetary and credit growth rates in New Zealand are not expected to continue at current levels following the Reserve Bank's move to tighten liquidity late last year, Reserve Bank Governor <PERSON>Spencer Russell</PERSON> said.
+The monetary and credit growth figures for the December quarter were probably artifically inflated by unusually high growth in inter-institutional lending activity on the short term money market, <PERSON>Russell</PERSON> said in a statement.
+The bank moved to tighten liquidity when the initial signs of the recent expansion became apparent in September and October last year, <PERSON>Russell</PERSON> said.
+Available evidence suggests that corporate customers, including non-bank financial institutions, have been exploiting differences between interest rates on overdrafts with trading banks and rates in the call market," <PERSON>Russell</PERSON> said.
+pct the previous week, the Bank of <PLACE>Japan</PLACE> said.
+Japanese life insurers, trust banks and corporations, largely responsible for vitalising the U.S. Bond market in recent years, are now eyeing stockmarkets in the U.S., Britain, <PLACE>France</PLACE> and Hong Kong, fund managers said.
+<PLACE>Japan</PLACE>'s net buying in overseas stockmarkets this year may double or triple to 15-20 billion dlrs from seven billion in 1986, Shigeki Matsumoto of Nikko Securities Co Ltd, said.
+Insurance companies have put the dominant portion of their funds into the U.S., But will now invest in Britain, West Germany, <PLACE>France</PLACE> and other countries, Hashimoto said.
+Japanese investments in British equities have already turned active and the pace is likely to increase, said Andrew Sheaf, general manager of international equity activities at County Securities <PLACE>Japan</PLACE>. "
+Deregulation in <PLACE>France</PLACE> is also attracting Japanese interest, but stock investments there will be inhibited by worries about the French franc, they said.
+The combined assets of <PLACE>Taiwan</PLACE>'s offshore banking units (obu) rose to 6.28 billion U.S. Dlrs at end- January from 6.21
+<PLACE>Japan</PLACE> is expected to cut the base lending rate for state financial institutions to 5.5 pct from 6.2
+The base lending rate for state bodies such as the <PLACE>Japan</PLACE> Development Bank, People's Finance Corp and the finance corporations of local public enterprises usually moves in tandem with long-term prime rates, the sources said.
+The move suggested it had reached agreement with depositors using the bureau, the postal savings system of the Posts and Telecommunications Ministry and the <PLACE>Japan</PLACE> welfare annuity of the Ministry of Health and Welfare, the sources said.
+<PLACE>Japan</PLACE>'s ruling and opposition parties agreed to reopen talks on the budget for the fiscal year ending March 31 1988 when the Lower House Budget Committee meets next Tuesday, a parliamentary official said.
+Domestic demand is now expected to make no contribution to Australian economic growth in fiscal 1986/87, ending June 30, while net exports will account for all of the overall increase, Treasurer <PERSON>Paul Keating</PERSON> said here.
+But <PERSON>Keating</PERSON> said domestic demand could fall slightly this financial year and net export growth will provide the total source of gdp growth.
+<PERSON>Keating</PERSON> said the overall impact of the changed economic parameters is welcome as it appears to have contributed to a slightly more rapid correction in the current account deficit than first anticipated. "
+Partial indicators released since the last meeting of EPAC in December indicate that the 1986/87 budget strategy is broadly on track, <PERSON>Keating</PERSON> said. "
+<PERSON>Keating</PERSON> said it now seems likely that the 1986/87 inflation rate will exceed the budget forecast of eight pct. "
+<PERSON>Keating</PERSON> said the government expects economic growth to pick up moderately in 1987/88 due to a further significant rise in net exports and a very moderate but positive contribution from private domestic demand.
+The current account deficit will continue to show improvement in 1987/88," <PERSON>Keating</PERSON> said. "
+<PLACE>Thailand</PLACE> exported 84,960 tonnes of rice in the week ended February 24, up from 80,498 the previous week, the Commerce Ministry said.
+<PLACE>Thailand</PLACE> exported 689,038 tonnes of rice between the beginning of January and February 24, up from 556,874 tonnes during the same period last year.
+The <PLACE>Philippines</PLACE> will offer its commercial bank creditors an innovative pricing plan that will make debt payments through certificates of indebtedness as an alternative to cash, the authoritative Business Day newspaper said.
+Finance Secretary <PERSON>Jaime Ongpin</PERSON> told reporters yesterday the alternative proposal is designed to avoid an impasse when debt rescheduling talks reopen in New York on Tuesday.
+He did not give details but said, "It is a very useful alternative and in the end will permit the banks to say that they achieved their pricing target and will likewise permit the <PLACE>Philippines</PLACE> to say exactly the same thing."
+The documents said peso proceeds can be invested in selected industries under the <PLACE>Philippines</PLACE>" debt/equity program.
+<PERSON>Ongpin</PERSON> said Manila is sticking to its demand of a spread of 5/8 percentage points over London Interbank Offered Rates (LIBOR) for restructuring 3.6
+(The proposal) will give the banks a choice of 5/8ths or the alternative," <PERSON>Ongpin</PERSON> said. "
+"We don"t believe that there is going to be a problem on the accounting side," <PERSON>Ongpin</PERSON> said. "
+A majority of Americans disapprove of the way <PERSON>Ronald Reagan</PERSON> has handled the presidency and one-third believe he should resign, a new poll said.
+The poll conducted by Newsweek magazine said 53 pct of the respondents gave <PERSON>Reagan</PERSON> a negative performance rating, nearly double his disapproval rating before the Iran/Contra scandal.
+The magazine said, however, that <PERSON>Reagan</PERSON> remained personally popular.
+By better than a three-to-one ratio, a majority of those polled said they liked <PERSON>Reagan</PERSON> on a personal level.
+Their plan would perpetuate the status quo, allowing Brazil to retain almost all of its current 30 pct share of the export market, <PLACE>Colombia</PLACE> 17 pct, Ivory Coast seven pct and Indonesia six pct, with the rest divided among smaller exporters.
+Their proposals would give Brazil a smaller quota share and <PLACE>Colombia</PLACE> and Indonesia a larger share, and bring a new quota distribution scheme into effect now rather than later.
+<PLACE>Indonesia</PLACE>"s agriculture sector will grow by just 1.0
+Production of <PLACE>Indonesia</PLACE>"s staple food, rice, is forecast to fall to around 26.3
+mln tonnes in 1986, according to the annual report on <PLACE>Indonesia</PLACE>"s agricultural performance.
+The report said that <PLACE>Indonesia</PLACE>"s overall economic performance in calendar 1986 was about zero or even a slight negative growth rate, the lowest rate of growth since the mid-1960s.
+<PLACE>Kuwait</PLACE>"s Oil Minister, in remarks published today, said there were no plans for an emergency OPEC meeting to review oil policies after recent weakness in world oil prices.
+He denied <PLACE>Kuwait</PLACE> was pumping above its quota of 948,000 barrels of crude daily (bpd) set under self-imposed production limits of the 13-nation organisation.
+They named Kuwait and the United Arab Emirates, along with the much smaller producer <PLACE>Ecuador</PLACE>, among those producing above quota.
+<PLACE>Kuwait</PLACE>, they said, was pumping 1.2
+It is based on reports which said <PLACE>Kuwait</PLACE> has the ability to exceed its share.
+They suppose that because <PLACE>Kuwait</PLACE> has the ability, it will do so," the minister said.
+Sheikh Ali has said before that <PLACE>Kuwait</PLACE> had the ability to produce up to 4.0
+If we can sell more than our quota at official prices, while some countries are suffering difficulties marketing their share, it means we in <PLACE>Kuwait</PLACE> are unusually clever," he said.
+Sheikh Ali also delivered "a challenge to any international oil company that declared <PLACE>Kuwait</PLACE> sold below official prices."
+However, <PLACE>Kuwait</PLACE> had guaranteed markets for its oil because of its local and international refining facilities and its own distribution network abroad, he added.
+<PLACE>Ecuador</PLACE>"s deputy energy minister Fernando Santos Alvite said last Wednesday his debt-burdened country wanted OPEC to assign a lower official price for its crude, and was to seek this at talks this month of opec"s pricing committee.
+<PLACE>Indonesia</PLACE> appears to be nearing a political crossroads over measures to deregulate its protected economy, the U.S. Embassy says in a new report.
+<PLACE>Indonesia</PLACE>, the only Asian member of OPEC and a leading primary commodity producer, has been severely hit by last year"s fall in world oil prices, which forced it to devalue its currency by 31 pct in September.
+It primarily assesses <PLACE>Indonesia</PLACE>"s agricultural sector, but also reviews the country"s general economic performance.
+Indonesia"s economic changes have been welcomed by the <ORG>World Bank</ORG> and international bankers as steps in the right direction, though they say crucial areas of the economy like plastics and steel remain highly protected, and virtual monopolies.
+The report says <PLACE>Indonesia</PLACE>"s economic growth in calendar 1986 was probably about zero, and the economy may even have contracted a bit. "
+<PLACE>Indonesia</PLACE>, the largest country in South-East Asia with a population of 168 million, is facing general elections in April.
+A new <ORG>World Bank</ORG> loan of 300 mln dlrs last month in balance of payments support was given partly to help the government maintain the momentum of reform, the Bank said.
+Opposition politicians, businessmen and newspapers criticised <PLACE>India</PLACE>"s newly unveiled 1987/88 budget and large projected deficit of around 57 billion rupees.
+<PERSON>Gandhi</PERSON> announced small increases in poverty alleviation and education outlays but he ordered a hold-down on current expenditure in an attempt to rein in the budget deficit.
+<PERSON>Gandhi</PERSON> lowered import tariffs on some computer parts but otherwise did little to extended the economic liberalisation policy launched two years ago.
+Reaction in Bombay, <PLACE>India</PLACE>"s business capital, was generally unfavourable.
+Shares on The Bombay Stock Exchange, <PLACE>India</PLACE>"s biggest, fell in a post-budget session yesterday but brokers welcomed Gandhi"s proposal to set up a regulatory board for the securities industry.
+China will receive loans totalling 390 mln dlrs from Japan and the <ORG>World Bank</ORG> for investment in new highways and port facilities.
+The <PLACE>Japan</PLACE> Overseas Economic Co-operation Fund is to provide 260 mln dlrs towards China"s plans to improve its road network, the official New China News Agency reported.
+A 130 mln dlr <ORG>World Bank</ORG> loan will be used to build 12 new berths incorporating container handling systems at the northeast China port of Tianjin, the agency said.
+The <PLACE>Philippines</PLACE> will offer its commercial bank creditors an innovative pricing plan that will make debt payments through certificates of indebtedness as an alternative to cash, the authoritative Business Day newspaper said.
+Finance Secretary <PERSON>Jaime Ongpin</PERSON> told reporters yesterday the alternative proposal is designed to avoid an impasse when debt rescheduling talks reopen in New York on Tuesday.
+He did not give details but said, "It is a very useful alternative and in the end will permit the banks to say that they achieved their pricing target and will likewise permit the <PLACE>Philippines</PLACE> to say exactly the same thing."
+The documents said peso proceeds can be invested in selected industries under the <PLACE>Philippines</PLACE>' debt/equity program.
+<PERSON>Ongpin</PERSON> said Manila is sticking to its demand of a spread of 5/8 percentage points over London Interbank Offered Rates (LIBOR) for restructuring 3.6
+(The proposal) will give the banks a choice of 5/8ths or the alternative," <PERSON>Ongpin</PERSON> said. "
+"We don't believe that there is going to be a problem on the accounting side," <PERSON>Ongpin</PERSON> said. "
+<PLACE>China</PLACE>'s wheat crop this year is seriously threatened by plant pests and diseases, the New <PLACE>China </PLACE> News Agency said.
+More than 5 mln hectares of wheat-producing land in North <PLACE>China</PLACE> could be affected because relatively warm and dry weather had allowed bacteria and insect eggs to survive the winter, the agency added.
+<PLACE>China</PLACE>"s Ministry of Agriculture, Animal Husbandry and Fisheries has called for measures including the timely supply of pesticides to farmers to combat the threat, it said.
+Iran said its forces had captured one of <PLACE>Iraq</PLACE>'s strongest fortifications east of Basra on the Gulf War southern front in a major battle overnight.
+IRNA said the Iranian troops seized one of the strongest Iraqi fortifications and breached Iraqi defence lines southwest of Fish Lake, 10 kilometres (six miles) east of <PLACE>Iraq</PLACE>'s second largest city of Basra.
+<PLACE>Bangladesh</PLACE> police mounted a cross-country hunt for defaulters on bank loans, arresting four industrialists and issuing arrest warrants against 50 others for failure to repay overdue obligations.
+mln dlrs -- to <PLACE>Bangladesh</PLACE> Shilpa (Industrial) Bank.
+<PLACE>Iraq</PLACE> said its troops repelled an overnight attack by three divisions of Iranian Revolutionary Guards near Basra in southern <PLACE>Iraq </PLACE>.
+The Gulf oil state of <PLACE>Qatar</PLACE>, recovering slightly from last year's decline in world oil prices, announced its first budget since early 1985 and projected a deficit of 5.472
+<PLACE>Qatar</PLACE>, an OPEC member, has an output ceiling of 285,000 barrels per day.
+Only <PLACE>Kuwait</PLACE> has an official stock exchange, while other Gulf nations have yet to establish exchanges.
+Azzam said capital market instruments should be made available to all citizens and institutions of Gulf Cooperation Council (GCC) states -- <PLACE>Bahrain</PLACE>, Kuwait, Qatar, Oman, Saudi Arabia and the United Arab Emirates (UAE). Some moves had been taken in this direction, with <PLACE>Bahrain </PLACE> allowing GCC nationals to own up to 25 pct of locally incorporated companies.
+Azzam said Gulf money markets had received greater depth from the introduction of treasury bill offerings in <PLACE>Bahrain</PLACE> and the expansion of securities repurchase regulations in Saudi Arabia.
+But he added there is "no bond market to speak of" in Saudi Arabia, <PLACE>Qatar</PLACE>, Oman or the UAE, with the last Saudi riyal denominated bond issued in 1978.
+While <PLACE>Bahrain</PLACE> plans an official stock exchange and trading in Saudi Arabia has picked up, establishment of formal exchanges in Qatar, Oman and the UAE does not appear imminent, Azzam said.
+Coffee export quotas were suspended a year ago when prices soared in response to a drought which cut <PLACE>Brazil</PLACE>'s crop by nearly two-thirds.
+<PLACE>Brazil</PLACE> is the world's largest coffee producer and exporter.
+Canadian and Egyptian wheat negotiators failed to conclude an agreement on Canadian wheat exports to <PLACE>Egypt</PLACE> during talks last week, but the Canadian team will return to Cairo for further negotiations, Canadian embassy officials said.
+<PLACE>Indonesia</PLACE>'s wheat imports are expected to fall to 1.5 mln tonnes in calendar 1987 from 1.69
+<PLACE>Zambia</PLACE> will retain its foreign-exchange auction system despite the suspension of weekly auctions since January 24, President Kenneth Kaunda said. "
+Poland's talks in Washington with the World Bank and the <ORG>International Monetary Fund</ORG> (IMF) on the country's 33.5
+Wladyslaw Baka, head of <PLACE>Poland</PLACE>'s National Bank, told the official news agency PAP yesterday the talks were a step towards possible fresh credits or easier terms. "
+Much attention was given to the Polish delegation and the talks at both institutions involved displayed a lot of understanding for <PLACE>Poland</PLACE>'s difficult economic position," PAP quoted Baka as saying.
+Baka said he stressed <PLACE>Poland</PLACE> would meet its financial obligations to the U.S., "but not in a short time, and not without major changes in the Polish economy as well as a cooperative stand on the part of its foreign economic partners."
+Since Poland rejoined the IMF last June, after a 36-year absence, IMF and <ORG>World Bank</ORG> teams have visited Warsaw on fact-finding missions on at least three occasions.
+<PLACE>Poland</PLACE> has said it will not be able to meet interest repayments and debt principle falling due this year.
+<PLACE>Indonesia</PLACE>'s raw sugar output is likely to be 1.8 mln tonnes in calendar 1987, unchanged from 1986 and below the government's 1987 forecast of 2.5
+<PLACE>Indonesia</PLACE> bought 162,500 tonnes of raw sugar on world markets in late 1986, the report said.
+The embassy estimated <PLACE>Indonesia</PLACE>'s calendar 1986 raw sugar production at 1.8 mln tonnes, against a government estimate of 1.99
+It said that <PLACE>Indonesia</PLACE>'s move into sugar self-sufficiency in 1984 may have been short-lived.
+<ORG>European Community</ORG> (EC) agriculture ministers meet later today to consider a package of deep cuts in prices and subsidies after a week marked by strong protests by European farmers, Community officials said.
+Indonesia is unlikely to import copra from the <PLACE>Philippines</PLACE> in 1987 after importing 30,000 tonnes in 1986, the U.S. Embassy's annual agriculture report said.
+The report said the 31 pct devaluation of the Indonesian rupiah, an increase in import duties on copra and increases in the price of <PLACE>Philippines</PLACE> copra have reduced the margin between prices in the two countries.
+<PLACE>Indonesia</PLACE>'s copra production is forecast at 1.32 mln tonnes in calendar 1987, up from 1.30
+Philippine Finance Secretary <PERSON>Jaime Ongpin</PERSON> starts negotiations with the country's 12-bank advisory committee in New York tomorrow, buoyed by an economy on the mend and political stability one year after President Corazon Aquino took power, central bank officials said.
+Chile's 15-1/2 year rescheduling accord at one percentage point over London Interbank Offered Rates (LIBOR) and Venezuala's 21 billion dlr package at 7/8 point over LIBOR portend well for the <PLACE>Philippines</PLACE>, despite Brazil's repayment suspension last week, the officials said.
+<PERSON>Ongpin</PERSON> wants 5/8 point over the benchmark rate, which is currently hovering around 6-1/2 pct.
+The banks are said to be firm on the 1-1/8 points offered when the last round of negotiations collapsed on November 7. <PERSON>Ongpin</PERSON> said every 1/16 point over LIBOR meant an additional 5.1
+<PLACE>Japan</PLACE>'s customs-cleared trade surplus in the first 20 days of February jumped to 3.58 billion dlrs from 1.94
+Nippon, which has no plans to restore output to the 48,000 tonnes a year at which it was working until late 1986, will become <PLACE>Japan</PLACE>'s only smelter.
+<PLACE>Indonesia</PLACE>'s palm oil output is expected to rise and exports to increase, the U.S. Embassy said in its annual report on <PLACE>Indonesia </PLACE>'s agriculture sector.
+<PLACE>Indonesia</PLACE>'s exports of tea and cocoa will continue to rise in calendar 1987 but coffee exports are forecast to dip slightly in 1987/88 (April-March) as the government tries to improve quality, the U.S. Embassy said.
+Production of cocoa in <PLACE>Indonesia</PLACE> increased to 32,378 tonnes in calendar 1985 from 10,284 tonnes in 1980.
+The report forecasts that in calendar 1987, <PLACE>Indonesia</PLACE>'s CTC (crushed, torn and curled) tea exports will increase significantly with the coming on stream of at least eight new CTC processing plants.
+<PLACE>Indonesia</PLACE> plans to diversify its tea products by producing more CTC tea, the main component of tea bags.
+The Stock Exchange of <PLACE>Singapore</PLACE> (SES) plans to introduce electronic trading of shares listed on the National Association of Securities Dealers Automated Quotation System (NASDAQ) in the U.S. And on London's Stock Exchange Automated Quotation System, banking sources said.
+Monetary Authority of <PLACE>Singapore</PLACE> (MAS) sources told Reuters they supported the proposed linking of computer trading systems on the three exchanges, and the banking sources said local financial support for the plan existed.
+Macklin said if an agreement were reached it would move the three exchanges towards 24-hour trading, with <PLACE>Singapore</PLACE> filling a gap when no trading takes place.
+The <PLACE>Singapore</PLACE>, London and New York authorities have agreed in principle on how the three exchanges would trade and transfer information among the different time zones, but some details still have to be worked out, a senior <PLACE>Singapore </PLACE> bank director said.
+Questions remain concerning investor willingness to deploy sufficient capital in <PLACE>Singapore</PLACE> to ensure adequate market liquidity and communication links to the other three centres.
+But if agreement is reached, <PLACE>Singapore</PLACE> will have a head start over the other Asian financial centres in Hong Kong, Toyko and Australia, he said.
+On February 18 the SES created the Stock Exchange of <PLACE>Singapore</PLACE> Dealing and Automated Quotation System (SESDAQ), modelled on NASDAQ.
+At present SESDAQ is trading the shares of only one company, the government-owned <PLACE>Singapore</PLACE> National Printers Ltd (SNP), but its turnover has been fairly active, and other small firms have said they plan to seek listings soon.
+The total value of <PLACE>Indonesia</PLACE>'s exports fell in calendar 1986 to 15.995 billion dlrs from 18.762
+The value of <PLACE>Indonesia</PLACE>'s non-oil exports also fell in calendar 1986, to 5.768 billion dlrs from 5.983
+&lt;Ecolab Co> of the United States signed a contract with North <PLACE>China</PLACE> Industrial Co to set up the first Sino-U.
+S. Joint venture in <PLACE>China</PLACE> to make rinsing agents, the New <PLACE>China </PLACE> News Agency said.
+China has signed a 130 mln dlr loan agreement with the <ORG>World Bank</ORG> to partly finance 12 new berths with an annual capacity of 6.28
+mln tonnes at the 20 mln tonne a year capacity Tianjin port, the New <PLACE>China</PLACE> News Agency said.
+<PLACE>China</PLACE> will provide 370 mln yuan for the project and a Chinese company won a bid against 12 other firms from seven countries to do the foundation work, it said.
+Trading volume on the <PLACE>Singapore</PLACE> International Monetary Exchange (Simex) hit a record 122,819 contracts in February, surpassing the previous record of 116,767 in September last year, the exchange said in a statement.
+&lt;Autorama Inc>, a distributor for Ford Motor Co &lt;F> in <PLACE>Japan</PLACE>, is considering importing cars made by &lt;Mazda Motor Manufacturing (USA) Corp>, (MMUC), a wholly owned U.S. Subsidiary of Mazda Motor Corp &lt;MAZT.
+<PLACE>Iraq</PLACE> has secured agreement to defer outstanding payments on a 500 mln dlr syndicated euroloan following five months of negotiations with creditor banks.
+Banking sources said the rescheduling is part of <PLACE>Iraq</PLACE>'s continuing effort to defer payments of foreign debt as its economy comes under strain from the Gulf War and soft world oil prices.
+<PLACE>Iraq</PLACE> informed the 37 banks in the loan syndicate last September it could not meet the remaining four principal repayments totalling 285 mln dlrs, and missed the first of these for 71.25
+Bank reaction to <PLACE>Iraq</PLACE>'s rescheduling request has been one of resignation, with many bankers seeing little alternative for Baghdad's economic planners.
+<PLACE>Iraq</PLACE> is estimated to have foreign debt of about 50 billion dlrs, although about half is thought to be in the form of loans from its Gulf Arab allies, particularly Saudi Arabia and Kuwait.
+The bulk of <PLACE>Iraq</PLACE>'s commercial debt - excluding loans by its allies in the Gulf War - is in the form of trade financing.
+billion <PLACE>Taiwan</PLACE> dlrs of certificates of deposit (CD), bringing the total so far this year to 86.21 billion, a bank official told Reuters.
+<PLACE>China</PLACE>'s state and collective firms do not have enough cash to operate imported equipment, so banks will issue more bonds to raise funds, a Chinese bank official was quoted by the <PLACE>China </PLACE> Daily as saying.
+<PLACE>India</PLACE>'s sugar output to January 31 in the 1986/87 season (October/September) rose to 3.66 mln tonnes from 3.46
+The start of trading on the new <PLACE>Singapore</PLACE> Government Securities Market has been postponed until late March or early April because legislative amendments still need parliamentary approval, banking sources said.
+The new bill market, intended to establish a base for a wider capital market and to encourage private bond issues in <PLACE>Singapore</PLACE>, was supposed to be launched today.
+William K.K. Wong, managing director of Indosuez Asia ( <PLACE>Singapore</PLACE>) Ltd, said there is no real obstacle to prevent the new market from taking off.
+Lawrence Yeo, director of Citicorp Investment Bank ( <PLACE>Singapore</PLACE>) Ltd, said the market's success depends on domestic participation.
+>. They will underwrite the Monetary Authority of <PLACE>Singapore</PLACE> (MAS) auctions, maintain market liquidity and channel open-market operations, MAS said.
+&lt;Citicorp Investment Bank ( <PLACE>Singapore</PLACE>) Ltd>, &lt;Indosuez Asia ( <PLACE>Singapore </PLACE>) Ltd> and &lt;Credit Suisse First Boston Asia Ltd> will be recognised as registered dealers.
+<PLACE>Sweden</PLACE>'s Wallenberg group fought back a bid by the London-based Swedish financier Erik Penser to secure a large stake in Swedish Match &lt;SMBS ST>, one of the companies at the core of their business empire.
+A statement issued by the Wallenberg holding companies AB Investor and Forvaltnings AB Providentia said they had taken over an option held by Nobel Industrier <PLACE>Sweden</PLACE> AB to acquire 33 pct of the voting rights in Swedish Match.
+Soybean imports are forecast to rise to 425,000 tonnes in 1987/88 (October/September) from an estimated 300,000 in 1986/87 and 375,000 in 1985/86, the U.S. Embassy said in its annual report on <PLACE>Indonesia</PLACE>'s agriculture.
+It said <PLACE>Indonesia</PLACE> did not achieve its goal of self-sufficiency in soybean output in calendar 1986 because it did not meet a planned increase in area planted and because yields have remained below target.
+<PLACE>China</PLACE> is the main supplier with a 79 pct share, while the U.S. Provides the rest, it said. "
+We're not very enthusiastic about <PLACE>Nigeria</PLACE>'s debt rescheduling," said a senior official at a leading Japanese bank.
+A team of Nigerian officials will meet with Japanese creditor banks here later this week to seek Japanese support for a proposed refinancing of part of <PLACE>Nigeria</PLACE>'s 19 billion dlr foreign debt, bankers said.
+The senior bank official said a majority of Japanese bank creditors are unwilling to provide any new credits to <PLACE>Nigeria</PLACE> although about 80 pct have reluctantly agreed to accept rescheduling of part of their existing loans. "
+The problem is <PLACE>Nigeria</PLACE> has so far neglected us Japanese creditors and we have yet to receive a clear-cut picture of the nation's debt situation," said another Japanese bank official.
+He said Japanese bankers were unaware of the exact extent of Western commercial bank exposure to <PLACE>Nigeria</PLACE> and were uncertain about the proposed refinancing package details.
+Some 21 Japanese banks have loans outstanding to <PLACE>Nigeria</PLACE>, representing about four pct of the credit extended by Western commercial institutions, banking sources said.
+They said <PLACE>Nigeria</PLACE> would probably request about 320 mln dlrs in fresh private bank money and rescheduling of some 1.4
+Japanese banks want <PLACE>Nigeria</PLACE> to make clear its debt repayment scheme as well as its economic reconstruction plans during the two-day meeting here, the sources added. "
+Bank of Japan officials said they hope Japanese commercial banks will help <PLACE>Nigeria</PLACE> overcome its debt problems.
+L> has the most exposure to <PLACE>Nigeria</PLACE>'s debt and is chairing a bank steering committee looking at the problem, the banking sources said.
+Prime Minister <PERSON>Yasuhiro Nakasone</PERSON> is likely to leave office this summer amid opposition to his controversial tax-reform package, political analysts said.
+They said <PERSON>Nakasone</PERSON>'s reputation as a skilled politician has suffered irreparable damage from his support of a five pct sales tax planned for January 1988. "
+<PERSON>Nakasone</PERSON> is trying to carry out a drastic tax reform at the end of his administration, which is not only impossible but also is very irresponsible as a politican," Rei Shiratori, professor of politics at Dokkyo University, told Reuters. "
+<PERSON>Nakasone</PERSON> will almost certainly step down as soon as parliament approves the sales tax, probably in the summer," Shiratori said.
+Some ruling Liberal Democratic Party (LDP) members of parliament have spoken against the tax, which <PERSON>Nakasone</PERSON> says is needed to balance planned cuts in income and corporate taxes.
+<PERSON>Nakasone</PERSON> today called for disciplinary action against LDP members who oppose the tax. "
+"A proposed sales tax has become a political issue, partly because <PERSON>Nakasone</PERSON> breached his election pledge against introducing it," Shiratori said. "
+To lure opposition parties back to parliament after the LDP pushes through the tax bills, the <PERSON>Nakasone</PERSON> cabinet will have to resign, Sato said. "
+<PLACE>Thailand</PLACE>'s Commerce Ministry announced a new tapioca export quota of 737,987 tonnes for the European Community against 762,860 tonnes for the previous allocation.
+mln tonne overall quota that <PLACE>Thailand</PLACE> obtained from the EC for calendar 1987.
+Mine and industry officials from most member states of the <ORG>Association of Tin Producing Countries</ORG> (ATPC) say they have found ways to limit group exports to 96,000 tonnes in the year started March 1, according to views polled by Reuter correspondents.
+Under the ATPC plan, Malaysia has been allocated an export quota of 28,526 tonnes, <PLACE>Indonesia</PLACE> 24,516, Thailand 19,000, Bolivia 13,761, Zaire 1,736 and Nigeria 1,461.
+<PLACE>Australia</PLACE> has said it is not setting any export quota.
+Comment from officials in <PLACE>Zaire</PLACE> was unavailable.
+Mine officials in <PLACE>Malaysia</PLACE>, the world's leading producer, said only 188 mines will be allowed to operate to ensure that output is limited to around 31,500 tonnes in the year started March 1. Chief Inspector of Mines Redzuan Sumun told Reuters that excess output of some 3,000 tonnes after exports of 28,500 in the one-year quota period would be kept in the national stock.
+Mine owners in <PLACE>Malaysia</PLACE> have welcomed the ATPC export curb and asked the government not to issue new mining licences.
+ATPC chairman and <PLACE>Indonesia</PLACE>'s Mining and Energy Minister Subroto has pledged his country's support for the export curb.
+A spokesman for the state-owned tin mining company PT Tambang Timah told Reuters it would be easy for <PLACE>Indonesia</PLACE> to stick to an export quota of 24,516 tonnes because this was close to exports in calendar 1986 of 24,636.
+In Bangkok, Thai Industry Minister Pramual Sabhavasu said <PLACE>Thailand</PLACE> would keep to its 19,000 tonne quota and added this would not cause the local industry hardship at current prices.
+To insure adherence, the industry ministry and sole tin exporter <PLACE>Thailand</PLACE> Smelting and Refining Co would encourage bigger stockpiles, and income tax exemptions would be permitted, he said.
+<PLACE>Thailand</PLACE> exported 18,367 tonnes in 1986, up from 17,359 in 1985, Pramual said.
+<PLACE>Bolivia</PLACE> said it expects to export less tin this year than its allocated 13,761 tonne quota.
+Mining Minister Jaimie Villalobos told Reuters in La Paz that <PLACE>Bolivia</PLACE> expected to export about 9,000 tonnes of tin in calendar 1987.
+He said this was due to the sacking after the tin crisis of October 1985 of about 20,000 of the 28,000 workers at the state mining company Comibol, which produces more than 80 pct of <PLACE>Bolivia</PLACE>'s total exports.
+Mines, Power and Steel Minister Bunu Sheriff Musa said in Lagos that <PLACE>Nigeria</PLACE> would have no difficulty keeping within its ATPC quota of 1,461 tonnes because its metals output had declined due to poor demand and high production costs.
+Industry sources told Reuters that <PLACE>Nigeria</PLACE>'s output was less than 1,000 tonnes last year.
+Non-members <PLACE>Brazil</PLACE> and China have pledged to cooperate with the ATPC and limit their exports to 21,000 and 7,000 tonnes respectively during the quota period.
+Gold output in the northeast <PLACE>China</PLACE> province of Heilongjiang rose 22.7
+pct in 1986 from 1985's level, the New <PLACE>China</PLACE> News Agency said.
+It said the province, <PLACE>China</PLACE>'s second largest gold producer after Shandong, plans to double gold output by 1990 from the 1986 level.
+<PLACE>China</PLACE> does not publish gold production figures.
+<PLACE>China</PLACE> is selling more gold abroad to offset large trade deficits in recent years, western diplomats said.
+The combined profits of <PLACE>Japan</PLACE>'s major corporations, excluding financial institutions, are forecast to fall 19.2
+Lebanese President Amin Gemayel has agreed to three key points in a new Syrian-brokered plan aimed at ending civil war in <PLACE>Lebanon</PLACE>, official sources said.
+They said the Maronite Christian leader has agreed to give up Cabinet voting rights, to ensure that the Prime Minister is elected by parliament and to the abolition in principle of <PLACE>Lebanon</PLACE>'s current power-sharing system.
+Prime Minister <PERSON>Rajiv Gandhi</PERSON>'s fiscal 1987/88 budget has sparked speculation that a large deficit will push up India's moderate inflation rate and that the country's stock markets will experience prolonged uncertainty, economists, politicians and stockbrokers told Reuters.
+Presenting the budget to parliament on Saturday, Prime Minister <PERSON>Gandhi</PERSON> said a cabinet committee would be appointed to trim large non-development expenditures.
+But few analysts have taken <PERSON>Gandhi</PERSON>'s assurance seriously.
+Lal Krishna Advani, president of the opposition Bharatiya Janata party, said <PERSON>Gandhi</PERSON>'s failure to mention specific measures to cut non-development expenses will push up prices.
+Avinash Purulkar, chief manager of the state-owned Union Bank of <PLACE>India</PLACE>, said the annual inflation rate may double to around 15 pct in 1987/88 as the government prints more currency notes to cover the deficit.
+The Bank of <PLACE>Japan</PLACE> decided at a policy board meeting to promote further interest rate liberalisation by lowering the minimum denomination of regulation-free large deposits and by raising the interest rate ceiling on money market certificates (MMCs), a central bank official said.
+State-owned ( <PLACE>Taiwan</PLACE> Power co) will boost its domestic borrowings to further cut its foreign debt in line with a government policy to trim the island's huge foreign exchange reserves, a company official said.
+The company's foreign debt, mainly from the Japanese and U.S. Banks, was cut nearly by half to 66.2 billion <PLACE>Taiwan</PLACE> dlrs equivalent in calendar 1986 from 124.6
+Its domestic borrowings however rose to 105.2 billion <PLACE>Taiwan</PLACE> dlrs from 80.6
+<PLACE>Taiwan</PLACE>'s foreign exchange reserves now stood at 50 billion U.S. Dlrs, due to its 1986 record trade surplus of 15.6
+An unidentified foreign commodities company is pursuing its offer to buy the company and a subsidiary &lt;Coffee Industries <PLACE>Singapore</PLACE>>, banking sources said.
+Teck Hock owes over 100 mln <PLACE>Singapore</PLACE> dlrs and the nine banks have been extending debt repayments since December 23.
+Meanwhile, the value of exports of agricultural products from the <PLACE>Netherlands</PLACE> in calendar 1986 fell 5.4
+<PLACE>Pakistan</PLACE> will hold an import tender tomorrow for 6,000 tonnes of refined bleached deodorised palm oil for second half March shipments, traders said.
+<PLACE>Hungary</PLACE> is to embark on a new series of austerity measures to tackle a budget deficit which tripled last year after quadrupling in 1985.
+Asked if these measures were being taken under pressure from the <ORG>International Monetary Fund</ORG> (IMF), Boesze said: "
+Boesze said preliminary figures showed that <PLACE>Hungary</PLACE>'s state budget deficit rose to a preliminary 47 billion forints last year from 15.8
+He said <PLACE>Hungary</PLACE> plans to introduce price reform at the beginning of 1988 at the same time as personal taxation and value added tax.
+<PLACE>Hungary</PLACE> introduced a bankrupcty law last September in an attempt to shake out surplus labour from inefficient firms.
+<PLACE>Hungary</PLACE>'s net hard currency debt leapt by 54 pct last year to 7.7 billion dlrs, according to provisional figures, while trade with Western countries plunged into a deficit of more than 400 mln dlrs from a 1.2 billion dlr surplus just two years earlier.
+<PLACE>Sweden</PLACE>'s ruling Social Democratic Party gave full power to the government to decree unilateral trade sanctions against South Africa, Prime Minister Ingvar Calrsson said.
+Carlsson told a news conference the party decided the fight against apartheid took priority over <PLACE>Sweden</PLACE>'s traditional policy of only adopting sanctions with the backing of the U.N. Security Council.
+Machines sold in <PLACE>Japan</PLACE> are fitted with a computer chip to prevent copying through a digital signal.
+<PLACE>Italy</PLACE>'s strong economic revival has led some observers to talk of miracles and created euphoria in some quarters about future growth prospects, but many Italian experts warn that the current wave of optimism is excessive. "
+..Foreign observers always oscillate in the case of <PLACE>Italy</PLACE> between complete pessimism and unwarranted optimism," says Luigi Spaventa, one of <PLACE>Italy </PLACE>'s leading economists and a professor at Rome University.
+According to Spaventa, these violent swings of mood have been occurring for the last 15 years, with <PLACE>Italy</PLACE> one minute seen as the "bad boy of Europe" and unable to raise a dollar and the next a worker of miracles and basking in admiration, "I think there's a lot of exaggeration.
+..Once it used to be the underground economy and all the correspondents of foreign newspapers flocked to <PLACE>Italy</PLACE> to study this.
+Spaventa, in tune with other economists and industrialists here, stress <PLACE>Italy</PLACE>'s recent achievements, particularly the dramatic and solid recovery in the fortunes of industrial enterprises, but warns that the economy is still vulnerable.
+Expectations by some experts that <PLACE>Italy</PLACE> is poised to replace Britain as the world's fifth largest economy have also boosted optimism.
+<PLACE>Italy</PLACE> itself has made it clear it is not happy with what it feels to be its second-rate status among the major industrialised countries.
+<PLACE>Italy</PLACE> said its exclusion from the meeting violated an agreement reached in Tokyo last year to let <PLACE>Italy </PLACE> and Canada attend meetings held by the five whenever discussions concerned managing the international monetary system.
+But <PLACE>Italy</PLACE> needs first to tackle some fundamental problems still facing its economy, economists and industrialists say. "
+He says that while <PLACE>Italy</PLACE>'s recent achievements are indeed cause for satisfaction and optimism, the focus now should be on the problems still remaining rather than those already solved.
+Another problem is <PLACE>Italy</PLACE>'s reliance on imported raw materials.
+This factor actually worked sharply in <PLACE>Italy</PLACE>'s favour last year, when lower energy costs helped slash the country's trade deficit to 3,717 billion lire by year end from 23,085 billion lire in 1985.
+If <PLACE>Italy</PLACE> truly wants to be counted among the world's top industrialised nations, it also needs to tighten up stockmarket operating procedures and encourage firms to supply more quality information about their activities, economists say.
+<PLACE>Italy</PLACE> has no controls on insider trading.
+<PLACE>Japan</PLACE> and the U.S. Kick off top-level trade talks tomorrow amid signs officials from both sides are growing increasingly irritated with each other.
+The talks, held annually at sub-cabinet level to review the whole gamut of U.S./ <PLACE>Japan</PLACE> economic relations, will pave the way for American Secretary of State George Schultz's one day stop-over here at end-week on his way home from China.
+Faced with growing Congressional protectionist pressure, the U.S. Administration is pressing <PLACE>Japan</PLACE> for speedy action to reduce its still huge trade surplus, U.S. Officials said. "
+The official said the 40 pct rise of the yen over the last 18 months has hit <PLACE>Japan</PLACE> hard, forcing exporters to slash spending and lay off workers to make up for lost sales abroad.
+The talks begin tomorrow with high-level discussions on the economic structures of both countries and how they affect the bilateral trade imbalance, which last year amounted to 51.48 billion dlrs in <PLACE>Japan</PLACE>'s favour.
+On the following two days, the topics will range from multilateral trade talks under the auspices of the <ORG>General Agreement on Tariffs and Trade</ORG> (GATT) to such bilateral trade problems as super computers.
+Some U.S. Officials complained <PLACE>Japan</PLACE> has no intention of boosting domestic demand and imports, as Washington wants.
+<PLACE>Japan</PLACE> seems particularly peeved at being singled in a draft trade bill before the Senate as a nation following adverserial trade practices. "
+It condemns <PLACE>Japan</PLACE> without due process," one Japanese official said.
+<PLACE>Japan</PLACE> is also not totally happy with the administration's trade bill, particularly its proposal to establish reciprocal access to foreign markets as one criteria for retaliatory trade action by the U.S., Officials said.
+<PLACE>India</PLACE> will hold a buying tender on Wednesday, March 4, for two to three cargoes of white sugar for March/April shipment, traders said.
+The <ORG>European Community</ORG> Commission said it has opened an enquiry into allegations that the Soviet Union is dumping mercury on the European market at below-cost prices.
+The <PLACE>Philippines</PLACE> will offer commercial bank creditors an innovative pricing plan that will make debt payments through certificates of indebtedness instead of cash, the authoritative Business Day newspaper said.
+Finance Secretary <PERSON>Jaime Ongpin</PERSON> told reporters Saturday that the alternative proposal is designed to avoid an impasse when debt rescheduling talks reopen in New York on Tuesday.
+He did not give details but said, "It is a very useful alternative and in the end will permit the banks to say that they achieved their pricing target and will likewise permit the <PLACE>Philippines</PLACE> to say exactly the same thing."
+The peso proceeds can be invested in selected industries under the <PLACE>Philippines</PLACE>' debt/equity program.
+<PERSON>Ongpin</PERSON> said Manila is sticking to its demand of a spread of 5/8 percentage points over London interbank offered Rates (LIBOR) for restructuring 3.6
+(The proposal) will give the banks a choice of 5/8ths or the alternative," <PERSON>Ongpin</PERSON> said. "
+"We don't believe that there is going to be a problem on the accounting side," <PERSON>Ongpin</PERSON> said. "
+<PLACE>Argentina</PLACE>'s chief debt negotiator said he was confident of a prompt accord with international creditor banks for rescheduling the country's foreign debt. "
+I'm quite optimistic about carrying out a serious and quick negotiation," Treasury Secretary <PERSON>Mario Brodersohn</PERSON> said on return from talks in New York with leading U.S. and world financial officials.
+<PLACE>Argentina</PLACE> is currently negotiating terms with the steering committee for its creditor banks that will allow it to meet four pct economic growth targets in 1987.
+<PERSON>Brodersohn</PERSON> said the growth targets were not negotiable, but Argentina did not want to follow Brazil in suspending payments on its foreign debt.
+He said <PLACE>Argentina</PLACE> was seeking 2.15
+The United States and a group of other industrial nations on Thursday granted <PLACE>Argentina</PLACE> a 500 mln dlr bridge loan.
+Brodersohn held talks in New York with U.S. Treasury Secretary James Baker, Federal Reserve chief Paul Volcker and <ORG>International Monetary Fund</ORG> (IMF) head Michel Camdessus.
+Deputy oil ministers from six Gulf Arab states will meet in <PLACE>Bahrain</PLACE> today to discuss coordination of crude oil marketing, the official Emirates news agency WAM reported.
+Four of the GCC states - Saudi Arabia, the United Arab Emirates (UAE), <PLACE>Kuwait</PLACE> and Qatar - are members of the Organiaation of Petroleum Exporting Countries (OPEC) and some face stiff buyer resistance to official OPEC prices.
+Monsod told Reuters Finance Secretary <PERSON>Jaime Ongpin</PERSON> had decided not to insist on Manila's creditor banks pledging to fund half of a projected 1988/92 financing gap of seven billion dlrs. "
+He ( <PERSON>Ongpin</PERSON>) wants to finish the negotiations as fast as possible.
+billion dlrs of the <PLACE>Philippines</PLACE>' total foreign debt of 27.8
+<PERSON>Ongpin</PERSON> said last month the country's consultative group of multilateral and bilateral aid donors had endorsed a growth facility to bridge the funding gap.
+<PERSON>Ongpin</PERSON> acknowledged there was a dispute over tactics. "
+she said, adding <PERSON>Ongpin</PERSON>'s stand was not good for the economy. "
+It ( <PERSON>Ongpin</PERSON>'s stand) is going to make it much more difficult for the economy to attain its growth targets," Monsod said. "
+She said if the banks refused to lend the new money, the <PLACE>Philippines</PLACE> should copy Brazil's action last week in freezing all debt repayments. "
+<PLACE>Japan</PLACE> appears resolved to encourage domestic demand for its goods instead of relying on exports to support its economy, Jean-Claude Paye, Director General of the Organization for Economic Cooperation and Development (OECD), told a news conference.
+Paye has been in <PLACE>Japan</PLACE> exchanging views on problems confronting the world economy and the role of the OECD.
+He met with Prime Minister <PERSON>Yasuhiro Nakasone</PERSON>, Foreign Minister Tadashi Kuranari, Bank of Japan Governor Satoshi Sumita and other high-ranking Japanese officials.
+<PLACE>Kuwait</PLACE>'s oil minister said in a newspaper interview that there were no plans for an emergency OPEC meeting after the recent weakness in world oil prices.
+He also denied that <PLACE>Kuwait</PLACE> was pumping above its OPEC quota of 948,000 barrels of crude daily (bpd). Crude oil prices fell sharply last week as international oil traders and analysts estimated the 13-nation OPEC was pumping up to one million bpd over its self-imposed limits.
+<PLACE>Taiwan</PLACE> plans another round of deep tariff cuts this year to help narrow its trade surplus with the U.S., A senior economic planner said.
+Wang Chao-Ming, vice-chairman of the council for economic planning and development, told Reuters <PLACE>Taiwan</PLACE> would further reduce import tariffs on 1,700 products sometime in the second half of this year.
+The United States, <PLACE>Taiwan</PLACE>'s main trading partner, has said the island's import tariffs, still ranging from a high of almost 60 pct, were unacceptable.
+<PLACE>Taiwan</PLACE>'s trade surplus with the United States hit 13.6
+The surplus has boosted foreign exchange reserves to 50 billion dlrs, which Wang said made <PLACE>Taiwan</PLACE> a target for U.S. Protectionism.
+Wang said the trade surplus and the reserves weakened <PLACE>Taiwan</PLACE>'s position in talks with Washington over export quotas, particularly for shoes, textiles and machine tools which are among the island's main export-earners.
+A special Taiwanese trade delegation leaves for Washington tomorrow to try to renegotiate an agreement signed last year limiting exports of <PLACE>Taiwan</PLACE> textiles.
+Under the accord, <PLACE>Taiwan</PLACE>'s textile export growth was limited to 0.5 pct each year until 1988.
+pct monthly rate, Finance Minister <PERSON>Edouard Balladur</PERSON> said.
+<PERSON>Balladur</PERSON> said the upward revision of the inflation target, which the government had initially set at two pct for this year, should not affect wage expectations for this year. "
+<PLACE>Brazil</PLACE> would not have suspended payments on debt owed to foreign banks if it had received more and faster financing from official lending agencies, Finance Minister Dilson Funaro said.
+He said he would not seek more money from the <ORG>International Monetary Fund</ORG> to which Brazil paid 922 mln dlrs last year and said Brazil's problems could not be solved by IMF intervention. "
+Asked if <PLACE>Brazil</PLACE> would have continued making payments of monthly interest to its foreign commercial bank lenders if official lending agencies had provided more funds, he replied, "Yes, because our country did not receive financing from these agencies."
+<PLACE>Brazil</PLACE>, with foreign debt totaling 108 billion dlrs, stunned the banking community last week by suspending payments on some 68 billion dlrs owed to private banks.
+Funaro said <PLACE>Brazil</PLACE> had paid 44 billion dollars to the World Bank and other lending agencies and commercial banks in the past four years and got only 11 billion dlrs in loans.
+Some mechanism has to be found to finance a country like <PLACE>Brazil</PLACE>," Funaro said.
+He did not specify what steps he had in mind but said he would like to see "automatic" official lending when needed so that <PLACE>Brazil</PLACE> would not have to dip into its dwindling reserves, now reported to be below four billion dlrs.
+Funaro said <PLACE>Brazil</PLACE> had the world's third-largest trade surplus and estimated the 1987 surplus would be at least eight billion dlrs.
+<PLACE>Brazil</PLACE>'s central cank President Francisco Gros said he sent a telex to creditor banks Friday to clarify confusion over <PLACE>Brazil </PLACE>'s request that banks expedite procedures for renewal of short-term interbank credit and trade credit lines.
+Spanish farmers demanding a better deal from the <ORG>European Community</ORG> blocked roads and staged protest rallies this weekend before their leaders announced a truce to negotiate with the government.
+<PLACE>Spain</PLACE> joined the community at the start of last year and farmers say they have suffered competition from EC imports without sufficient compensation.
+<PLACE>Switzerland</PLACE> recorded last year its first overall surplus in government finances since 1974, ending with a net gain worth 905 mln Swiss francs, the Finance Ministry said.
+<PLACE>Pakistan</PLACE> cotton production during the current crop season (Sept/March) reached 7.7
+Official sources said <PLACE>Pakistan</PLACE> was likely to use 3.4
+<PLACE>Pakistan</PLACE> produced 540 mln kilos of yarn in fiscal year 1985/86 and exported 157 mln.
+&lt;Alcan Aluminiumwerke GmbH>, a subsidiary of Alcan Aluminium Ltd &lt;AL.N> of <PLACE>Canada</PLACE>, said it plans to close its aluminium smelter in Ludwigshafen at the end of June.
+After a week that left his presidency shaken and his popularity at a new low, <PERSON>Ronald Reagan</PERSON> and his new chief of staff today begin trying to revive an administration tattered by the Iran-contra arms scandal.
+Reagan and former Senate Republican leader <PERSON>Howard Baker</PERSON>, whose appointment as White House chief of staff won bipartisan praise, will begin mapping strategy to deal with scathing criticism by a report on his failed bid to trade U.S. arms with Iran for help in freeing Ameican hostages in Lebanon.
+Among the chores facing <PERSON>Reagan</PERSON>'s new inner circle is assessing the damage the 300-page Tower commission report has done to the nomination of Robert Gates to succeed William Casey as the new head of the Central Intelligence Agency.
+Aides said that Gates' future would be given high priority by <PERSON>Baker</PERSON>.
+He has the smell of <PLACE>Iran</PLACE> on him," said former Nevada Sen.
+and <PERSON>Reagan</PERSON> confidant Paul Laxalt. "
+Regan, the former Wall Street executive and Treasury secretary who has been the president's top aide for the past two years, was assigned the lion's share of the blame for the botched handling of the <PLACE>Iran</PLACE> arms sale.
+The report blamed Regan for the "chaos that descended on the White House" since it was first revealed last November that profits from the <PLACE>Iran</PLACE> arms sales had been diverted to contra rebels fighting the leftist Nicaraguan government.
+Oliver North who was fired after it was disclosed last November 23 that profits from the <PLACE>Iran</PLACE> arms sale were diverted to the contras.
+The two, pictured by the Tower commission as the key operators of the <PLACE>Iran</PLACE> arms deal, have refused to testify.
+<PERSON>Reagan</PERSON>, who freely admits disliking details, is portrayed in the Tower report as a befuddled chief executive whose inattention let his aides run away with his foreign policy.
+That perception has wrecked <PERSON>Reagan</PERSON>'s popularity and threatened to condemn him to lame duck status until he leaves office in January 1989.
+A recent Newsweek magazine poll found that just 40 pct of Americans approved of <PERSON>Reagan</PERSON>'s leadership, a record low, and a third believed he should consider resignation.
+John Tower, <PERSON>Reagan</PERSON> is now preparing for a nationwide television address this week to respond to the criticisms of his presidency.
+Bangladesh will receive a grant equivalent to 47 mln U.S. Dlrs from the <PLACE>Netherlands</PLACE> during 1987 under an agreement signed here Saturday, officials said.
+This raised the amount of Dutch grants to <PLACE>Bangladesh</PLACE> to 759 mln dlrs since 1972, used mainly for commodity imports and implementing development projects, they said.
+Dow Chemical Co has launched a 200 mln Swiss franc, 12-year bond with a 4-3/4 pct coupon priced at 100-1/4 pct, lead manager Union Bank of <PLACE>Switzerland</PLACE> said.
+Dow Chemical Co has launched a 200 mln Swiss franc, 12-year bond with a 4-3/4 pct coupon priced at 100-1/4 pct, lead manager Union Bank of <PLACE>Switzerland</PLACE> said.
+<PLACE>Tanzania</PLACE>'s ruling Chama cha Mapinduzi (CCM) party has endorsed the government's economic reform programme but said it did not think more changes, such as a further devaluation of the shilling, would be needed.
+<PLACE>Tanzania</PLACE> has devalued the shilling more than 65 pct in less than a year and has started to overhaul inefficient government firms in line with a package agreed with the IMF.
+A <PLACE>Taiwan</PLACE> mission will leave next week for Washington to renegotiate an agreement severely limiting the growth of the island's textile exports, a Board of Foreign Trade official said.
+Under the agreement signed last July, <PLACE>Taiwan</PLACE>'s textile export growth was limited to 0.5 pct each year until 1988, based on the value of 1985 exports.
+He said <PLACE>Taiwan</PLACE> now found it difficult to compete with its two main rivals and the problem had been made worse because of the surging value of the <PLACE>Taiwan </PLACE> dollar.
+World animal health experts called for a campaign to eradicate the lethal cattle disease Rinderpest in <PLACE>Bangladesh</PLACE>, Bhutan, India, Nepal and Pakistan, a statement from a Food and Agriculture Organization (FAO) meeting here said.
+Some 230 mln dlrs is needed over two years to vaccinate the entire susceptible cattle population in <PLACE>Bangladesh</PLACE> and Pakistan and high-risk areas of the other three countries.
+In <PLACE>India</PLACE> some 240 mln cattle are estimated to be at risk from the disease.
+Similar campaigns are needed in <PLACE>Egypt</PLACE>, Yemen, Iraq and Iran.
+mln treasury shares to acquire interests in three gold mining companies in <PLACE>Brazil</PLACE> and an option to increase the company's interest in a platinum property.
+Novo Astro operates <PLACE>Brazil</PLACE>'s richest gold mine located in Amapa State, with an average grade of 0.8
+<PLACE>Canada</PLACE>'s industrial product price index rose 0.2
+pct in each of the two previous months, Statistics <PLACE>Canada</PLACE> said.
+U.K. Chancellor of the Exchequer <PERSON>Nigel Lawson</PERSON> has told Brazil's Finance Minister Dilson Funaro that negotiations on Brazil's debt to commercial banks are a matter for the commercial banks themselves, a Treasury spokesman said.
+He added an accord with the <ORG>International Monetary Fund</ORG> (IMF) could be a very helpful support.
+<PLACE>Brazil</PLACE> on February 20 suspended interest payments on 68 billion dlrs of its debts to commercial banks.
+<PERSON>Lawson</PERSON>'s attitude was interpreted by banking sources as a clear rebuff to Brazilian hopes of obtaining official cooperation in resolving its external debt crisis.
+Funaro, accompanied by central bank president Francisco Gros, is on the first leg of a tour of European capitals in an attempt to explain to governments <PLACE>Brazil</PLACE>'s indefinite suspension of interest payments earlier this month.
+<PLACE>Brazil</PLACE> has in the past rejected a substantial role for the IMF in managing its economy, arguing that an IMF austerity program by promoting exports and dampening domestic consumption would lead to recession and threaten democracy.
+Funaro said on Saturday in Washington that <PLACE>Brazil</PLACE> would not have suspended payment on its debt if it had received more and faster financing from international agencies.
+He said earlier today that <PLACE>Brazil</PLACE> was first approaching governments before talking to the commercial banks themselves about the interest payment moratorium "because the banks have some limits.
+Funaro said on Friday that his talks with U.S. Officials had resulted in no new financial arrangement to help resolve <PLACE>Brazil</PLACE>'s debt crisis, describing the meeting as an initial contact.
+He had earlier met Federal Reserve Board Chairman <PERSON>Paul Volcker</PERSON> and U.S. Treasury Secretary James Baker.
+After travelling this week to France, Germany, <PLACE>Switzerland</PLACE> and Italy, Funaro hopes to visit Canada and Japan next week before starting negotiations with banks.
+Federal Industries Ltd's earlier announced commercial paper issue of up to 440 mln dlrs, will be made only in <PLACE>Canada</PLACE>, a company spokesman said.
+Jutland Telephone Co plans to issue a 75 mln Swiss franc, 4-3/4 pct bond with a par price and a maximum 10-year maturity, lead manager Union Bank of <PLACE>Switzerland</PLACE> said.
+Esselte Business Systems Inc's Esselte Meto division said it has acquired the Antonson America Co, a subsidiary of &lt;Antonson Machines AB>, of <PLACE>Sweden</PLACE>.
+L> said it had its first subscriber installation in <PLACE>China</PLACE> of its foreign exchange dealing service.
+The subscriber is the banking department of the <PLACE>China</PLACE> International Trust and Investment Corp's (CITIC) head office in Beijing.
+The service is also due to be connected soon at the Bank of <PLACE>China</PLACE>'s new headquarters in Beijing, Reuters said.
+The latest requests for the maize were for export to <PLACE>Switzerland</PLACE>, Austria and Lichtenstein at a maximum daily rebate prefixed last Friday at 141 Ecus a tonne against a previous 20 Ecu daily rebate.
+The special daily rebate for maize was set in the context of a Commission commitment to grant this season rebates for the export of 500,000 tonnes of French maize to non-EC countries, in compensation for concessions to the U.S. in the recent dispute over grain sales to <PLACE>Spain</PLACE>.
+Requests for barley were for export to <PLACE>Switzerland</PLACE>, Austria and Lichtenstein, Ceuta and Melilla at an unchanged pre-fixed restitution of 125 Ecus a tonne, while requests for soft wheat flour were for export to various non-EC countries at an unchanged 178 Ecus a tonne.
+The Canadian government is expected to announce later this week its final ruling whether U.S. corn exports to <PLACE>Canada</PLACE> have injured Ontario corn growers, U.S. government and farm group representatives said.
+In that case, <PLACE>Canada</PLACE> decided pasta imports, which take about ten pct of the Canadian market, did not injure domestic producers.
+<PLACE>Canada</PLACE> slapped a 1.05 dlrs per bushel duty on U.S. corn imports in November 1986, but reduced the duty to 85 cts last month because the Canadian government said U.S. subsidies to corn producers were less than <PLACE>Canada </PLACE> earlier estimated.
+<ORG>European Community</ORG> steelmakers presented the Executive Commission with a controversial plan for the future of the industry which diplomats say it may be forced reluctantly to accept.
+But <PLACE>Brazil</PLACE>'s unwillingness to concede any of its traditional 30.55
+<PLACE>Cuba</PLACE> has told international sugar operators who have bought its sugar for shipment in March that these contracts will take second place to <PLACE>Cuba </PLACE>'s direct shipments to its export markets, dealers here said.
+Some traders who have received telexes from <PLACE>Cuba</PLACE> said the language of the message was not totally clear and some believed shipments would be honoured if the traders declare the Soviet Union as the destination of their contracts.
+The telexes have fueled rising world prices in the last week and reflect a poor Cuban crop, worry over <PLACE>Brazil</PLACE>'s export availability, and increasing Soviet demand, analysts said.
+Traders said signs of Cuba's shortage of immediately available raw sugar to supply its traditional martkets was probably the factor behind <PLACE>Syria</PLACE> calling a snap buying tender last month.
+Normally <PLACE>Syria</PLACE> calls white sugar buying tenders for forward delivery, and last month's spot requirement resulted in the sale of several cargoes.
+<PLACE>Cuba</PLACE> in its telex told operators they would not receive March shipments as <PLACE>Cuba </PLACE> has to meet its contracts to export markets, traders said.
+The agreement by the seven-member <ORG>Association of Tin Producing Countries</ORG> (ATPC) aimed to cut the world surplus and boost prices.
+<PLACE>Canada</PLACE> will offer a 1.2 billion dlr, four-part bond issue tomorrow, which will be dated March 15 and delivered March 16, the finance department said.
+The 2011 maturity will be issued to a maximum of 374 mln dlrs. The Bank of <PLACE>Canada</PLACE> will buy 100 mln dlrs of the new issue, including 10 mln dlrs of the 2011 maturity.
+<PLACE>Canada</PLACE>'s decision to raise the issue of a free trade pact with the U.S. was a sign of what many see as a new spirit of Canadian self-confidence, a public policy study group said "It suggests the <PLACE>Canada </PLACE> of the immediate post-war period, when it was a major player in the process of building a postwar world," the Washington-based Atlantic Council said.
+The council said that in the talks, <PLACE>Canada</PLACE> is chiefly interested in minimizing the imposing of U.S. duties against allegedly subsidized exports.
+She said the decision to close the office was made as a result of changes in Chemical's regional customer base and to improve efficiency by centralizing the bank's Gulf activities in <PLACE>Bahrain</PLACE>.
+The <PLACE>Bahrain</PLACE> office will assume the local contact role for all of Chemical's corporate and institutional customers now served by the Dubai office, the spokeswoman added.
+Brazilian Finance Minister Dilson Funaro flatly rejected a U.K. Suggestion that his country seek <ORG>International Monetary Fund</ORG> help in order to facilitate debt negotiations with commercial creditor banks.
+Talking to reporters, Funaro said this attitude would not help resolve the crisis started when <PLACE>Brazil</PLACE> suspended indefenitely interest payments on 68 billion dlrs in external debt on February 20.
+Talking before his departure for Paris, he said there could be no question of <PLACE>Brazil</PLACE> adopting another IMF austerity plan after a similar package four years ago "put <PLACE>Brazil </PLACE> in a very big recession."
+Funaro was reactnng to a British statement following his talks with Chancellor of the Exchequer <PERSON>Nigel Lawson</PERSON>, saying the U.K. Government had no part to play in what it viewed as a problem between Brazil and its commercial creditor banks.
+Britain also believed an IMF program would help along negotiations between <PLACE>Brazil</PLACE> and the commercial banks, the statement, which banking sources interpreted as an outright rebuttal of all Brazilian demands, said. "
+He said Lawson had made no commitments to support <PLACE>Brazil</PLACE>'s efforts.
+<PERSON>Lawson</PERSON> would officially state his position when the two meet again next month for the IMF and World Bank spring meetings in Washington, Funaro said.
+Stressing there was no binding time schedule for <PLACE>Brazil</PLACE>'s debt problem to be resolved, Funaro said <PLACE>Brazil </PLACE> had not come to Europe with specific proposals to overcome the present crisis. "
+Neither did <PLACE>Brazil</PLACE> plan a major overhaul of current domestic economic policies, which Funaro said would likely lead to a five pct economic growth this year. "
+The recent Australian proposals were a good starting point for discussions, "but we do not want the Australians to feel they are alone in developing an agenda for discussions" on world grain trade, the president of the National Association of Wheat Growers, NAWG, and the chairman of U.S. Wheat Associates said in a letter to U.S. Agriculture Secretary Richard Lyng and U.S. Trade Representative <PERSON>Clayton Yeutter</PERSON>.
+<PLACE>Australia</PLACE>'s proposals, which aim to reduce U.S. target prices and "quarantine" U.S. wheat stocks, would continue to place the burden of supply adjustment and reform on U.S. farmers, they said.
+Other countries, including <PLACE>Australia</PLACE>, have benefitted from the higher world prices that have resulted from past U.S. acreage and crop reduction programs, the organizations said. "
+Westinghouse Electric Corp said it agreed in principle to form a joint venture in factory automation with Matsushita Electric Industrial Co Ltd of <PLACE>Japan</PLACE>.
+President of the Brazilian Coffee Institute (IBC) <PERSON>Jorio Dauster</PERSON> told Reuters after the contact group meeting there had been no agreement on quotas as consumers had tried to dictate market shares rather than negotiate them.
+<PERSON>Dauster</PERSON> said there are no plans yet to renew negotiations at a later date.
+<PLACE>Brazil</PLACE> is not happy with the existing structure of the 14-bank advisory committee which coordinates its commercial bank debt, Finance Minister Dilson Funaro said.
+U.S. Banks have 50 pct representation on the committee while holding only 35 pct of <PLACE>Brazil</PLACE>'s debt to banks, he said, adding "This is not fair with the European and Japanese banks."
+Noting the often different reactions of U.S., Japanese and European banks, Funaro told journalists that <PLACE>Brazil</PLACE> might adopt an approach involving separate discussions with the regions.
+<PLACE>Brazil</PLACE> on February 20 suspended indefinitely interest payments on 68 billion dlrs owed to commercial banks, followed last week by a freeze on bank and trade credit lines deposited by foreign banks and institutions, worth some 15 billion dlrs.
+Funaro and Gros spent two days at the end of last week in Washington talking to government officials and international agencies and will this week visit Britain, France, West Germany, <PLACE>Switzerland</PLACE> and Italy for discussions with governments.
+Funaro and Gros are today meeting British Chancellor of the Exchequer <PERSON>Nigel Lawson</PERSON>, Foreign Secretary Geoffrey Howe and Governor of the Bank of England Robin Leigh-Pemberton.
+Bankers have estimated that <PLACE>Brazil</PLACE> owes U.K. Banks around 8.5
+billion dlrs in long and medium term loans, giving the U.K. The third largest exposure after the U.S. And <PLACE>Japan</PLACE>.
+The crisis began when <PLACE>Brazil</PLACE>'s trade surplus, its chief means of servicing its foreign debt, started to decline sharply and the problem was compounded by a renewed surge in the country'rate of inflation.
+Brazilian Finance Minister Dilson Funaro flatly rejected a U.K. Suggestion that his country seek <ORG>International Monetary Fund</ORG> (IMF) help in order to facilitate debt negotiations with commercial creditor banks.
+Talking to reporters, Funaro said this attitude would not help resolve the crisis started when <PLACE>Brazil</PLACE> suspended indefinitely interest payments on 68 billion dlrs in external debt on February 20.
+White House Chief of Staff <PERSON>Howard Baker</PERSON> said President Reagan will address the nation in a nationally televised speech Wednesday night at 2100 EST on the Tower Commission Report on the arms to Iran scandal.
+<PERSON>Baker</PERSON>, in his first news conference as chief of staff, also said that Robert Gates asked that his name be withdrawn from nomination as director of the Central Intelligence Agency.
+White House Chief of Staff <PERSON>Howard Baker</PERSON> said President Reagan will meet the press "very soon."
+Baker told a brief news conference "I expect you'll see the president very soon" when asked by reporters when <PERSON>Reagan</PERSON> expected to resume his news conferences.
+<PERSON>Reagan</PERSON> has not met the press since November 19.
+Baker said <PERSON>Reagan</PERSON> had intended to conduct today's news conference and only the lack of a firm announcement of a replacement for Robert Gates as CIA director prevented him.
+<PERSON>Reagan</PERSON> will address the nation wednesday night in response to the Tower Commission's report on the Iran arms scandal.
+Tonka Corp said it agreed to become the exclusive distributor of Tokyo-based Bandai Co Ltd toy lines in <PLACE>Australia</PLACE> and New Zealand and also agreed to buy the business of Bandai <PLACE>Australia </PLACE>.
+The treaty will be a model for similar agreements to be negotiated with three other U.S. possessions -- American Samoa, the Mariana Islands and <PLACE>Guam</PLACE>, the Treasury said.
+U.S. trade representative Clayton Yeutter today said that if the <ORG>European Community</ORG>'s Council of Ministers approves a tax on vegetable oils and fats, another major transatlantic trade row will erupt over agriculture.
+In a statement issued by the trade representative's office following a speech to the American Soybean Association's board of directors, <PERSON>Yeutter</PERSON> said the proposed tax would have a severe impact on American soybean farmers, who export some 2.4
+This is an unacceptable situation for us and its (vegetable oils tax) enactment would leave us no choice but to vigorously protect our trade rights and defend our access to the European market," <PERSON>Yeutter</PERSON> said.
+<PERSON>Yeutter</PERSON> said the proposed vegetable oils tax would violate EC obligations under the GATT.
+I am astonished that the EC commission would propose such a provocative measure so soon after we successfully resolved the agricultural dispute over the enlargement of the EC to include Spain and <PLACE>Portugal</PLACE>," Yeutter said. "
+Greece, responding to a warning by <PLACE>Turkey</PLACE> against conducting oil activities in the Aegean Sea, said today it had the right to decide where and how to do research or drilling work in the area.
+A government spokesman said the Greek position was made clear to <PLACE>Turkey</PLACE>'s ambassador Nazmi Akiman when he met Greek Foreign Affairs Undersecretary Yannis Kapsis last week.
+The Greek statement today said, " <PLACE>Greece</PLACE> is not prepared to give up even a trace of its sovereignty rights to the seabed.
+"The Greek government has repeatedly let the Turkish side know that it considers the 1976 Berne protocol as inactive through the fault of <PLACE>Turkey</PLACE>," it said.
+Riverin's appointment is effective March 26, the exchange, <PLACE>Canada</PLACE>'s second largest, said.
+<PLACE>Australia</PLACE>'s broad money supply rose 10.3
+&lt;National Bank of <PLACE>Canada</PLACE>> said it is issuing 25 mln dlrs worth of mortgage-backed securities recognized by the federal government's <PLACE>Canada </PLACE> Mortgage and Housing Corp.
+Underwriters are (Levesque, Beaubien Inc), and (McLeod Young Weir Ltd). National Bank said the issue is part of a program by <PLACE>Canada</PLACE> Mortgage and Housing, introduced late last year, which provides investors with high quality securities similar to government bonds but with a higher rate of return.
+French industry is failing to produce the goods its markets need and its loss of competitiveness has left the government little room for manoeuvre to reflate the economy, the <ORG>Organisation for Economic Cooperation and Development</ORG> said.
+" <PLACE>France</PLACE>'s poor export performance reflects a geographical bias in favour of markets less dynamic than the average.
+With French unit productivity costs now among the lowest in the OECD area, the inflation differential between <PLACE>France</PLACE> and its main trading rival, West Germany, could fall to just one pct this year, it said.
+Last week's White House shake-up has increased the odds that Federal Reserve Board chairman <PERSON>Paul Volcker</PERSON>, a symbol of strength in a government reeling from the arms-to-Iran scandal, will serve a third term, sources close to the Fed say.
+But they said that no decision on the appointment, which must be filled this August, has been taken by the White House and <PERSON>Volcker</PERSON> too has not made up his mind.
+Former White House Chief of Staff Donald Regan, who resigned last week when ex-senator <PERSON>Howard Baker</PERSON> was named as his replacement, was implacably opposed to Volcker and tried often to undermine him.
+It is an open secret in Washington that Regan tried to ensure that <PERSON>Volcker</PERSON>, first appointed in 1979 by President Carter, will not be offered a third term by President Reagan.
+Only Volcker's key allies in the Reagan administration, Vice-President George Bush and Treasury Secretary <PERSON>James Baker</PERSON>, kept Regan's recent maneuvering at bay, the sources said.
+Sources close to the administration say Regan leaked a story, quickly shot down by others in the administration, that <PERSON>Beryl Sprinkel</PERSON>, chairman of the council of economic advisers, had been chosen to replace Volcker.
+The sources said New White House Chief of Staff <PERSON>Howard Baker</PERSON> has a very good relationship with his namesake at the Treasury Department and is likely to respect his views on the Fed chairmanship.
+As a moderate Republican, Baker is also unlikely to share the right-wing's opposition to <PERSON>Volcker</PERSON>. "
+This new White House is going to need all the strength it can get," said one source when asked about the possibility of <PERSON>Volcker</PERSON>'s reappointment.
+<PERSON>Paul Volcker</PERSON> is deeply respected in financial markets both in the United States and around the world.
+At a time when the stability of the dollar and the viability of major debtor nations are in question, <PERSON>Volcker</PERSON>'s departure would definitely undermine U.S. leadership, foreign exchange analysts say.
+U.S. officials say <PERSON>Volcker</PERSON> works very closely with Treasury Secretary Baker on issues like international debt and global economic cooperation.
+The two men seem only to differ on how far to deregulate the banking industry, but recent statements by <PERSON>Volcker</PERSON>, in which he adopted a more liberal attitude on deregulation, signalled the politically-independent central bank is coming around at least partially to the Treasury position.
+And a recent statement by a <PERSON>Reagan</PERSON> administration official that the two men saw "exactly eye-to-eye" on the dollar was seen as an indication of Baker's support for the Fed chairman.
+Baker is understood to have played a key role in <PERSON>Volcker</PERSON>'s reappointment to the Fed in mid-1983.
+The sources said Baker respects <PERSON>Volcker</PERSON> and when appointed Treasury Secretary in February 1985, he decided to ensure a good working relationship, in part because he believed the two key government economic institutions have to work closely.
+Regan, Treasury Secretary during President <PERSON>Reagan</PERSON>'s first term, was formerly head of Wall Street's largest brokerage firm Merrill Lynch and came to Washington determined to be America's pre-eminent economic spokesman.
+He developed a deep antipathy for <PERSON>Volcker</PERSON>, whose political skills undermined that ambition, and who financial markets took much more seriously.
+But the sources said <PERSON>Volcker</PERSON> would have to be invited to stay. "
+And if <PERSON>Volcker</PERSON> left this Augsut, he would leave behind one of the most inexperienced Fed Boards in years.
+Other potential candidates include economist Alan Greenspan, frequently an informal presidential economic adviser, New York Fed President E. Gerald Corrigan, Federal Deposit Insurance Corp chairman William Seidman, and <PERSON>Sprinkel</PERSON>.
+Long a Regan protege, <PERSON>Sprinkel</PERSON>'s chances may be damaged by his patron's departure from the White House.
+An aide to Agriculture Secretary <PERSON>Richard Lyng</PERSON> who asked not to be identified said there was nothing to substantiate the speculation, which he said was started by "somebody fanning the (wheat) market."
+The union represents about 2,300 workers on the Great Lakes and <PLACE>Canada</PLACE>'s East and West coasts.
+<ORG>European Community</ORG> (EC) farm ministers were fighting hard early today to prevent a deal on cutting overflowing milk production from turning sour before trying to agree widescale reforms in other surplus sectors.
+<PLACE>Japan</PLACE>'s seasonally adjusted unemployment rate rose to a record 3.0
+President <PERSON>Reagan</PERSON>'s nominee as director of the Central Intelligence Agency (CIA), Robert Gates, withdrew his name from consideration by the Senate in the face of a long battle for confirmation.
+His withdrawal was announced at a White House news conference by <PERSON>Reagan</PERSON>'s new Chief-of-Staff, Howard Baker, who said the President had accepted it with great regret.
+Chinese leader <PERSON>Deng Xiaoping</PERSON> told visiting U.S. Secretary of State George Shultz China's recent troubles were over.
+The two discussed Washington's scandal over U.S. Arms sales to Iran and <PLACE>China</PLACE>'s political situation after the fall of Communist Party leader Hu Yaobang.
+<PERSON>Deng</PERSON> said: "
+"As for the troubles we recently encountered, they are over," <PERSON>Deng</PERSON> added.
+mln barrels a day, and had expected current fluctuations in the spot market of one or two dlrs, Indonesian Energy Minister <PERSON>Subroto</PERSON> said.
+Quotas, the major device used to stabilize prices under the International Coffee Agreement, were suspended a year ago after prices soared following a damaging drought in <PLACE>Brazil</PLACE>.
+The U.S. And <PLACE>Brazil</PLACE>, the largest coffee importer and exporter respectively, each laid the blame on the other for the breakdown of the talks.
+Jon Rosenbaum, U.S. Assistant trade representative and delegate to the talks, said in a statement after the council adjourned, "A majority of producers, led by <PLACE>Brazil</PLACE>, were not prepared to negotiate a new distribution based on objective criteria. "
+Brazilian Coffee Institute (IBC) President <PERSON>Jorio Dauster</PERSON> countered, "Negotiations failed because consumers tried to dictate quotas, not negotiate them."
+Previously, quotas were determined by historical amounts exported, which gave <PLACE>Brazil</PLACE> a 30 pct share of a global market of about 58 mln 60-kilo bags.
+But most consumers and a maverick group of eight producers proposed carving up the export market on the basis of exportable production and stocks, which would reduce <PLACE>Brazil</PLACE>'s share to 28.8 pct.
+Consumer delegates said this method would reflect changes in many countries' export capabilities and make coffee more readily available to consumers when they need it. A last-minute attempt by <PLACE>Colombia</PLACE>, the second largest exporter, to rescue the talks with a compromise interim proposal could not bring the two sides together.
+Delegates speculated <PLACE>Brazil</PLACE>'s financial problems, illustrated by its recent suspension of interest payments on bank debt, have increased political pressure on the country to protect its coffee export earnings.
+Developing coffee-producing countries that depend heavily on coffee earnings, particularly some African nations and <PLACE>Colombia</PLACE>, are likely to be hurt the most by the ICO's failure to agree quotas, analysts said.
+<ORG>European Community</ORG> (EC) farm ministers early today abandoned talks aimed at saving an agreement on cutting excessive milk production after making no progress in over 12 hours of negotiations.
+President <PERSON>Reagan</PERSON>'s approval rating fell after the Tower Commission criticised his handling of the Iran arms scandal, a New York Times/CBS poll indicates.
+The poll found 42 pct of those surveyed approved <PERSON>Reagan</PERSON>'s handling of his job and 46 pct disapproved.
+The approval rating was the lowest since January 1983, when 41 pct approved of the way <PERSON>Reagan</PERSON> was doing his job.
+Equity investment company &lt;Battery Group Ltd> said it had agreed to buy &lt;Occidental Life Insurance Co of <PLACE>Australia</PLACE> Ltd> from TransAmerica Corp &lt;TA> of the U.S. For 105 mln Australian dlrs.
+<PLACE>Japan</PLACE>'s unemployment rate is expected to continue to climb to about 3.5
+pct within the next year from January's three pct record, senior economists, including Susumu Taketomi of Industrial Bank of <PLACE>Japan</PLACE>, said.
+There is a general fear that we will become a country with high unemployment," said Takashi Kiuchi, senior economist for the Long-Term Credit Bank of <PLACE>Japan</PLACE> Ltd.
+Central bank governor Chang Chi-cheng rejected a request by textile makers to halt the rise of the <PLACE>Taiwan</PLACE> dollar against the U.S. Dollar to stop them losing orders to South Korea, Hong Kong and Singapore, a spokesman for the <PLACE>Taiwan </PLACE> Textile Federation said.
+He quoted Chang as telling representatives of 19 textile associations last Saturday the government could not fix the <PLACE>Taiwan</PLACE> dollar exchange rate at 35 to one U.S. Dollar due to U.S. Pressure for an appreciation of the local currency.
+It said the <PLACE>Taiwan</PLACE> dollar has risen almost 14 pct against the U.S. Dollar since September 1985 while the South Korean won climbed only four pct.
+Many local bankers and economists predict <PLACE>Taiwan</PLACE>'s dollar will rise to between 32 and 33 per U.S. Dollar by year-end.
+Chang was quoted as saying this would depend on <PLACE>Taiwan</PLACE>'s ability to reduce its trade surplus with the U.S. This year.
+<PLACE>Taiwan</PLACE>'s textile exports fell by almost four pct in January to 562 mln U.S. Dlrs from 583 mln in January 1986, the same figures show.
+Textiles are <PLACE>Taiwan</PLACE>'s second-largest export earner, after electrical and electronic products.
+<PLACE>Egypt</PLACE> allowed five fugitive Libyan soldiers who landed in a military plane in the far south of the country last night to stay and flew them to Cairo, official sources said.
+The U.S. Wants <PLACE>Japan</PLACE> to eliminate import controls on agricultural products within three years, visiting U.S. Under-Secretary of State for Economic Affairs Allen Wallis told Eishiro Saito, Chairman of the Federation of Economic Organisations (Keidanren), a spokesman for Keidanren said.
+He was also quoted as saying the U.S. Would be pleased were <PLACE>Japan</PLACE> to halve restrictions on agricultural imports within five years if the country cannot cope with abolition within three, the spokesman said.
+<PLACE>Japan</PLACE> currently restricts imports of 22 agricultural products.
+A ban on rice imports triggered recent U.S. Complaints about <PLACE>Japan</PLACE>'s agricultural policy.
+The Ministry of International Trade and Industry (MITI) acted to tighten restrictions on microchip exports to countries other than the U.S. To preserve a U.S.- <PLACE>Japan</PLACE> pact on semiconductor trade, but major Japanese chipmakers doubt its usefulness.
+Japanese firms and officials in turn argue the flow of cheap chips to third countries is due to grey-market sales by third-party brokers, who seek to profit from the gap between low prices in <PLACE>Japan</PLACE> and higher prices based on production costs and set for Japanese makers under the agreement.
+<PLACE>Thailand</PLACE>'s improving economy will likely cause foreign reserves to increase to at least five billion dlrs by end-1987 from a record of nearly 4.2
+Bank of <PLACE>Thailand</PLACE> statistics show foreign reserves rose to 3.95 billion at end-January from 3.03
+Nimit Nonthapanthawat, chief economist at the &lt;Bangkok Bank Ltd>, said <PLACE>Thailand</PLACE>'s strong export performance, its relatively high interest rates, foreign participation in its stock market, and growing foreign investment, especially from Japan, contributed to the projected sharp rise.
+A U.S. Embassy report said last month <PLACE>Thailand</PLACE> could achieve five pct real gross domestic product growth in 1987, up from a projection of 3.8
+<PLACE>Thailand</PLACE> calculates foreign reserves to include gold, special drawing rights and convertible currencies.
+<PLACE>Sweden</PLACE> had a 1986 current balance of payments surplus of 7.6
+<PLACE>Singapore</PLACE>'s Finance Minister Richard Hu is expected to announce a neutral budget tomorrow with no major tax changes for the 1987/88 year starting April 1, bankers and economists told Reuters.
+The <PLACE>Philippines</PLACE> must devalue the peso if it wants its exports to remain competitive, Economic Planning Secretary Solita Monsod told Reuters. "
+Monsod said, "The ideal movement in the peso/dollar rate is a movement that will reflect differences in inflation (rates) of the <PLACE>Philippines</PLACE> versus the other country.
+<PLACE>Zaire</PLACE> agreed to limit its tin exports to 1,736 tonnes for 12 months from March 1 in line with an Association of Tin Producing Countries (ATPC) plan to curb exports, the ATPC said.
+ATPC Executive Director Victor Siaahan told Reuters he received a telex from <PLACE>Zaire</PLACE> indicating its willingess to take part in the plan to limit total ATPC exports to 96,000 tonnes for a year from March 1. Siaahan said <PLACE>Zaire </PLACE> is expected to produce 1,900 tonnes of tin in calendar 1987, and that in 1986 its output and exports were about 1,200 tonnes.
+All ATPC members except <PLACE>Zaire</PLACE> and Australia recently agreed to adhere to the export quotas allocated them under the plan.
+The ATPC consists of <PLACE>Malaysia</PLACE>, Indonesia, Thailand, Bolivia, Australia, Nigeria and Zaire.
+<PLACE>Japan</PLACE>'s major commercial banks plan to set up a joint company to which they will transfer assets acquired by lending to developing countries to build up a reserve against possible bad loans, a senior official of a major bank told Reuters.
+The Federation of Bankers' Associations of <PLACE>Japan</PLACE> released its proposal for early creation of a comprehensive financial futures market in Tokyo.
+Banking sources quoted federation chairman Yoshiro Araki as saying he hoped the market would be created as soon as possible because it would help promote the liberalisation of <PLACE>Japan</PLACE>'s financial markets.
+<PLACE>Japan</PLACE>'s only current financial futures market, in yen bonds, began on the Tokyo Stock Exchange in October 1985.
+The <ORG>European Community</ORG> (EC) and Euratom, the European atomic energy agency, are expected to issue French franc eurobonds this month, a Treasury spokesman said.
+A spokeswoman for the New South Wales Corporate Affairs Commission (CAC) said the arrest was part of its investigation stemming from complaints from Westpac and &lt;Kleinwort Benson <PLACE>Australia</PLACE> Ltd>. CAC and Westpac officials said they were working out how much money was involved, but said press reports it was as much as five mln dlrs were probably exaggerated.
+<PLACE>Japan</PLACE> looks likely to allow U.S. Banks to conduct securities business here, a move that will probably cause the barriers separating Japanese commercial banks from brokerage houses to break down, financial analysts said.
+J.P.Morgan and Co &lt;JPM>, Bankers Trust New York Corp &lt;BT>, Manufacturers Hanover Corp &lt;MHC> and Chemical Bank New York Corp &lt;CHL> are expected to win approval to conduct securities business in <PLACE>Japan</PLACE>, U.S. Bank officials said. "
+To date, <PLACE>Japan</PLACE> has allowed European banks to do securities business here through 50-pct owned subsidiaries.
+At the last round of financial negotiations in September, U.S. Officials said <PLACE>Japan</PLACE>'s commitment to deregulation was flagging.
+They said the ministry will have to approve the U.S. Request soon to head off criticism its markets are not as open to foreigners as those of the U.S. Analysts said <PLACE>Japan</PLACE> has proceeded rapidly with financial deregulation since 1984, but has not touched upon the clear division between the securities and banking businesses.
+Officials of major Japanese banks said they will pay special attention to the ministry's reaction to U.S. Bank requests because approval would accelerate market liberalization in <PLACE>Japan</PLACE>.
+The French Treasury will issue between eight and 12 billion francs worth of tap stock depending on market conditions at its monthly tender on Thursday, the Bank of <PLACE>France</PLACE> said.
+untied loan from the Export-Import Bank of <PLACE>Japan</PLACE> to finance its Pacific Petroleum Project, Pemex <PLACE>Japan </PLACE> representative Tito Ayal said.
+The project consists of a pipeline linking Nueva Teapa on the Gulf of <PLACE>Mexico</PLACE> with Salina Cruz on the Pacific Coast, and construction of the second phase of the Salina Cruz refinery.
+The new pipeline will enable Japan to load <PLACE>Mexico</PLACE>'s Maya crude oil at Salina Cruz rather than in the Gulf of <PLACE>Mexico </PLACE>.
+Pemex will also have some LPG surplus available in Salina Cruz that may help <PLACE>Japan</PLACE> diversify its supply sources of that product, he added.
+<PLACE>China</PLACE> called on the United States to remove curbs on its exports, to give it favourable trading status and ease restrictions on exports of high technology.
+The official International Business newspaper today published <PLACE>China</PLACE>'s demands in a editorial to coincide with the visit of U.S. Secretary of State George Shultz. "
+The U.S. Should quickly discard its prejudice against favourable tariff treatment for Chinese goods and admit <PLACE>China</PLACE> into the Generalised System of Preference (GSP). "Despite easing of curbs on U.S. Technology exports in recent years, control of them is still extremely strict and influences normal trade between the two countries," it added The paper also printed an article by <PLACE>China </PLACE>'s commercial counsellor in its Washington embassy, Chen Shibiao, who said that "all kinds of difficulties and restrictions" were preventing bilateral trade fulfilling its full potential.
+The paper also printed a table showing that, since bilateral trade began in 1972, <PLACE>China</PLACE> has had a deficit every year except 1972 and 1977.
+He said that, if <PLACE>China</PLACE> wants to obtain GSP status, it will have to lobby Congress itself to persaude it to amend several laws which currently prevent Peking getting such status.
+The U.S. Trade Act of 1974 says that to qualify for GSP, <PLACE>China</PLACE> must be a member of the General Agreement of Tariffs and Trade (GATT), for which it applied in July 1986, and "not be dominated or controlled by international Communism."
+The official said <PLACE>China</PLACE> was well aware of the laws, some of which date to the anti-Communist early 1950's, but that there is not sufficient political will in the U.S. To change them.
+<PLACE>China</PLACE> has been the subject of about a dozen cases involving anti-dumping in the U.S. Within the last two years, which the U.S. Side won, he said.
+But, for the first time, <PLACE>China</PLACE> signed last week an agreement which it itself initiated to voluntarily restrain exports of at least two categories of steel goods, which may lead the U.S. Side to withdraw the anti-dumping case, he added.
+<PLACE>China</PLACE> has the potential to disrupt world markets, especially in textiles.
+Other GATT countries will be nervous about <PLACE>China</PLACE> in this respect.
+Poland, Czechoslovakia, Hungary and Romania are members of GATT but none has <PLACE>China</PLACE>'s massive market potential for imports or its vast labour pool to produce cheap exports.
+In a speech today in the northeast city of Dalian, U.S. Secretary of State George Shultz said his country welcomed <PLACE>China</PLACE>'s interest in participating in GATT. "
+<PLACE>China</PLACE> can play an important role by actively joining GATT discussions seeking to expand general trading opportunities and enhance market access for exports worldwide.
+<PLACE>China</PLACE> can further develop its foreign trade system so as to gain the maximum benefit from its GATT participation," he said.
+The problems facing U.S.- <PLACE>China</PLACE> trade and GATT membership are similar -- a pricing system which many foreign businessmen regard as arbitrary and not related to actual costs, especially for exports, and a de facto dual currency system.
+In a memorandum backing its application presented to GATT last month, <PLACE>China</PLACE> said it was gradually reforming its economic system and replacing mandatory instruction with "guidance planning" and economic levers.
+The diplomat said that, to join GATT, <PLACE>China</PLACE> had much to do. REUTER &#3;
+Chase Manhattan Asia Ltd of Hong Kong has approached Taiwan banks to take part in a syndicated loan of 300 mln U.S. Dlrs to finance a liquefied natural gas (LNG) project in <PLACE>Indonesia</PLACE>, local banking sources said.
+The project calls for construction of a 400 mln U.S. Dlr facility which could produce two mln tonnes of LNG for supply by <PLACE>Taiwan</PLACE>'s state-owned Chinese Petroleum Corp .
+This was the first time Taiwanese banks, including the Bank of <PLACE>Taiwan</PLACE> and Bank of Communications, were invited to form a syndicated loan, they added.
+mln tonnes of LNG for <PLACE>Taiwan</PLACE> starting October 1989, a CPC official said.
+CPC is building an LNG receiving terminal in southern <PLACE>Taiwan</PLACE> city of Kaohsiung at a cost of 820 mln U.S. Dlrs. The terminal will be completed in mid-1989.
+<PLACE>Italy</PLACE>'s consumer price index rose 0.4
+N> of the U.S. Plans to open an office in Peking to develop oil exploration opportunities in <PLACE>China</PLACE>, the <PLACE>China </PLACE> Daily said.
+It quoted Mobil president Richard Tucker, currently in Peking, as saying he is optimistic about investment prospects in <PLACE>China</PLACE> and that Peking will continue to encourage foreign private businesses to invest here.
+It said Mobil bought 73 mln dlrs of crude oil and oil products from <PLACE>China</PLACE> in 1986 and sold it lubricant and fertiliser, but gave no more details.
+The <ORG>European Community</ORG> (EC) is issuing a 600 mln franc 8-3/4 pct bond due April 7, 1997, at 99-1/2 pct, lead manager Banque Nationale de Paris said.
+A KLM spokesman said KLM already cooperated closely with Air <PLACE>Uk</PLACE>, which runs 111 flights a week to Amsterdam's Schipol airport from nine <PLACE>Uk </PLACE> cities.
+The European &lt;Airbus Industrie> consortium has signed a one billion dlr contract to sell 10 A320 short-haul jets to &lt;All Nippon Airways> of <PLACE>Japan</PLACE>, with an option on the sale of a further 10 planes, an Airbus spokesman said today.
+<PLACE>Pakistan</PLACE> will retender for 6,000 tonnes of refined bleached deodorised palm oil for second half March shipment tomorrow, after failing to take up offers today, palm oil traders said.
+Mobil Oil Corp of U.S. Plans to open an office in Peking to develop oil exploration opportunities in <PLACE>China</PLACE>, the <PLACE>China </PLACE> Daily said.
+It quoted Mobil president Richard Tucker, currently in Peking, as saying he is optimistic about investment prospects in <PLACE>China</PLACE> and that Peking will continue to encourage foreign private businesses to invest here.
+It said Mobil bought 73 mln dlrs of crude oil and oil products from <PLACE>China</PLACE> in 1986 and sold it lubricant and fertiliser, but gave no more details.
+A spokeswoman for the New South Wales Corporate Affairs Commission (CAC) said the arrest was part of its investigation stemming from complaints from Westpac and &lt;Kleinwort Benson <PLACE>Australia</PLACE> Ltd>. CAC and Westpac officials said they were working out how much money was involved, but said press reports it was as much as five mln dlrs were probably exaggerated.
+President <PERSON>Corazon Aquino</PERSON> announced government plans to devote to land reform an estimated 24 billion pesos (about one billion U.S. Dlrs) raised from the sale of failed businesses taken over by the government.
+<PERSON>Aquino</PERSON> said she was willing to have her family's sugar estate broken up in compliance with Philippine land reform programmes but hinted it would not be offered voluntarily. "
+Land reform pressure groups have called on Aquino to break up her family's 6,000-hectare sugar estate to demonstrate her sincerity on the issue political analysts have called one of the most pressing problems facing the <PLACE>Philippines</PLACE>.
+It was not known whether government would wait for the Congress to convene by mid-year to formalise the programme or have <PERSON>Aquino</PERSON> carry it out through an executive order.
+mln barrels a day, and had expected current fluctuations in the spot market of one or two dlrs, Indonesian Energy Minister <PERSON>Subroto</PERSON> said.
+<PLACE>Japan</PLACE>'s unemployment rate is expected to continue to climb to about 3.5
+pct within the next year from January's three pct record, senior economists, including Susumu Taketomi of Industrial Bank of <PLACE>Japan</PLACE>, said.
+There is a general fear that we will become a country with high unemployment," said Takashi Kiuchi, senior economist for the Long-Term Credit Bank of <PLACE>Japan</PLACE> Ltd.
+Central bank governor Chang Chi-cheng rejected a request by textile makers to halt the rise of the <PLACE>Taiwan</PLACE> dollar against the U.S. Dollar to stop them losing orders to South Korea, Hong Kong and Singapore, a spokesman for the <PLACE>Taiwan </PLACE> Textile Federation said.
+He quoted Chang as telling representatives of 19 textile associations last Saturday the government could not fix the <PLACE>Taiwan</PLACE> dollar exchange rate at 35 to one U.S. Dollar due to U.S. Pressure for an appreciation of the local currency.
+President <PERSON>Reagan</PERSON>'s approval rating fell after the Tower Commission criticised his handling of the Iran arms scandal, a New York Times/CBS poll indicates.
+The poll found 42 pct of those surveyed approved <PERSON>Reagan</PERSON>'s handling of his job and 46 pct disapproved.
+The approval rating was the lowest since January 1983, when 41 pct approved of the way <PERSON>Reagan</PERSON> was doing his job.
+Last week's White House shake-up has increased the odds that Federal Reserve Board chairman <PERSON>Paul Volcker</PERSON>, a symbol of strength in a government reeling from the arms-to-Iran scandal, will serve a third term, sources close to the Fed say.
+But they said that no decision on the appointment, which must be filled this August, has been taken by the White House and <PERSON>Volcker</PERSON> too has not made up his mind.
+Former White House Chief of Staff Donald Regan, who resigned last week when ex-senator Howard Baker was named as his replacement, was implacably opposed to <PERSON>Volcker</PERSON> and tried often to undermine him.
+It is an open secret in Washington that Regan tried to ensure that <PERSON>Volcker</PERSON>, first appointed in 1979 by President Carter, will not be offered a third term by President Reagan.
+Only Volcker's key allies in the Reagan administration, Vice-President George Bush and Treasury Secretary <PERSON>James Baker</PERSON>, kept Regan's recent maneuvering at bay, the sources said.
+Sources close to the administration say Regan leaked a story, quickly shot down by others in the administration, that Beryl Sprinkel, chairman of the council of economic advisers, had been chosen to replace <PERSON>Volcker</PERSON>.
+The sources said New White House Chief of Staff Howard <PERSON>Baker</PERSON> has a very good relationship with his namesake at the Treasury Department and is likely to respect his views on the Fed chairmanship.
+As a moderate Republican, Baker is also unlikely to share the right-wing's opposition to <PERSON>Volcker</PERSON>. "
+This new White House is going to need all the strength it can get," said one source when asked about the possibility of <PERSON>Volcker</PERSON>'s reappointment.
+<PERSON>Paul Volcker</PERSON> is deeply respected in financial markets both in the United States and around the world.
+At a time when the stability of the dollar and the viability of major debtor nations are in question, <PERSON>Volcker</PERSON>'s departure would definitely undermine U.S. leadership, foreign exchange analysts say.
+U.S. officials say <PERSON>Volcker</PERSON> works very closely with Treasury Secretary Baker on issues like international debt and global economic cooperation.
+The two men seem only to differ on how far to deregulate the banking industry, but recent statements by <PERSON>Volcker</PERSON>, in which he adopted a more liberal attitude on deregulation, signalled the politically-independent central bank is coming around at least partially to the Treasury position.
+And a recent statement by a Reagan administration official that the two men saw "exactly eye-to-eye" on the dollar was seen as an indication of <PERSON>Baker</PERSON>'s support for the Fed chairman.
+Baker is understood to have played a key role in <PERSON>Volcker</PERSON>'s reappointment to the Fed in mid-1983.
+The sources said Baker respects <PERSON>Volcker</PERSON> and when appointed Treasury Secretary in February 1985, he decided to ensure a good working relationship, in part because he believed the two key government economic institutions have to work closely.
+He developed a deep antipathy for <PERSON>Volcker</PERSON>, whose political skills undermined that ambition, and who financial markets took much more seriously.
+But the sources said <PERSON>Volcker</PERSON> would have to be invited to stay. "
+And if <PERSON>Volcker</PERSON> left this Augsut, he would leave behind one of the most inexperienced Fed Boards in years.
+Brazilian Finance Minister Dilson Funaro held separate meetings with French Finance Minister Edouard Balladur and Bank of France Governor <PERSON>Jacques de Larosiere</PERSON> on the second stage of a European mission to explain his country's latest debt crisis, French officials said.
+Monetary sources described them as a preliminary diplomatic effort to see if <PLACE>France</PLACE> could help to negotiate financial concessions sought by Brazil from Western banks, governments and official lending agencies.
+Transamerica Corp said it will have an after-tax gain of about 10 mln U.S. dlrs on the sale of its Occidental Life Insurance Co of <PLACE>Australia</PLACE> Ltd affiliate to &lt;Pratt and Co Financial Services Pty Ltd> of Melbourne for 105 mln Australian dlrs.
+The sale was announced earlier today in <PLACE>Australia</PLACE>.
+The 2011 maturity will be issued to a maximum of 375 mln dlrs. The Bank of <PLACE>Canada</PLACE> will buy 100 mln dlrs of the new issue, including a minimum of 10 mln dlrs of the 2011 maturity.
+The U.S. Wants <PLACE>Japan</PLACE> to eliminate import controls on agricultural products within three years, visiting U.S. Under-Secretary of State for Economic Affairs Allen Wallis told Eishiro Saito, Chairman of the Federation of Economic Organisations (Keidanren), a spokesman for Keidanren said.
+He was also quoted as saying the U.S. Would be pleased were <PLACE>Japan</PLACE> to halve restrictions on agricultural imports within five years if the country cannot cope with abolition within three, the spokesman said.
+<PLACE>Japan</PLACE> currently restricts imports of 22 agricultural products.
+A ban on rice imports triggered recent U.S. Complaints about <PLACE>Japan</PLACE>'s agricultural policy.
+Central bank governor Chang Chi-cheng rejected a request by textile makers to halt the rise of the <PLACE>Taiwan</PLACE> dollar against the U.S. Dollar to stop them losing orders to South Korea, Hong Kong and Singapore, a spokesman for the <PLACE>Taiwan </PLACE> Textile Federation said.
+He quoted Chang as telling representatives of 19 textile associations last Saturday the government could not fix the <PLACE>Taiwan</PLACE> dollar exchange rate at 35 to one U.S. Dollar due to U.S. Pressure for an appreciation of the local currency.
+<PLACE>Italy</PLACE>'s state-owned &lt;Banca Nazionale del Lavoro - BNL> said it would issue 120 mln dlrs of five-year convertible eurobonds, an operation to be lead-managed by &lt;Credit Suisse-First Boston Ltd>. BNL president Nerio Nesi told a news conference that the issue, to be placed on the main international markets and listed in Luxembourg, would be the first equity linked issue by an Italian bank on the Euromarket.
+<PLACE>China</PLACE> called on the United States to remove curbs on its exports, to give it favourable trading status and ease restrictions on exports of high technology.
+The official International Business newspaper today published <PLACE>China</PLACE>'s demands in a editorial to coincide with the visit of U.S. Secretary of State George Shultz. "
+The U.S. Should quickly discard its prejudice against favourable tariff treatment for Chinese goods and admit <PLACE>China</PLACE> into the Generalised System of Preference (GSP). "Despite easing of curbs on U.S. Technology exports in recent years, control of them is still extremely strict and influences normal trade between the two countries," it added.
+The paper also printed an article by <PLACE>China</PLACE>'s commercial counsellor in its Washington embassy, Chen Shibiao, who said that "all kinds of difficulties and restrictions" were preventing bilateral trade fulfilling its full potential.
+The price of coffee, <PLACE>Kenya</PLACE>'s main source of foreign exchange, fell in London today to about 94 cents a pound from a peak of 2.14
+<PLACE>Kenya</PLACE> was already spending over 27 pct of its budget on servicing its debts and last year it was a net exporter of capital for the first time in its history, he added. "
+Administrative Executive Robin Taylor told the domestic news agency ZIANA that <PLACE>Zimbabwe</PLACE> earned the equivalent of 33 mln U.S. Dlrs from coffee exports last year.
+<PLACE>Canada</PLACE>'s real gross domestic product, seasonally adjusted, rose 1.1
+pct in the fourth quarter of 1986, the same as the growth as in the previous quarter, Statistics <PLACE>Canada</PLACE> said.
+Statistics <PLACE>Canada</PLACE> said final domestic demand rose 0.6
+Winter wheat crops in the western Soviet Union, Poland and eastern <PLACE>Czechoslovakia</PLACE> through northern Romania may suffer some winterkill over the next two nights, private forecaster Accu-Weather Inc said.
+Western <PLACE>Ussr</PLACE> winter wheat areas have had only light and spotty snow and winterkill is possible tonight and tomorrow night as temperatures drop to minus 10 to 0 degrees F.
+Snow cover is scant in <PLACE>Poland</PLACE>, with only about 50 pct of the winter wheat areas reporting one to two inches of snow as of this morning.
+Winter wheat areas from eastern <PLACE>Czechoslovakia</PLACE> through northern Romania had light snow flurries yesterday and last night, but amounts were an inch or less.
+<PLACE>Italy</PLACE>'s state-owned &lt;Banca Nazionale Del Lavoro-BNL> said it is negotiating to buy a West German bank as part of its foreign expansion policy.
+<ORG>European Community</ORG> industrial output increased by an average of around two pct last year, compared with 3.3
+All GM vehicles sold in Europe are manufactured in the United States and Canada, he said, adding that most sales were in <PLACE>Switzerland</PLACE> followed by Sweden and West Germany.
+<PLACE>Syria</PLACE> has complained to the United Nations that Israeli occupation authorities were blocking the export of citrus fruit from the Gaza Strip to the countries of the European Community, EC.
+The Syrian envoy said the <PLACE>Israel</PLACE> action was a violation of the Geneva Conventions, the U.N. Charter and the "legitimacy of the economic rights endorsed by the United Nations."
+The Gaza Strip, occupied by Egypt in the 1948 Arab- <PLACE>Israel</PLACE> war, was captured by <PLACE>Israel </PLACE> in the 1967 Middle East war.
+LyphoMed Inc said it has tentatively agreed to form a joint venture with privately-held Novopharm Ltd of <PLACE>Canada</PLACE> whereby each will market the other's drug in their home country.
+LyphoMed will sell Novopharm's oral pharmaceutical drugs in the U.S. and Novopharm will sell Lyphomed's injectable pharmaceutical drugs in <PLACE>Canada</PLACE>, it said.
+Keflex is an antibiotic with a current market in excess of 250 mln dlrs. It will be made by Novopharm in <PLACE>Canada</PLACE>, sold to the new joint venture, and distributed by LyphoMed in the U.S., it said.
+<PLACE>Canada</PLACE>'s current account deficit widened to a seasonally adjusted 2.27
+billion dlrs in the third, Statistics <PLACE>Canada</PLACE> said.
+<PLACE>Canada</PLACE>'s gross domestic product, by industry, rose a seasonally adjusted 1.2
+pct in December, the largest monthly gain since April, 1986, Statistics <PLACE>Canada</PLACE> said.
+Craxi, <PLACE>Italy</PLACE>'s prime minister for a postwar record of 3-1/2 years, told the Senate (upper house) he would hand his and the government's resignation to President Francesco Cossiga immediately after leaving the chamber.
+Ford Motor Co of <PLACE>Canada</PLACE> Ltd, 90 pct owned by Ford Motor Co &lt;F>, said the earlier reported decline in full year net profit was mainly due to changeoover costs at its Essex, Ontario engine plant.
+Ford <PLACE>Canada</PLACE> also said sharply improved fourth quarter results were due to improved cost recovery and lower product program costs, partially offset by lower engine production.
+Ford <PLACE>Canada</PLACE> said full-year earnings from its Canadian operations declined 75.4
+Ford <PLACE>Canada</PLACE> reported a full year loss of 2.9
+The company reported full-year domestic sales in <PLACE>Canada</PLACE> of 4.35
+Ford <PLACE>Canada</PLACE> said it had 1986 export sales to its parent company of 7.97
+Ford <PLACE>Canada</PLACE>'s net loss for the year from overseas operations resulted from lower industry volumes and increased interest costs, the company said.
+Despite increased competition, Ford <PLACE>Canada</PLACE>'s market share of car sales rose to 17.2 pct from 17.0
+Ford <PLACE>Canada</PLACE> said sales were boosted by its Ford Tempo car and Ford light truck, both manufactured in Oakville, which were <PLACE>Canada </PLACE>'s best selling car and truck nameplates in 1986.
+<PLACE>Venezuela</PLACE> will limit new loans to 50 pct of the interest and principal it repays on its 31 billion dlr foreign debt, President Jaime Lusinchi told political leaders.
+Speaking last night at a new session of congress, he said last week's agreement to reschedule 21 billion dlrs in public sector foreign debt at lower interest rates reflected <PLACE>Venezuela</PLACE>'s improved credit image. "
+<PLACE>Venezuela</PLACE> agreed last Friday with its 13-bank advisory committee to lower the interest margin to 7/8 pct over libor from 1-1/8 and reduce amortisations in the next three years to 1.35 billion dlrs from 3.35
+He said the country had been loyal to the principles of the Cartagena group of Latin American debtors but had "decided to reach an agreement convinced that <PLACE>Venezuela</PLACE> is a specal case, because of the vulnerability of its economy."
+<PLACE>Venezuela</PLACE> signed a 12-1/2 year rescheduling accord in February, 1986, but immediately sought new terms because of falling oil income, which dropped 40 pct last year.
+Finance Minister Manuel Azpurua told reporters he hopes to sign the new rescheduling accord early in the second quarter, but that in any case it would become effective from April 1. Azpurua said <PLACE>Venezuela</PLACE>'s 450 or so creditor banks have been contacted with details of the new agreement, and that Public Finances Director Jorge Marcano may visit financial centres to round up support.
+He said banks had shown willingness to consider new loans to <PLACE>Venezuela</PLACE>, a fundamental achievement in the new accord. "
+BBL, <PLACE>Belgium</PLACE>'s second largest commercial bank, had failed to win shareholder approval for the move last month because of a lack of quorum.
+<PLACE>Chile</PLACE>'s consumer price index rose 1.7
+<PLACE>Japan</PLACE> bought 5,000 tonnes of Canadian rapeseed overnight at an undisclosed price for April shipment, trade sources said.
+&lt;Royal Bank of <PLACE>Canada</PLACE>> said it estimates 1987 loan losses at one billion dlrs, a 25 mln dlr increase over last year.
+BBL, <PLACE>Belgium</PLACE>'s second largest commercial bank, had failed to win shareholder approval for the move last month because of a lack of quorum.
+Nigeria and Guinea agreed to set up a new company with <PLACE>Liberia</PLACE> to carry out the 14-year-old Mifergui-Nimba iron ore project, an official communique said.
+Originally, Guinea held 50 pct in the project and <PLACE>Nigeria</PLACE> 16.2
+Musa said <PLACE>Liberia</PLACE> was invited to join and its share will be decided after a project feasibility study.
+pct in November, Statistics <PLACE>Canada</PLACE> said.
+<PLACE>Denmark</PLACE>'s net official reserves rose to 36.34 billion crowns in February from 28.00
+A <ORG>World Bank</ORG> team led by senior economist Katrine Saito arrived in Uganda for talks on an economic recovery program projected to cost one billion dlrs over three years.
+An <ORG>International Monetary Fund</ORG> (IMF) team is due here over the same period, a World Bank offical said.
+The <ORG>World Bank</ORG> last year criticised Uganda's policies on deficit financing and exchange and interest rates, issues likely to dominate talks on the government's proposed recovery program.
+He did not say where the money would come from, but diplomats expect the government to ask the <ORG>World Bank</ORG> and other foreign donors to provide most of the foreign exchange portion.
+&lt;Royal Bank of <PLACE>Canada</PLACE>>, in reporting a 19 pct drop in first quarter earnings, said it expects to report improved results in future earnings periods. "
+The <ORG>World Bank</ORG> is launching a 300 mln markka seven-year straight issue, due March 11, 1994 with a coupon of 10 pct payable semi-annually and an issue price of 101-1/8, lead manager Postipankki said.
+Belgian Foreign Trade Minister Herman De Croo said if Congress passed legislation curbing world textile imports the only way the <ORG>European Community</ORG> (EC) could react was to retaliate.
+Coffee producing countries must quickly map out a fresh common strategy following the failure of the International Coffee Organization, ICO, to reach agreement on export quotas, Gilberto Arango, president of <PLACE>Colombia</PLACE>'s private coffee exporters' association, said.
+Arango told Reuters that the most intelligent thing now would be to seek a unifying stand from producers, including <PLACE>Brazil</PLACE>, in order to map out a strategy to defend prices.
+An ICO special meeting ended last night in London with exporting and consuming nations failing to agree on a resumption of export quotas, suspended one year ago after prices soared following a prolonged drought in <PLACE>Brazil</PLACE>.
+However, he said the market should also take into account evident factors such as <PLACE>Brazil</PLACE>'s low stocks and the sale of the near totality of the Central American crop.
+Trade sources said <PLACE>Colombia</PLACE>'s coffee was today quoted at 1.14 dlrs a lb in New York, its second lowest price in the past 10 years.
+In <PLACE>Colombia</PLACE>'s case, we watch with consternation that, while we try to effectively combat drug trafficking, countries which support us in this fight seek to cut our jugular vein," Cardenas said.
+<PLACE>Colombia</PLACE> is holding a snap selling tender tonight for one cargo of world market raw sugar, traders said.
+A <ORG>World Bank</ORG> team led by senior economist Katrine Saito arrived in Uganda for talks on an economic recovery program projected to cost one billion dlrs over three years.
+An <ORG>International Monetary Fund</ORG> (IMF) team is due here over the same period, a World Bank offical said.
+Diplomats expect the government to ask the <ORG>World Bank</ORG> and other foreign donors to provide most of the foreign exchange portion.
+The <ORG>International Monetary Fund</ORG> said it approved 125.9
+mln SDR's to assist development in <PLACE>Jamaica</PLACE>.
+The IMF said that <PLACE>Jamaica</PLACE> had a shortfall in the year ended September 1986 due to reduced sales of Bauxite, alummina and travel expenditures.
+After some deterioration, the situation and prospects for <PLACE>Jamaica</PLACE> improved substantially in 1986 and early 1987, mainly as a result of a decline in energy prices and interest rates, and a strong recovery in the tourist sector, the IMF said.
+Recent heavy rains have not affected the <PLACE>Peru</PLACE> coffee crop and producers are looking forward to a record harvest, the president of one of <PLACE>Peru </PLACE>'s four coffee cooperative groups said.
+Justo Marin Ludena, president of the Cafe <PLACE>Peru</PLACE> group of cooperatives which accounts for about 20 pct of <PLACE>Peru </PLACE>'s exports, told Reuters a harvest of up to 1,800,000 quintales (46 kilos) was expected this year.
+He said <PLACE>Peru</PLACE> exported 1,616,101 quintales in the year to September 1986.
+He said <PLACE>Peru</PLACE> exported 1,381,009 quintales to ICO members last year with a value of around 230 mln dlrs, and another 235,092 quintales, valued at around 35 mln dlrs, to non-ICO members.
+The White House said President <PERSON>Reagan</PERSON> would make an announcement at 1530 EST/2030 gmt but the topic was undisclosed.
+Athough <PERSON>Reagan</PERSON>'s topic was not disclosed, speculation centered on the possible naming of a nominee to to head the CIA or a response to the Soviet Union's offer to negotiate a separate arms control agreement on medium range missiles in Europe.
+The <ORG>International Monetary Fund</ORG>, IMF, said it approved 125.9
+mln sdr's to assist development in <PLACE>Jamaica</PLACE>.
+mln is available immediately following an export shortfall for <PLACE>Jamaica</PLACE> in the year ended September 1986 due to reduced income from bauxite, alumina and tourism, the IMF said.
+Assistant Treasury Secretary David Mulford said rapid progress was being made in talks with commercial banks for loans to Argentina, the <PLACE>Philippines</PLACE> and Brazil. "
+We look for rapid progress in commercial bank discussions with Argentina, the <PLACE>Philippines</PLACE>, and ultimately Brazil," he said.
+Statistics <PLACE>Canada</PLACE> reported that gross domestic product, grew 3.1
+"We weren't surprised, we expected to see one bad quarter in <PLACE>Canada</PLACE>, but we don't think there will be a recession," she added.
+Statistics <PLACE>Canada</PLACE> also reported the country's trade performance deteriorated sharply last year as the deficit in the current account rose to a record 8.8
+Nearly 80 pct of <PLACE>Canada</PLACE>'s exports are shipped to the U.S. each year.
+President <PERSON>Reagan</PERSON> said the United States would offer a draft treaty on medium-range missile reductions at talks with the Soviet Union in Geneva tomorrow.
+<PERSON>Reagan</PERSON> also said in a brief televised appearance in the White House briefing room that he was summoning Ambassador Max Kampelman and the other top U.S. arms negotiators home for consultations later this week.
+Welcoming Soviet leader Mikhail Gorbachev's offer Saturday to proceed with a treaty on Intermediate Range Nuclear forces (INF) separate from strategic and space weapons, <PERSON>Reagan</PERSON> said: "
+"To seize this new opportunity I have instructed our negotiators to begin presentation of our draft INF treaty text at Geneva tomoorrow," <PERSON>Reagan</PERSON> said.
+He said Gorbachev's new offer Saturday ending the linkage of the three areas of negotiations removed a major barrier to agreement and was consistent with the Soviet position at the earlier <PERSON>Reagan</PERSON>-Gorbachev summit in Geneva in November 1985.
+mln dlrs under its interemdiate export credit guarantee program, GSM-103, for sales of U.S. wheat to <PLACE>Morocco</PLACE>, the U.S. Agriculture Department said.
+The action increases <PLACE>Morocco</PLACE>'s cumulative fiscal year 1987 program for wheat under GSM-103 to 75.0 mln dlrs. The credit terms extended for exports under the program must be in excess of three years but no more than seven years to eligible for credit coverage.
+The next six weeks in the <PLACE>Ussr</PLACE>'s grain growing areas will be the crucial period that will determine the final outcome of the winter crops, Martell and other analysts said. "
+Where the crop is really made or broken is still ahead of us," an Agriculture Department authority on the <PLACE>Ussr</PLACE> said.
+Traders said that there have been persistent rumors today that Japanese buyers are looking to pick up cargoes of Brent for <PLACE>Japan</PLACE> and European trade sources indidate rumors of vessels being fixed to make such shipments.
+But <PLACE>Brazil</PLACE> is keeping its marketing options open.
+<PLACE>Brazil</PLACE> is defining details of public selling tenders for coffee bought on London's futures market last year.
+Dauster said stocks and exports to ICO members and non-members all need to be considered when setting quotas and that <PLACE>Brazil</PLACE> would like to apply the coffee pact with a set ratio of overall quota reflecting stock holdings.
+It is a "simplistic misconception that <PLACE>Brazil</PLACE> can dictate" policy to other producers.
+But most delegates and traders said quotas before October are unlikely, while <PLACE>Brazil</PLACE>'s Dauster noted the ICO has continued although there were no quotas from 1972 to 1980.
+The department said the main measures in the bill include the previously announced consolidation of federal supervisory agencies into the new Office of the Superintendent of Financial Institutions and a strengthening of the <PLACE>Canada</PLACE> Deposit Insurance Act.
+&lt;PanCanadian Petroleum Ltd> said it agreed to sell its working interest in its North Sea properties and its British unit, Canadian Pacific Oil and Gas of <PLACE>Canada</PLACE> Ltd, to Whitehall Petroleum Ltd, a private British company.
+Production of barbecue grills and lawn mowers is also under review at the Toronto plant, operated by the company's Sunbeam Corp ( <PLACE>Canada</PLACE>) unit.
+The plant will continue selling appliances in <PLACE>Canada</PLACE>.
+<PLACE>Canada</PLACE>'s 1.20
+Overall prices fell as much as a point, with the benchmark <PLACE>Canada</PLACE> 9-1/2 pct of 2001 at 106-3/8 5/8, the 8-1/4 pct of 1997 at 99 99-1/4 and the 8-1/2 pct of 2011 at 98-1/8 3/8.
+The U.S. is sticking for the moment to its policy that <PLACE>Brazil</PLACE>, which two weeks ago suspended debt payments to private banks, should deal with its creditors and not with governments, U.S. officials said. "
+I don't see any desire here to scurry around and help <PLACE>Brazil</PLACE> until we get a better sense of what they are trying to do," a senior administration official stated. "
+<PLACE>Brazil</PLACE> has to do business through the banks at this point," said another official following an assessment of that country's latest debt crisis.
+In a related development, small regional banks that have made loans to <PLACE>Brazil</PLACE> and other heavily-indebted Latin American countries, will meet with Federal Reserve Chairman Paul Volcker here tomorrow.
+<PLACE>Brazil</PLACE>, with about 108 billion dlrs in debt, shocked banks late last month when it stopped interest payments on 68 billion dlrs owed to them until it can work out its problems.
+<PLACE>Brazil</PLACE>'s trade surplus, its main source of foreign exchange has dwindled in recent months, making it difficult to service its debt.
+Funaro, who told reporters here that he wanted a political discussion with industrialized nations on <PLACE>Brazil</PLACE>'s debt problems in an effort to obtain more and faster lending from official sources, held discussions here on Friday with Volcker, Treasury Secretary James Baker and other officials.
+Another senior administration official said he was perplexed by Funaro's decision to discuss the latest crisis with governments and not with creditor banks, at a time when <PLACE>Brazil</PLACE> is in danger of losing short-term credit lines. "
+One official today described Funaro's argument as "nonsense," and said there had been a considerable flow of funds to <PLACE>Brazil</PLACE>, for which that country was in arrears.
+Funaro has said <PLACE>Brazil</PLACE> acted to protect its reserves but wanted to avoid a confrontation.
+The consensus among administration officials seems to be that <PLACE>Brazil</PLACE>'s latest debt crisis is the result of the domestic economic problems. "
+<PLACE>Brazil</PLACE> is a special case, but there's no doubt they would not be in the mess they're in if they had not screwed-up their economic policy," a senior official added.
+The sources added that Volcker, for his part, is dissatisfied with some major banks' refusal to make interest rate concessions to <PLACE>Brazil</PLACE> and other Latin American debtors, and would like to see smaller creditor banks take a more actve role in the rescheduling process.
+In its World Production and Trade Report, the department said traders indicated <PLACE>China</PLACE> may lack supplies or be unwilling to sell at current low world prices.
+If the reports are confirmed, <PLACE>China</PLACE>'s major export destinations such as USSR, Japan, and South Korea, could increase purchases of U.S. corn, it said.
+<PLACE>China</PLACE> is currently forecast to export 5.5
+The <ORG>European Community</ORG>, EC, sold 75,000 tonnes of soft wheat at a subsidized price of between 85 and 89 dlrs per tonne FOB for March delivery in a continuing bid to establish itself in the Brazilian wheat market, the U.S. Agriculture Department said.
+EC sales to <PLACE>Brazil</PLACE> total about 225,000 tonnes during 1986/87 (July-June) in stark contrast to only 50,000 tonnes in the 1985/86 season, it said.
+The increasing presence of EC wheat in <PLACE>Brazil</PLACE> comes at a time when the Brazilian Wheat Board, BWB, expects the wheat import market will expand to 3.4 mln tonnes from the current forecast of 3.0
+Commerce Secretary Malcolm Baldrige said he felt a proposed takeover by <PLACE>Japan</PLACE>'s &lt;Fujitsu Ltd> of U.S.-based Fairchild Semiconductor Corp, a subsidiary of Schlumberger Ltd &lt;SLB>, should be carefully reviewed.
+The Reagan administration has previously expressed concern that the proposed takeover would make Fujitsu a powerful part of the U.S. market for so-called supercomputers at a time when <PLACE>Japan</PLACE> has not bought any American-made supercomputers.
+<PLACE>Taiwan</PLACE> passed on its tender overnight for 25,000 tonnes of U.S. corn and 49,000 tonnes U.S. sorghum, private export sources said.
+<PLACE>Taiwan</PLACE> will retender for the corn, for May 15-30 shipment if via the Gulf, or June 1-15 via Pacific northwest, on March 6, but has not rescheduled a tender for sorghum, they said.
+<PLACE>Bangladesh</PLACE> passed on its weekend tender for 100,000 tonnes of optional origin soft wheat, private export sources said.
+GTX Corp said Nippon Steel Co of <PLACE>Japan</PLACE>, in a move to diversify into high technology, invested eight mln dlrs in GTX.
+<PLACE>Iraq</PLACE> said its troops repelled an overnight Iranian attack east of the southern port city of Basra, scene of several Iranian Gulf war thrusts in the past two months.
+<PLACE>Iran</PLACE> said it had made fresh gains in the attack southwest of the man-made Fish lake, some 10 km (six miles) from Basra.
+President <PERSON>Reagan</PERSON> nominated Federal Bureau of Investigation Director William Webster to be director of the Central Intelligence Agency (CIA), in succession to ailing William Casey.
+The announcement came one day after <PERSON>Reagan</PERSON> withdrew the nomination of Deputy CIA Dirctor Robert Gates, who faced opposition in the Senate because of the CIA's role in the Iran-contra scandal. "
+Bill Webster will bring a remarkable depth and breadth of experience as well as a remarkable record of achievement to this position," said <PERSON>Reagan</PERSON> in a statement read by White House spokesman Marlin Fitzwater.
+President <PERSON>Reagan</PERSON>, seeking to salvage his Central America policy from the Iran arms scandal, said a major U.S. economic program for the region was working but needed 500 mln dlrs more than originally planned.
+The report, mandated by Congress, explains how the administration intends to carry out the recommendations of the <PERSON>Reagan</PERSON>-appointed Kissinger Commission, which in 1984 developed a blueprint for U.S. policy in the region that was meant to offset <PERSON>Reagan</PERSON>'s military aid program for Nicaraguan rebels.
+The Soviet Union and its allies have provided the Sandinista regime military hardware and sufficient economic aid to keep <PLACE>Nicaragua</PLACE>'s failed economy afloat," Reagan said.
+<ORG>European Community</ORG> Farm Commissioner Frans Andriessen welcomed the agreement on details of dairy output cuts over two years and promised new measures to help farmers hurt by the drive to reduce EC surpluses. "
+European Currency Units (Ecus) per 100 kilos at today's <ORG>European Community</ORG> (EC) tender, the U.K. Intervention Board said.
+Out of this, traders in the U.K. Received 43,500 tonnes, in the <PLACE>Netherlands</PLACE> 12,000, in Denmark 4,000 and in West Germany 1,000 tonnes.
+<PLACE>Iran</PLACE> announced it had launched a new offensive against Iraq in the north-west area of the Gulf war front.
+Tehran radio, monitored by the British Broadcasting Corporation, said the attack was launched last night in the Haj Omran area of northern <PLACE>Iraq</PLACE>.
+<PLACE>Singapore</PLACE> Finance Minister Richard Hu in his budge speech introduced a tax package he said aims at consolidating economic recovery.
+In order to further accelerate development of the capital market and fund management activities, from the year of assessment 1988 income earned by Asian Currency Units and securities companies approved by the Monetary Authority of <PLACE>Singapore</PLACE> will be taxed at a concessionary rate of 10 pct.
+This will make <PLACE>Singapore</PLACE> a more attractive place to carry out such transactions, he added.
+<PLACE>Greece</PLACE> aims to reduce foreign borrowing to 1.6 or 1.7
+billion in 1986, and will use some of the funds to make early debt servicing payments, the Governor of the Bank of Greece, <PERSON>Dimitris Halikias</PERSON>, said.
+He told reporters this year's borrowing forecast exceeded immediate needs, but <PLACE>Greece</PLACE> wanted to take advantage of low international interest rates in order to make servicing payments at a lower cost.
+<PLACE>Greece</PLACE>'s foreign debts totalled 16.8
+billion at end-1985, <PERSON>Halikias</PERSON> said.
+He said the extra funds available to <PLACE>Greece</PLACE> this year will go towards servicing debts falling due after 1990.
+He said <PLACE>Greece</PLACE> was able to cut borrowing because a two-year austerity program it adopted in October, 1985 cut its current account deficit to 1.75 billion dlrs last year from a record 3.3
+<PERSON>Halikias</PERSON> said he was "fairly optimistic" Greece would reach a current account deficit target of 1.25
+The company began broadcasting its service to more than 100 cablesystems across <PLACE>Canada</PLACE> on January 15.
+<PLACE>Venezuela</PLACE> plans to have a public sector foreign debt of 26.5
+pressure on banks had more to do with the unexpectedly speedy agreement than <PLACE>Brazil</PLACE>'s decision to suspend interest payments. "
+The <PLACE>Brazil</PLACE> announcement came later," he said.
+A pact with Chile, with a one pct spread, came a day before <PLACE>Venezuela</PLACE>'s.
+Marcano said a telex sent to <PLACE>Venezuela</PLACE>'s 450 creditors seeks support for the government's foreign borrowing plans, which are aimed at aluminium, steel and iron ore projects. "
+Spain unveils a 105 billion peseta plan this month aimed at boosting exports to reach <ORG>European Community</ORG> levels, director-general of the INFE export institute, Apolonio Ruiz Ligero, said. "
+The plan calls for providing soft loans, tax cuts and other fiscal benefits to exporters and raising <PLACE>Spain</PLACE>'s presence in international trade fairs.
+He added that 80 pct of <PLACE>Spain</PLACE>'s exports went to Organisation for Economic Cooperation and Development (OECD) countries.
+The <ORG>European Community</ORG> is close to bankruptcy, the EC's Executive Commission said in a report.
+Secretary of Commerce Malcolm Baldrige expressed concern about the continuing U.S. trade deficits with South Korea and <PLACE>Taiwan</PLACE> and said that without an adjustment in exchange rates there is little likelihood of improvement.
+I feel that unless we see an exchange rate adjustment we probably won't be able to see much of a change in the large surplus that <PLACE>Taiwan</PLACE> in particular has with us," he said.
+In a wide-ranging discussion on U.S. trade matters, Baldrige also repeated U.S. concern about an attempted takeover by <PLACE>Japan</PLACE>'s Fujitsu company of Fairchild Computer.
+Lastly, Baldrige said that the United States was hopeful that it could complete a free market agreement with <PLACE>Canada</PLACE> by the autumn, but said major issues, including acid rain, remained unresolved.
+The <ORG>European Community</ORG> is close to bankruptcy, the EC's Executive Commission said in a report.
+Out of this, traders in the U.K. Received 43,500 tonnes, in the <PLACE>Netherlands</PLACE> 12,000, in Denmark 4,000 and in West Germany 1,000 tonnes.
+Landesbank Rheinland-Pfalz International SA is issuing a 300 mln <PLACE>Luxembourg</PLACE> franc private placement bond with a 7-1/4 pct coupon at par, lead manager Caisse d'Epargne de l'Etat du Grand-Duche de <PLACE>Luxembourg </PLACE> said.
+points for the <PLACE>Netherlands</PLACE> and West Germany, minus two for Denmark, minus eight for France, minus nine for Ireland, minus 5.7
+for <PLACE>Italy</PLACE>, minus 30.2
+for <PLACE>Greece</PLACE> and minus 10.5
+for <PLACE>Spain</PLACE>.
+Latin American debtor nations are still willing to negotiate on their debts, <ORG>World Bank</ORG> director for Latin America and the Caribbean Rainer Steckhan said.
+In an article published in today's Handelsblatt daily, Steckhan said despite decisions by Peru, Costa Rica, <PLACE>Ecuador</PLACE> and Brazil to suspend some interest payments, these nations were still willing to talk constructively about their debts. "
+<PLACE>Chile</PLACE> achieved gross national product growth of five to six pct last year and quadrupled its trade surplus from 1984, despite lower prices of key commodity exports like copper.
+<PLACE>Mexico</PLACE>, hit by a catastrophic earthquake and declines in world oil prices also boosted its non-oil exports by one third in 1986, the highest growth rate in its post-war history.
+The <ORG>World Bank</ORG>'s annual lending to Latin America rose to 4.8 billion dlrs last year from three billion in 1984, he said.
+Governor Martha Seger said she was concerned that <PLACE>Japan</PLACE> was not involved in the U.K.-U.S. effort to draft new capital rules.
+The 350 mln Ecu three-year package of social and structural measures agreed early today by <ORG>European Community</ORG> farm ministers features a plan to compensate farmers for reducing output of certain surplus products, EC Commission sources said.
+Landesbank Rheinland-Pfalz International SA is issuing a 300 mln <PLACE>Luxembourg</PLACE> franc private placement bond with a 7-1/4 pct coupon at par, lead manager Caisse d'Epargne de l'Etat du Grand-Duche de <PLACE>Luxembourg </PLACE> said.
+<PLACE>Jamaica</PLACE> will draw down 40.9
+mln Special Drawing Rights (SDRs) from the <ORG>International Monetary Fund</ORG> following IMF approval yesterday of a new credit program for the island, the government announced.
+<PLACE>Poland</PLACE>'s winter wheat is likely to survive recent frosts but the impact of the cold will not be known until late April, the Polish meteorology institute said.
+Some varieties of winter wheat sown in <PLACE>Poland</PLACE> can survive ground temperatures as low as minus 20 degrees C, Spokesman Teresa Tomaszewska told Reuters.
+At the ICO talks major consuming nations, led by the U.S., proposed that future coffee export quota shares be calculated by a formula incorporating a producer's recent exportable production and verified stocks, while large producers led by <PLACE>Brazil</PLACE> proposed maintaining the traditional ad hoc division of shares.
+The consumer position would have in effect reduced the market share of <PLACE>Brazil</PLACE>, by far the world's largest producer.
+involved in coffee policy said they are bracing for a diplomatic and coffee market offensive from producer countries, led by Brazil and <PLACE>Colombia</PLACE>, to soften the consumer position. "
+Knowing that its next crop is fairly large, <PLACE>Brazil</PLACE> will kind of want to test the resolve of other producers and consumers," said one U.S. official.
+The U.S. official, who asked not to be identified, said Brazil and <PLACE>Colombia</PLACE> may flood the coffee market in the next few months in an effort to drive down prices and pressure other countries, particularly the splinter group of small producers who differed with the major producers in London.
+El Salvador and <PLACE>Guatemala</PLACE> both backed Brazil and Colombia at the London talks in resisting pressures for quotas based on objective criteria.
+There is a strong feeling among some in the State Department that the United States should continue to support the splinter group of producers who have taken the politically-risky step of opposing <PLACE>Brazil</PLACE> on the objective criteria question, U.S. officials said.
+In London, the U.S. was supported by the U.K., the <PLACE>Netherlands</PLACE>, West Germany, Japan, Australia and New Zealand on the issue of objective criteria, U.S. officials said.
+However, U.S. sources said West Germany's support was at times qualified and there is some concern that the <ORG>European Community</ORG> could come under pressure to be more accommodative to producers in future talks.
+While political manuevering by small producers and consuming countries will be important, U.S. officials said the key to any future outcome will be <PLACE>Brazil</PLACE>'s position.
+U.S. officials blamed <PLACE>Brazil</PLACE>'s intransigence for the failure of the talks and said a more flexible position from Brasilia would be the most important step toward agreement.
+Torrential rains throughout <PLACE>Argentina</PLACE>'s grain-producing areas virtually paralysed coarse grain harvesting in the week to yesterday, trade sources said.
+The <ORG>European Community</ORG> Commission today appointed its chief spokesman, Hugo Paemen, as its top official in charge of multilateral trade negotiations, a Commission spokesman said.
+Brazilian Finance Minister Dilson Funaro met his Swiss counterpart Otto Stich, Swiss Economics Minister Jean-Pascal Delamuraz and National Bank President <PERSON>Pierre Languetin</PERSON> on the fourth leg of a tour to discuss his country's debt problems.
+Funaro said a mechanism would have to be found to end <PLACE>Brazil</PLACE>'s debt crisis but it would not be easy.
+<PLACE>Brazil</PLACE> would not repeat the measures it took in response to its debt crisis of 1982, which he said had provoked the biggest recession in his country's history, he added.
+He said European and Japanese banks were showing a more flexible attitude towards <PLACE>Brazil</PLACE>'s problems than U.S. Banks and it was difficult to discuss capitalisation with the latter.
+Funaro, who travels to Italy this evening, said it was unclear if he would go to Japan on Friday or return to <PLACE>Brazil</PLACE> first.
+The new <ORG>European Community</ORG> dairy regime agreed last night is too complicated and may destabilise prices, Abele Kuypers, secretary of the dairy section of the Dutch farmers' organisation Landbouwschap said.
+<PLACE>India</PLACE> bought up to 10 cargoes of white sugar at a buying tender today which originally called for just two to three cargoes of March/April shipment, traders said.
+<PLACE>Turkey</PLACE> expects a 1986 balance of payments deficit of 1.5
+Tigrel, whose department produces the annual programme which is central to the government's economic planning, said <PLACE>Turkey</PLACE>'s creditworthiness was at risk over the current account shortfall, originally targeted at 695 mln dlrs. "We must alleviate the current account substantially to sustain the creditworthiness that we have managed to secure over the last five years," he added.
+His comment echoed last October's <ORG>Organisation for Economic Cooperation and Development</ORG> report on Turkey, which said Ankara's case for more medium-term financing on better terms would look better if inflation were lower and the current account deficit cut or turned into a surplus. "
+President <PERSON>Reagan</PERSON> angrily denounced press reports that his wife, Nancy, is running the government as "despicable fiction."
+<PERSON>Reagan</PERSON> made the comments at a photo session with William Webster, his nominee as head of the Central Intelligence Agency.
+The president and Mrs <PERSON>Reagan</PERSON> celebrate their 35th wedding anniversary today as <PERSON>Reagan</PERSON> prepares to make an address to the nation on the Iran-contra scandal tonight.
+When a reporter asked about Mrs <PERSON>Reagan</PERSON>'s role in government, <PERSON>Reagan</PERSON> replied: "
+Pressed for further comment, <PERSON>Reagan</PERSON> said, "The idea that she is involved in governmental decisions and so forth.
+<PERSON>Reagan</PERSON> flatly denied that that his wife had had a role in the departure from the White House last Friday of <PERSON>Reagan</PERSON>'s chief of staff, Donald Regan, as has been widely reported.
+Regan's successor, former senator Howard Baker, was in the room as <PERSON>Reagan</PERSON> made his comments.
+Central Bank director Daniel Marx said <PLACE>Argentina</PLACE>'s creditor banks were divided on the country's request for rescheduling its foreign debt. "
+<PLACE>Argentina</PLACE>'s great efforts to comply with obligations on its 50 billion dlr foreign debt should be met by a reduction in interest rates on the part of the creditor banks, he said.
+Marx is in New York with <PLACE>Argentina</PLACE>'s debt negotiating team holding talks with the creditor banks' steering committee.
+If <PLACE>Venezuela</PLACE> and Mexico have concluded their negotiations, we want to end (ours) in a reasonable manner and as soon as possible," he said.
+<PLACE>Argentina</PLACE> is seeking a 2.15 billion dlr loan to meet four pct growth targets in 1987.
+The United States said last week it would support a 500 mln dlr bridging loan for <PLACE>Argentina</PLACE>.
+Ford Motor Co of <PLACE>Canada</PLACE>, 90 pct-owned by Ford Motor Co &lt;F>, said February car sales fell six pct to 13,734 units from year-earlier 14,589 units.
+French soft wheat exports to other <ORG>European Community</ORG> countries fell 18 pct to 4.13 mln tonnes in the first seven months of the 1986/87 season to January compared with 5.04
+mln in the same 1985/86 period, West Germany 480,450 tonnes against 717,689, the <PLACE>Netherlands</PLACE> 462,048 (532,299) and Belgium 417,887 tonnes (919,337). British and Greek imports of French soft wheat during this period were below year-ago levels.
+Ford Motor Co of <PLACE>Canada</PLACE>, 90 pct-owned by Ford Motor Co, said February car sales fell six pct to 13,734 units from year-earlier 14,589 units.
+billion dlrs trade surplus with the U.S. is bound to diminish as the country switches purchases from <PLACE>Japan</PLACE> in favor of U.S. companies, Trade Minister Woong-Bae Rha said.
+billion surplus with the U.S. and a 5.5 billion dlr deficit with <PLACE>Japan</PLACE>.
+American Telephone and Telegraph Co said it is offering its USA Direct service in <PLACE>Denmark</PLACE>.
+The service allows callers in <PLACE>Denmark</PLACE> to reach an ATT operator in the United States by dialing a single telephone number, 0430-0010, ATT said.
+If the wheat board, which markets most of <PLACE>Canada</PLACE>'s grain, obtains higher than expected prices on world markets, the farmers receive a final payment at the end of the crop year.
+The ruling GATT Council deferred a decision on whether to set up a dispute panel on the basis of a <ORG>European Community</ORG> complaint against the U.S.- Japanese agreement on exports of computer semiconductors.
+David Woods, spokesman of the <ORG>General Agreement on Tariffs and Trade</ORG> (GATT), told a news briefing that the main parties would continue bilateral talks.
+<PLACE>Japan</PLACE>'s delegate, Minoru Endo, and U.S. Ambassador Michael Samuels replied in the debate that the E.C. Charges were unfounded, but they were willing to continue bilateral talks.
+David Wood, official spokesman of the <ORG>General Agreement on Tariffs and Trade</ORG> (GATT), told a news briefing the decision was taken after bilateral consultations failed to resolve the row.
+U.S. Ambassador Michael Samuels charged during the Council debate that <PLACE>Canada</PLACE> was trying to preserve domestic jobs by insisting that herring and salmon be processed at home.
+Robert White, <PLACE>Canada</PLACE>'s deputy chief of delegation, replied the law was in line with GATT rules, and was for conservations reasons.
+<PLACE>Colombia</PLACE>'s cost of living index rose 2.03
+Healthy growth in corporate profits and in consumer spending, the two pillars on which <PLACE>Japan</PLACE> rests its hopes of sustained economic growth, both look rotten at the core, economists polled by Reuters said.
+The Bank of <PLACE>Japan</PLACE> said in its latest outlook that improved terms of trade linked to the strong yen would help domestic demand grow steadily.
+Poor business prospects are the reason why economic growth will be slow, even though <PLACE>Japan</PLACE>'s terms of trade have improved sharply due to the strong yen.
+<PLACE>Japan</PLACE> has a rapidly ageing population and minimal social security and its workers fear poverty in their old age.
+Iranian Oil Minister <PERSON>Gholamreza Aqazadeh</PERSON> is expected here on Friday for talks with his Algerian counterpart Belkacem Nabi, the official Algerian news agency APS said today.
+<PERSON>Aqazadeh</PERSON>, who will be accompanied by a large delegation, will have talks on bilateral relations in the field of energy and exchange views with Algerian officials on the current world energy situation, it said.
+&lt;Chase Manhattan Bank N.A.> is considering expanding its operations in <PLACE>Italy</PLACE>, particularly in the consumer banking sector, a Chase Manhattan official said.
+Asked if Chase Manhattan would consider an acquisition in <PLACE>Italy</PLACE>, Hunter said: "
+Earlier today Armand Guilbaud, president of Total's refining and distribution subsidiary Cie de Raffinage-Distribution (CRD) Total <PLACE>France</PLACE> &lt;RAFF.PA
+A consortium of electrics industry firms to challenge <PLACE>Japan</PLACE>'s presence in the global semiconductor market was announced by the Semiconductor Industry Association.
+The Bank of <PLACE>France</PLACE> said it will offer 7.5
+General Motors of <PLACE>Canada</PLACE> Ltd, wholly owned by General Motors Corp, said February car sales fell 17.8
+General Motors of <PLACE>Canada</PLACE> Ltd, wholly owned by General Motors Corp, said February car sales fell 17.8
+Colombian finance minister Cesar Gaviria blamed an inflexible U.S. position for the failure of last week's <ORG>International Coffee Organisation</ORG>, ICO, talks on export quotas. "
+Gaviria stressed that <PLACE>Colombia</PLACE> tried to ensure a successful outcome of the London talks but he deplored that intransigent attitudes, both from producing and consuming nations, made it impossible.
+In a conversation later with local journalists, Gaviria said the U.S. attitude would have serious economic and political consequences, not necessarily for a country like <PLACE>Colombia</PLACE> but certainly for other Latin American nations and for some African countries.
+He told Reuters that <PLACE>Colombia</PLACE>, because of the relatively high level of its coffee stocks, would probably suffer less.
+According to Gaviria, <PLACE>Colombia</PLACE> can hope to earn about 1,500 mln dlrs this calendar year from coffee exports, which traditionally account for 55 pct of the country's total export revenue.
+<PLACE>Colombia</PLACE>, which held stockpiles of 10.5
+<PLACE>Kenya</PLACE> has signed an agreement with British and German interests to establish a shipping line that will handle 40 pct of the country's external trade, sources close to the deal said.
+The state-owned <PLACE>Kenya</PLACE> Ports Authority, KPA, signed an agreement with the Hamburg-based shipping line Unimar Seetransport to establish the <PLACE>Kenya </PLACE> National Shipping line, with an initial capital of 100 mln shillings, sources said.
+The sources said it would aim to carry a large part of <PLACE>Kenya</PLACE>'s coffee and tea exports and oil and fertiliser imports.
+Former White House spokesman Larry Speakes said he and President <PERSON>Reagan</PERSON> misled the public unintentionally on the Iran arms scandal because they themselves were misled by others.
+In a televised interview, Speakes was contrasting the defensive, much-criticized efforts <PERSON>Reagan</PERSON> made in early attempts to cool the scandal with the dynamic speech he expected when the president addressed the nation tonight. "
+When we went into those press conferences and that nationwide address in November right after the ( <PLACE>Iran</PLACE>) story broke, the president did not have the proper information," Speakes said. "
+.." McFarlane has said that he, North and Poindexter had doctored a White House chronology to obscure and minimize <PERSON>Reagan</PERSON>'s role in the arms sales.
+The Canadian government's reduced borrowing needs enabled the Bank of <PLACE>Canada</PLACE> to make "aggressive use" of short term debt instruments and pare the cost of financing in 1986, the central bank said in its annual report.
+Bouey said the bank was able to reduce the number of new bond issues with maturities of 10 years of more, lessen the reliance on <PLACE>Canada</PLACE> Savings Bonds while raising substantailly more through short term treasury bill financings. "
+The advances were made largely to four banks, Canadian Commercial Bank, Northland Bank, Continental Bank of <PLACE>Canada</PLACE> and the Bank of British Columbia.
+Prospects for renewal of the five-year U.S./ <PLACE>Ussr</PLACE> grains agreement are uncertain at this point, a Soviet trade official told Reuters.
+Chrysler <PLACE>Canada</PLACE> Ltd, wholly owned by Chrysler Corp, said February car sales fell to 9,640 units from year-earlier 11,967 units.
+Chrysler <PLACE>Canada</PLACE> said year-to-date car sales fell to 18,094 units from 22,073 units in the same period last year.
+Federal Express Corp said it received a recommendation from an administrative law judge that it be awarded the exclusive air express route between the U.S. and <PLACE>Japan</PLACE>.
+KLM recently rejected invitations by TWA to coordinate price cuts on the Amsterdam route and a spokesman said KLM had only moved now to start up a nationwide promotional campaign in the <PLACE>Netherlands</PLACE> to boost travel to the U.S. Reuter &#3;
+President <PERSON>Reagan</PERSON>, fighting to recover politically from the Iran-contra scandal, plans to acknowledge in a critical speech to the nation tonight he needs to change his ways, administration officials said. "
+The official said <PERSON>Reagan</PERSON> would tell the public what he is doing to set things right in the wake of last week's scorching Tower commission report on the origins of the scandal.
+It is not clear whether <PERSON>Reagan</PERSON> will heed the advice of many of his political allies and acknowledge that his Iran policy was wrong and he personally made some mistakes.
+He said the speech would be 12 or 13 minutes in length and that <PERSON>Reagan</PERSON> would "look beyond the horizon to a revitalized White House that will pursue an active foreign policy."
+To date, <PERSON>Reagan</PERSON> has defended his decision to sell arms to Iran and conceded only there were errors in implementation.
+Senate Republican leader Robert Dole said tonight's speech might be <PERSON>Reagan</PERSON>'s last chance to repair his presidency. "
+He was responding to rumours in the international market that <PLACE>Brazil</PLACE> had raised its FCOJ prices in range of 1,075 to 1,150 dlrs per tonne.
+Congressmen from beef producing states and representatives of the U.S. livestock industry urged the Reagan administration to press <PLACE>Japan</PLACE> and South Korea to open up their markets to imports of beef.
+, said the administration should push hard for greater beef imports by <PLACE>Japan</PLACE> and South Korea.
+U.S. assistant trade representative Suzanne Earley, replied "we're not going to let <PLACE>Japan</PLACE> off the hook, or Korea."
+She noted trade representative Clayton Yeutter met with a senior Korean official last week on the beef issue, and that Yeutter and Agriculture Secretary <PERSON>Richard Lyng</PERSON> will visit Tokyo in April for discussions on farm trade issues.
+<PLACE>Japan</PLACE> maintains a quota on beef imports, set at 58,400 tonnes high quality beef in fiscal 1987.
+South Africa's total gold and foreign assets rose by 700 mln rand in February to 6.2 billion rand after rising by almost one billion rand in January, Reserve Bank Governor <PERSON>Gerhard de Kock</PERSON> said.
+De <PERSON>Kock</PERSON>, interviewed on state-run television, gave no breakdown of the reserves.
+President <PERSON>Reagan</PERSON> formally accepted the resignation of White House counsel Peter Wallison and named Arthur Culvahouse, an associate of new White House chief Howard Baker, to replace him.
+His resignation, which <PERSON>Reagan</PERSON> accepted "with deep regret," is effective on March 20.
+Whether the Soviet Union will fulfill its buying obligations under the U.S./ <PLACE>Ussr</PLACE> grains agreement depends entirely on the United States, a Soviet trade official told Reuters. "
+Sugar production in <PLACE>Peru</PLACE> for the 1986/87 season has been revised to 593,000 tonnes (raw value), down 10 pct from the previous forecast and 21 pct below the 1985/86 harvest, the U.S. Agriculture Department said in its World Production and Trade Report.
+A plan by U.S. semiconductor firms to cooperate in a manufacturing facility to compete with firms in <PLACE>Japan</PLACE> could conflict with anti-monopoly law, the plan's backers said.
+President <PERSON>Reagan</PERSON> will visit Rome and West Berlin during a trip to Europe in June to attend the Venice summit meeting of the major industrialized countries, the White House said.
+The announcement said <PERSON>Reagan</PERSON> and Nancy <PERSON>Reagan</PERSON> would be in Rome from June 3 to 6 as the guests of President Francesco Cossiga and would have an audience with Pope John Paul II on June 6. After the June 8-10 summit, <PERSON>Reagan</PERSON> will travel to West Berlin on June 12 to participate in the city's 750th anniversary and will meet West German Chancellor Helmut Kohl in Bonn before returning home the same day.
+A senior British official said that protectionist bills being considered by Congress could trigger retaliation by the <ORG>European Community</ORG> (EEC) and threaten the global trading system.
+U.S. Trade Representative <PERSON>Clayton Yeutter</PERSON> said he hoped the U.S. dollar would continue to decline in relation to the currencies of Taiwan and South Korea as a way to improve the U.S. trade picture.
+Asked by a committee member if he expected a further decline, and how much, <PERSON>Yeutter</PERSON> said the Taiwan and South Korean currencies should be adjusted to reflect "positive factors" in their economies.
+<PLACE>China</PLACE>'s 1986/87 sugar crop has been revised to 5.26 mln tonnes (raw value), down four pct from the previous forecast and five pct below the previous season, the U.S. Agriculture Department said.
+<PLACE>France</PLACE>'s Regie Nationale des Usines Renault has a controlling stake in American Motors.
+State Commerce Secretary Claude Pope said <PLACE>Japan</PLACE>'s Okuma Machinery Works LTD will build a multi-million dollar manufacturing machinery plant here.

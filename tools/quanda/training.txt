@@ -1,0 +1,2705 @@
+
+#*--------------------------------------------------------------
+#*- Mixture of 900 Q&A from TREC and other sources
+#*--------------------------------------------------------------
+
+1: What was the name of the first Russian astronaut to do a spacewalk?
+Aleksei A. Leonov###person
+
+2: Where is Belize located?
+Central America###place
+
+3: How much folic acid should an expectant mother get daily?
+400 micrograms###dimension
+
+4: What type of bridge is the Golden Gate Bridge?
+suspension###miscellaneous
+
+5: What is the population of the Bahamas?
+250,000###dimension
+
+6: How far away is the moon?
+quarter of a million miles###dimension
+
+7: What is Francis Scott Key best known for?
+The Star Spangled Banner###miscellaneous
+
+8: What state has the most Indians?
+California###place
+
+9: Who invented the paper clip?
+Norwegian Johan Varler###person
+
+10: How many dogs pull a sled in the Iditarod?
+8-12###dimension
+
+11: Where did bocci originate?
+Italian###place
+
+12: Who invented the electric guitar?
+Adolph Rickenbacker###person
+
+13: Name a flying mammal.
+Bats###miscellaneous
+
+14: How many hexagons are on a soccer ball?
+20###dimension
+
+15: Who is the leader of India?
+Prime Minister Vajpayee###person
+
+16: What is the primary language of the Philippines?
+Filipino###miscellaneous
+
+17: What is the habitat of the chickadee?
+mature trees with large insect populations###miscellaneous
+
+18: Who was Whitcomb Judson?
+inventor of the zipper###miscellaneous
+
+19: What is the population of Japan?
+122 million###dimension
+
+20: Who is the prime minister of Australia?
+Paul Keating###person
+
+21: Who killed Martin Luther King?
+James Earl Ray###person
+
+22: Who is Anubis?
+Egyptian god Anubis###person
+
+23: Where's Montenegro?
+Yugoslavia###place
+
+24: What does laser stand for?
+Light Amplification by Stimulated Emission###miscellaneous
+
+25: Who is the Greek God of the Sea?
+Poseidon###person
+
+26: Where is the Danube? 
+Europe###place
+
+27: Where does dew come from?
+dew recipe: take moist air and chill###miscellaneous
+
+28: What is platinum?
+metal###miscellaneous
+
+29: Who is the fastest swimmer in the world?
+Sandy Neilson###person
+
+30: When did the vesuvius last erupt?
+1944###time
+
+31: Who was the president of Vichy France?
+Marshall Petain###person
+
+32: Who invented television?
+Philo Farnsworth, Vladimir Zworykin###person
+
+33: Who made the first airplane?
+Orville and Wilbur Wright###person
+
+34: Who made the first airplane that could fly?
+Orville and Wilbur Wright###person
+
+35: How many astronauts have been on the moon?
+12 men###dimension
+
+36: Who is Coronado?
+Francisco Vasquez de Coronado###person
+
+37: Name one of the major gods of Hinduism?
+Brahma###miscellaneous
+
+38: What does the abbreviation OAS stand for?
+Organization of American States###miscellaneous
+
+39: Who is Barbara Jordan?
+Former U.S. Rep ###person
+
+40: How many years ago did the ship Titanic sink?
+73 years###time
+
+41: What is a caldera?
+huge flat craters###miscellaneous
+
+42: What was the name of the famous battle in 1836 between Texas and Mexico?
+Alamo###miscellaneous
+
+43: Where did the ukulele originate?
+Portugal###place
+
+44: Who invented baseball?
+Alexander Cartwright (historians say)###person
+
+45: Where can you find the Venus flytrap?
+North Carolina###place
+
+46: What did Vasco da Gama discover?
+sea route to India###miscellaneous
+
+47: Who won the Battle of Gettysburg?
+North###miscellaneous
+
+48: What is the largest snake in the world?
+reticulated pythons###miscellaneous
+
+49: Where is the Valley of the Kings?
+ancient egypt###place
+
+50: Where did the Maya people live?
+Mexico###place
+
+51: How many people live in Chile?
+13 million###dimension
+
+52: When was the first flush toilet invented?
+1775###time
+
+53: Who is William Wordsworth?
+a poet laureate###miscellaneous
+
+54: What is California's state bird?
+Valley Quail###miscellaneous
+
+55: Who thought of teaching people to tie their shoe laces?
+Starlace###person
+
+56: Who is buried in the great pyramid of Giza?
+Ancient King Menkaure###person
+
+57: What do penguins eat?
+squid and shrimp###miscellaneous
+
+58: Where do lobsters like to live?
+rock and coral formations###place
+
+59: What are birds descendents of?
+dinosaurs###miscellaneous
+
+60: What does NAFTA stand for?
+North American Free Trade Agreement###miscellaneous
+
+61: What company sells the most greeting cards?
+Hallmark Cards###org
+
+62: What is the name of the longest ruling dynasty of Japan?
+Hiromito###miscellaneous
+
+63: When was Babe Ruth born?
+1895###time
+
+64: Who wrote the Farmer's Almanac?
+Judson Hale###person
+
+65: What's the farthest planet from the sun?
+Pluto###miscellaneous
+
+66: Where was Pythagoras born?
+Greece###place
+
+67: What is the name for clouds that produce rain?
+cumulonimbus###miscellaneous
+
+68: Who killed Caesar?
+group of nobles that included Brutus and Cassias###person
+
+69: Who was Picasso?
+Pablo Picasso###person
+
+70: Where is the Orinoco?
+Venezuela' Federal Amazonas Territory###place
+
+71: How tall is the giraffe?
+18-foot-tall###dimension
+
+72: Where are there aborigines?
+Australia###place
+
+73: Who was the first U.S. president ever to resign?
+Nixon###person
+
+74: Who invented the game Scrabble?
+Alfred Butts###person
+
+75: About how many soldiers died in World War II?
+16 million###dimension
+
+76: How much money does the Sultan of Brunei have?
+dollars 37bn (pounds 20.7bn)###currency
+
+77: How large is Missouri's population?
+5,079,385###dimension
+
+78: What was the death toll at the eruption of Mount Pinatubo?
+200###dimension
+
+79: Who was Lacan?
+Jean-Francois Lacan###person
+
+80: What's the tallest building in New York City?
+Empire State Building###miscellaneous
+
+81: When did Geraldine Ferraro run for vice president?
+1984###time
+
+82: What do ladybugs eat?
+aphids###miscellaneous
+
+83: Where is Ayer's rock?
+Central Australia###place
+
+84: What is the life expectancy of an elephant?
+nearly 70###dimension
+
+85: When was the first railroad from the east coast to the west coast completed?
+1869###time
+
+86: What is the nickname of Pennsylvania?
+Keystone State###miscellaneous
+
+87: Who is Desmond Tutu?
+Anglican Archbishop###miscellaneous
+
+88: How fast can a Corvette go?
+about 180 mph###dimension
+
+89: What are John C. Calhoun and Henry Clay known as?
+long winded orators###miscellaneous
+
+90: When was Hurricane Hugo?
+21 Sept 1989###time
+
+91: When did the Carolingian period begin? 
+8th thru early 10th centuries###time
+
+92: How big is Australia?
+nearly 3 million square miles###dimension
+
+93: Who found Hawaii?
+Captain Cook###person
+
+94: Who is the richest person in the world?
+Sultan Hassanai Bolkiah###person
+
+95: How many films did Ingmar Bergman make?
+more than 50 films###dimension
+
+96: What is the federal minimum wage?
+$5.05###currency
+
+97: What did brontosauruses eat?
+plant-eaters###miscellaneous
+
+98: What is California's state tree?
+Redwood###miscellaneous
+
+99: How many types of lemurs are there?
+30 types###dimension
+
+100: What is leukemia?
+blood cancer###miscellaneous
+
+101: Who was the first coach of the Cleveland Browns?
+Paul Brown###person
+
+102: How many people die from snakebite poisoning in the U.S. per year?
+13###dimension
+
+103: Who is the prophet of the religion of Islam?
+Muhammad###person
+
+104: Where is Tornado Alley?
+Texas###place
+
+105: What is molybdenum?
+metal###miscellaneous
+
+106: Where do hyenas live?
+Kruger National Park in Eastern South Africa ###place
+
+107: Who is Peter Weir?
+director-writer###miscellaneous
+
+108: How many home runs did Babe Ruth hit in his lifetime?
+714###dimension
+
+109: Who was Buffalo Bill?
+Buffalo Bill Cody###person
+
+110: Where is the bridge over the river Kwai?
+Thailand###place
+
+
+111: How many Superbowls have the 49ers won?
+four ###dimension
+
+112: Who was the architect of Central Park?
+Olmstead###person
+
+113: Who invented paper?
+China###place
+
+114: What is Alice Cooper's real name?
+Vincent Furnier###person
+
+115: Why can't ostriches fly?
+wings that are too small to keep them aloft###miscellaneous
+
+116: Name a tiger that is extinct?
+Tasmanian###miscellaneous
+
+117: Where is Guam?
+halfway between Japan and New Guinea###place
+
+118: Where did Bill Gates go to college?
+Harvard###place
+
+119: How many continents are there?
+7###dimension
+
+120: Where is Romania located?
+Balkan Region###place
+
+121: When was the De Beers company founded?
+1888###time
+
+122: Who was the first king of England?
+King James###person
+
+123: Who is the richest woman in the world?
+Queen of England###person
+
+124: What is California's capital?
+Sacramento###place
+
+125: What is the size of Argentina?
+size of India###dimension
+
+126: What do manatees eat?
+unwanted vegetation###miscellaneous
+
+127: When was the San Francisco fire?
+April 18, 1906###time
+
+128: What was the man's name who was killed in a duel with Aaron Burr?
+Alexander Hamilton###person
+
+129: What is the population of Mexico?
+85.8 million###dimension
+
+130: When was the slinky invented?
+1943###time
+
+131: How hot is the core of the earth?
+may be 9,000 degrees fahrenheit (5,000 degress celsus)###dimension
+
+132: How long would it take to get from Earth to Mars?
+about 240 days to reach###time
+
+133: What is the name of the second space shuttle?
+Columbia###miscellaneous
+
+134: How old is the sun?
+about 5bn years###time
+
+135: What is the wingspan of a condor?
+9-foot ###dimension
+
+136: When was Microsoft established?
+1975###time
+
+137: What's the average salary of a professional baseball player?
+$890,000###currency
+
+138: Who invented basketball?
+James Naismith###person
+
+139: What was the ball game of ancient Mayans called?
+pelota###miscellaneous
+
+140: Who is Zebulon Pike?
+U.S. Army Lt.###miscellaneous
+
+141: How wide is the Atlantic Ocean?
+2,500 mile ###dimension
+
+142: What effect does a prism have on light?
+bend the light###miscellaneous
+
+143: What's the longest river in the world?
+Amazon###miscellaneous
+
+144: Who was considered to be the father of psychology?
+Sigmund Freud###person
+
+145: What is the population of Kansas?
+2.49 million###dimension
+
+146: Who is Langston Hughes?
+poet###miscellaneous
+
+147: Who was Monet?
+Claude Monet###person
+
+148: Who built the first pyramid?
+King Zoser###person
+
+149: What is the best-selling book of all time?
+the Bible###miscellaneous
+
+150: How many Stradivarius violins were ever made?
+1,116###dimension
+
+151: Who is Charles Lindbergh?
+first flew solo from the United States to France###person
+
+152: Who invented the game bowling?
+ancient Egyptians###miscellaneous
+
+153: The numbering system we use today was introduced to the western world by what culture?
+Hindu-Arabic###miscellaneous
+
+154: What is a nematode?
+tiny worm###miscellaneous
+
+155: What is the most expensive car in the world?
+Bugatti Royale###miscellaneous
+
+156: Where does chocolate come from?
+Cocoa###miscellaneous
+
+157: What state in the United States covers the largest area?
+Alaska###place
+
+158: What is a meerkat?
+type of mongoose###miscellaneous
+
+159: Where is Melbourne?
+Australia###place
+
+160: How much in miles is a ten K run?
+6###dimension
+
+161: How hot does the inside of an active volcano get?
+1,000 degrees or more###dimension
+
+162: What is the capital of Burkina Faso?
+Ouagadougou###place
+
+163: What is the capital of Haiti?
+Port-Au-Prince###place
+
+164: How many people lived in Nebraska in the mid 1980s?
+1,605,000 (1985)###dimension
+
+165: What is the population of Mozambique?	
+14.5 million###dimension
+
+166: Who won the Superbowl in 1982?
+49ers###miscellaneous
+
+167: What is Martin Luther King Jr.'s real birthday?
+Jan. 15, 1929###time
+
+168: Where is Trinidad?
+in the Caribbean###place
+
+169: Where did the Inuits live?
+Alaska, Canada, Greenland and Soviet Union###place
+
+170: What is the most common cancer?
+lung###miscellaneous
+
+171: A corgi is a kind of what?
+dog###miscellaneous
+
+172: When was the Triangle Shirtwaist fire?
+1911###time
+
+173: Where is the Kalahari desert?
+Namibia###place
+
+174: What is porphyria?
+rare medabolic disorder###miscellaneous
+
+175: What ocean did the Titanic sink in?
+Atlantic###place
+
+176: Who was the 33rd president of the United States?
+Harry Truman###person
+
+177: At what speed does the Earth revolve around the sun?
+30 km/sec.###dimension
+
+178: Who is the emperor of Japan?
+Akhito###person
+
+179: How big is our galaxy in diameter?
+about 100,000 light years###dimension
+
+180: What language is mostly spoken in Brazil?
+Portuguese###miscellaneous
+
+181: Who assassinated President McKinley?
+Leon Czologosz###person
+
+182: When did Muhammad live?
+about 570###time
+
+183: What is the largest variety of cactus?
+saguaro, (evens giganteius)###miscellaneous
+
+184: Who invented the radio?
+Guglielmo Marconi###person
+
+185: Where are zebras most likely found?
+Africa###place
+
+186: What is anorexia nervosa?
+an eating disorder###miscellaneous
+
+187: What year did Montana become a state? 
+1889###time
+
+188: What were the names of the three ships used by Columbus?
+Nina, Pinta and Santa Maria###miscellaneous
+
+189: Who was the 21st U.S. President?
+Chester A. Arthur###person
+
+190: Where was John Adams born?
+Braintree , now Quincy, Mass.###place
+
+191: Who painted Olympia?
+Manet###person
+
+192: Who was Quetzalcoatl?
+an Aztec god###person
+
+193: Where is your corpus callosum?
+connects the two spheres of the brain###miscellaneous
+
+194: What is the longest word in the English language?
+pneumonoultramicroscopicsilicovolcanoconiosis###miscellaneous
+
+195: What is saltpeter?
+potassium nitrate###miscellaneous
+
+196: Who invented silly putty?
+General Electric scientist ###person
+
+197: When was the Brandenburg Gate in Berlin built?
+18th century###time
+
+198: When is Boxing Day?
+the day after Christmas###time
+
+199: What is the exchange rate between England and the U.S.?
+$1.5883###currency
+
+200: What is the name of the Jewish alphabet?
+Alef-Beyz###miscellaneous
+
+201: Who was Maria Theresa?
+Empress###miscellaneous
+
+202: What nationality was Jackson Pollock?
+American artist###miscellaneous
+
+203: Tell me what city the Kentucky Horse Park is near?
+Lexington###place
+
+204: What is the state nickname of Mississippi?
+Magnolia State###miscellaneous
+
+205: Who used to make cars with rotary engines?
+West German NSU Motor Works###org
+
+206: What is the tallest mountain?
+Mt. Everest###miscellaneous
+
+207: What is Black Hills, South Dakota most famous for?
+Mount Rushmore###miscellaneous
+
+208: What kind of animal was Winnie the Pooh?
+bear###miscellaneous
+
+209: What's another name for aspartame?
+monsantos aspartame###miscellaneous
+
+210: What does hazmat stand for?
+hazardous materials###miscellaneous
+
+211: What tourist attractions are there in Reims?
+Cathedral###miscellaneous
+
+212: Name a film in which Jude Law acted.
+Shopping###miscellaneous
+
+213: Where are the U.S. headquarters for Procter & Gamble?
+Cincinnati###place
+
+214: What's the formal name for Lou Gehrig's disease?
+amyotrophic lateral sclerosis###miscellaneous
+
+215: What does CNN stand for?
+Cable News Network###miscellaneous
+
+216: When was CNN's first broadcast?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+217: Who owns CNN?
+Ted Turner###person
+
+218: What is the name of a Salt Lake City newspaper?
+Salt Lake City Tribune###miscellaneous
+
+219: Who was Jane Goodall?
+London-born primatologist###miscellaneous
+
+220: What is pandoro?
+sweet Italian bread###miscellaneous
+
+221: What is thalassemia?
+severe form of anaemia ###miscellaneous
+
+222: When did Princess Diana and Prince Charles get married?
+Wednesday morning of July 29 1981###time
+
+223: What soft drink contains the largest amount of caffeine?
+Jolt Co. introduced a cola###miscellaneous
+
+224: What do you call a group of geese?
+gaggle###miscellaneous
+
+225: How many months does a normal human pregnancy last?
+nine ###dimension
+
+226: What format was VHS's main competition?
+Beta###miscellaneous
+
+227: What culture developed the idea of potlatch?
+Indian###miscellaneous
+
+228: Where is Logan International located?
+Boston's###place
+
+229: What university was Woodrow Wilson President of?
+Princeton###miscellaneous
+
+230: Where is Basque country located?
+Spain###place
+
+231: What does CPR stand for?
+cardiopulmonary resuscitation###miscellaneous
+
+232: What state produces the best lobster to eat?
+Maine###place
+
+233: Who was Darth Vader's son?
+Luke Skywalker###person
+
+234: What is a nanometer?
+one billionth of a meter###dimension
+
+235: How did Bob Marley die?
+cancer###miscellaneous
+
+236: What instrument is Ray Charles best known for playing?
+piano###miscellaneous
+
+237: What is Dick Clark's birthday?
+Friday Nov. 30###time
+
+238: What is titanium?
+metal###miscellaneous
+
+239: What is "Nine Inch Nails"?
+Cleveland Rock Group###miscellaneous
+
+240: Where was Poe born?
+Boston###place
+
+241: What king was forced to agree to the Magna Carta?
+King John###person
+
+242: What's the name of Pittsburgh's baseball team?
+Pittsburg Pirates Baseball Team###miscellaneous
+
+243: What is the chemical formula/name for napalm?
+naphthenic and palmitic acids###miscellaneous
+
+244: Where is the location of the Orange Bowl?
+Miami###place
+
+245: When was the last major eruption of Mount St. Helens?
+May 18, 1980###time
+
+246: What is the abbreviation for Original Equipment Manufacturer?
+OEM###miscellaneous
+
+247: What is anise?
+spices###miscellaneous
+
+248: Where is Rider College located?
+New Jersey###place
+
+249: What does Nicholas Cage do for a living?
+actor###miscellaneous
+
+250: What does caliente mean (in English)?
+hot###miscellaneous
+
+251: Where is McCarren Airport?
+Las Vegas###place
+
+252: Who created "The Muppets"?
+Henson###person
+
+253: When is Bastille Day?
+July 14, 1789###time
+
+254: What is the Islamic counterpart to the Red Cross?
+Red Crescent###miscellaneous
+
+255: What is Colin Powell best known for?
+first black to head the nation's military services###miscellaneous
+
+256: What is the busiest air travel season?
+July 1 through Labor Day###time
+
+257: Where is Webster University?
+St. Louis###place
+
+258: What's the name of a golf course in Myrtle Beach?
+The Wild Dunes resort###miscellaneous
+
+259: When was John D. Rockefeller born?
+1839###time
+
+260: Name a Gaelic language.
+Irish###miscellaneous
+
+261: Who was the author of the book about computer hackers called "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage"?
+Clifford Stoll###person
+
+262: What is measured in curies?
+radioactivity###miscellaneous
+
+263: What is a stratocaster?
+guitar###miscellaneous
+
+264: Where are the headquarters of Eli Lilly?
+Indianapolis###place
+
+265: Where did Hillary Clinton graduate college?
+Wellesley College###place
+
+266: Where is Glasgow?
+Scotland###place
+
+267: Who was Samuel Johnsons's friend and biographer?
+James Boswell###person
+
+268: What is tyvek?
+a plastic###miscellaneous
+
+269: Who coined the term "cyberspace" in his novel "Neuromancer"?
+William Gibson###person
+
+270: Who is the president of Bolivia?
+Victor Paz Estenssoro###person
+
+271: What year did Hitler die?
+1945###time
+
+272: When did the American Civil War end?
+1865###time
+
+273: Who created the character of Scrooge?
+Charles Dickens###person
+
+274: Who first broke the sound barrier?
+Yeager###person
+
+275: What is the salary of a U.S. Representative?
+$89,500###currency
+
+276: Name one of the Seven Wonders of the Ancient World.
+Pharos Lighthouse###miscellaneous
+
+277: What are the birth dates for scorpios?
+SCORPIO -- Oct. 23 thru Nov. 22 ###time
+
+278: What is the airport code for Los Angeles International?
+LAX###miscellaneous
+
+279: Who provides telephone service in Orange County, California?
+Pacific Bell ###miscellaneous
+
+280: What is the zip code for Fremont, CA?
+94537###miscellaneous
+
+281: Who shot Billy the Kid?
+Sheriff Pat Garrett###person
+
+282: Who is the monarch of the United Kingdom?
+Elizabeth II###person
+
+283: What is sake?
+traditional Japanese rice wine###miscellaneous
+
+284: What is the name of the Lion King's son in the movie, "The Lion King"?
+Simba###miscellaneous
+
+285: Where is Amsterdam?
+The Netherlands###place
+
+286: How many states have a "lemon law" for new automobiles?
+44###dimension
+
+287: What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger?
+Total Recall###miscellaneous
+
+288: What continent is Bolivia on?
+South America###place
+
+289: What are the Poconos?
+mountains###miscellaneous
+
+290: Where did guinea pigs originate?
+South America###place
+
+291: Where did Woodstock take place?
+Bethel, Sullivan County###place
+
+292: What is the name of the vaccine for chicken pox?
+Varivax###miscellaneous
+
+293: What is Betsy Ross famous for?
+made the first American flag###miscellaneous
+
+294: Who wrote the book, "The Grinch Who Stole Christmas"?
+Dr. Seuss###person
+
+295: When did Aldous Huxley write, "Brave New World"?
+1932###time
+
+296: Who wrote the book, "Song of Solomon"?
+Toni Morrison###person
+
+297: Who portrayed Jake in the television show, "Jake and the Fatman"?
+Joe Penny###person
+
+298: Who portrayed Fatman in the television show, "Jake and the Fatman"?
+William Conrad###person
+
+299: Where is Venezuela?
+South America###place
+
+300: What city in Florida is Sea World in?
+Orlando###place
+
+301: What is the population of Ohio?
+11 million###dimension
+
+302: What is one of the cities that the University of Minnesota is located in?
+Duluth###place
+
+303: What kind of sports team is the Buffalo Sabres?
+hockey ###miscellaneous
+
+304: Who is the founder of the Wal-Mart stores?
+Sam Walton###person
+
+305: What city is Massachusetts General Hospital located in?
+Boston###place
+
+306: Who reports the weather on the "Good Morning America" television show?
+Spencer Christian###person
+
+307: When did the California lottery begin?
+1985###time
+
+308: Where is Los Vegas?
+Nevada###place
+
+309: When was Beethoven born?
+1770###time
+
+310: What's the name of the tiger that advertises for Frosted Flakes cereal?
+Tony###miscellaneous
+
+311: Where is Tufts University?
+Medford, Mass###place
+
+312: What movie did Madilyn Kahn star in with Gene Wilder?
+Young Frankenstein###miscellaneous
+
+313: When did the royal wedding of Prince Andrew and Fergie take place?
+July 1986###time
+
+314: What cereal goes "snap, crackle, pop"?
+Rice Krispies###miscellaneous
+
+315: For what disease is the drug Sinemet used as a treatment?
+Parkinson's disease###miscellaneous
+
+316: Who is Henry Butler?
+Pianist###miscellaneous
+
+317: What province is Edmonton located in?
+Alberta###place
+
+318: In what area of the world was the Six Day War fought?
+Middle East###place
+
+319: What is the zip code for Parsippany, NJ?
+07054###miscellaneous
+
+320: When was the first Barbie produced?
+March 9, 1959###time
+
+321: What was the distinguishing mark on the "Little Rascals" dog?
+circle painted around one eye###miscellaneous
+
+322: What does EKG stand for?
+electrocardiograms###miscellaneous
+
+323: What is Chiricahua the name of?
+Mescalero Apache subtribes###miscellaneous
+
+324: Where did Wicca first develop?
+Western Europe###place
+
+325: Name a symptom of mononucleosis.
+fevers, swollen glands and exhaustion###miscellaneous
+
+326: Where are diamonds mined?
+Jwaneng mine###miscellaneous
+
+327: When was the NFL established?
+1920###time
+
+328: What are geckos?
+lizards###miscellaneous
+
+329: Who is Terrence Malick?
+directors###miscellaneous
+
+330: What other name were the "Little Rascals" known as?
+Our Gang###miscellaneous
+
+331: What was the name of the "Little Rascals" dog?
+Pete the Pup###person
+
+332: What breed of dog was the "Little Rascals" dog?
+pit bull###miscellaneous
+
+333: Who won the rugby world cup in 1987?
+New Zealand###miscellaneous
+
+334: Where is Windsor Castle?
+Windsor, England###place
+
+335: Who portrayed "Rosanne Rosanna-Dana" on the television show "Saturday Night Live"?
+Gilda Radner###person
+
+336: What is the population of the United States?
+249,632,692###dimension
+
+337: What animal do buffalo wings come from?
+chicken###miscellaneous
+
+338: When was the bar-code invented?
+1948###time
+
+339: What is witch hazel?
+spice###miscellaneous
+
+340: What's the abbreviation for limited partnership?
+LP###miscellaneous
+
+341: What was the purpose of the Manhattan project?
+led to the world's first atomic bomb###miscellaneous
+
+342: What is the most common kind of skin cancer in the U.S.?
+squamous cell carcinoma###miscellaneous
+
+343: Name a civil war battlefield.
+Gettysburg National Military Park###miscellaneous
+
+344: What are pomegranates?
+fruit###miscellaneous
+
+345: Who wrote the song, "Silent Night"?
+school teacher Franz Gruber###person
+
+346: Who portrayed "the man without a face" in the movie of the same name?
+Mel Gibson###person
+
+347: When was the Hoover Dam constructed?
+1936###time
+
+348: What's the most famous tourist attraction in Rome?
+Coliseum###miscellaneous
+
+349: At Christmas time, what is the traditional thing to do under the mistletoe?
+kiss###miscellaneous
+
+350: What is the Pennsylvania state income tax rate?
+a flat 2.1%###dimension
+
+351: What is the name of the Michelangelo painting that shows two hands with fingers touching?
+Creation of Adam###miscellaneous
+
+352: What caused the Lynmouth floods?
+freak storm in 1952###miscellaneous
+
+353: What is the name of the company that manufactures the "American Girl" doll collection?
+Pleasant Co.###org
+
+354: How many zip codes are there in the U.S.?
+43,000###dimension
+
+355: What was the name of the Titanic's captain?
+Smith###person
+
+356: How many copies of an album must be sold for it to be a gold album?
+500,000 units###dimension
+
+357: When is the Tulip Festival in Michigan?
+May###time
+
+358: What is Giorgio Vasari famous for?
+Renaissance biographer and painter###miscellaneous
+
+359: Who created the character James Bond?
+Ian Fleming###person
+
+360: What store does Martha Stewart advertise for?
+K-Mart###miscellaneous
+
+361: Name an American made motorcycle.
+Harley Davidson###org
+
+362: What Cruise Line does Kathie Lee Gifford advertise for?
+Carnival Cruise Lines Inc.###org
+
+363: Name a movie that the actress, Sandra Bullock, had a role in.
+Who Shot Patakango###miscellaneous
+
+364: Where is the Thomas Edison Museum?
+West Orange, NJ###place
+
+365: What is TCI?
+Tele-Communications Inc.###miscellaneous
+
+366: What state does MO stand for?
+Missouri###miscellaneous
+
+367: Name a female figure skater.
+Yamaguchi###person
+
+368: What state is the Filenes store located in?
+Connecticut, Maine, Massachusetts, New Hampshire, ###place
+
+369: How much calcium should an adult female have daily?
+800 milligrams###dimension
+
+370: What hockey team did Wayne Gretzky play for?
+Kings###miscellaneous
+
+371: What hair color can I use to just cover a little gray?
+Grecian Formula 16###miscellaneous
+
+372: How long would it take for a $50 savings bond to mature?
+12 years###time
+
+373: How many home runs did Lou Gehrig have during his career?
+493###dimension
+
+374: How many states have a lottery?
+33###dimension
+
+375: What kind of a sports team is the Wisconsin Badgers?
+basketball###miscellaneous
+
+376: What is the name of Joan Jett's band?
+Blackhearts###miscellaneous
+
+377: Can you give me the name of a clock maker in London, England?
+Bill Galbraith###person
+
+378: What was the name of the sitcom that Alyssa Milano starred in with Tony Danza?
+Who's The Boss###miscellaneous
+
+379: What is the real name of the singer, Madonna?
+Madonna Louise Veronica Ciccone###person
+
+380: Where did yoga originate?
+India###place
+
+381: What flower did Vincent Van Gogh paint?
+Sunflowers###miscellaneous
+
+382: What radio station did Paul Harvey work for?
+KVOO###miscellaneous
+
+383: What's the name of the song Will Smith sings about parents?
+Parents Just Don't Understand ###miscellaneous
+
+384: What does NASA stand for?
+National Aeronautics and Space Administration###miscellaneous
+
+385: What famous model was married to Billy Joel?
+Christie Brinkley###person
+
+386: What is the chemical symbol for nitrogen?
+N###miscellaneous
+
+387: In what book can I find the story of Aladdin?
+The Arabian Nights###miscellaneous
+
+388: When did World War I start?
+1914###time
+
+389: What state is Niagra Falls located in?
+N.Y.###place
+
+390: What's the name of the actress who starred in the movie, "Silence of the Lambs"?
+Jodie Foster###person
+
+391: Who owns the St. Louis Rams?
+Georgia Frontiere###person
+
+392: Where could I go to take a ride on a steam locomotive?
+Ft. Bragg, Calif.###place
+
+393: When was the movie, Caligula, made?
+1976###time
+
+394: Name an American war plane?
+F-15C###miscellaneous
+
+395: Where is Burma?
+borders with Thailand and China###place
+
+396: How many highway miles to the gallon can you get with the Ford Fiesta?
+43mpg###dimension
+
+397: Name a novel written by John Steinbeck.
+The Grapes of Wrath###miscellaneous
+
+398: Who wrote the song, "Boys of Summer"?
+Don Henley###person
+
+399: What is the mascot for Notre Dame University?
+Leprechaun###miscellaneous
+
+400: What is typhoid fever?
+commonly linked to poor sanitation###miscellaneous
+
+401: When did the neanderthal man live?
+about 50,000 years ago###time
+
+402: Who manufactures the software, "PhotoShop"?
+Adobe###org
+
+403: How many casinos are in Atlantic City, NJ?
+12###dimension
+
+404: What state does Martha Stewart live in?
+Connecticut###place
+
+405: Who was the first woman in space?
+Ms. Tereshkova###person
+
+406: What are Cushman and Wakefield known for?
+founders of Cushman and Wakefield Inc.###person
+
+407: What is D.B. Cooper known for?
+missing skyjacker###miscellaneous
+
+408: When was Nostradamus born?
+1503###time
+
+409: When was "the Great Depression"?
+1929 to 1933###time
+
+410: What is Archimedes famous for?
+how to measure the volume of an irregular object###miscellaneous
+
+411: What is the medical condition of hypertension?
+abnormally high blood pressure###miscellaneous
+
+412: Who created the comic strip, "Garfield"?
+Jim Davis###person
+
+413: Where is the Isle of Man?
+in the middle of the Irish Sea###place
+
+414: Who wrote the book, "Huckleberry Finn"?
+Samuel Clemens (a.k.a. Mark Twain)###person
+
+415: What day is known as the "national day of prayer"?
+the first Thursday of every May###time
+
+416: What is the purpose of a car bra?
+fool police radar until it reaches close range ###miscellaneous
+
+417: What are chloroplasts?
+tiny structures in plant cells###miscellaneous
+
+418: What is the name of the art of growing miniature trees?
+bonsai###miscellaneous
+
+419: What is the telephone number for the University of Kentucky?
+(606) 233-6040###dimension
+
+420: Who wrote "The Scarlet Letter"?
+Nathaniel Hawthorne###person
+
+421: Name an art gallery in New York.
+The Galerie St. Etienne###miscellaneous
+
+422: What type of hunting are retrievers used for?
+bird###miscellaneous
+
+423: What party was Winston Churchill a member of?
+conservatives###miscellaneous
+
+424: How was Teddy Roosevelt related to FDR?
+distant cousins###miscellaneous
+
+425: When did the Chernobyl nuclear accident occur?
+April 26, 1:23 am###time
+
+426: What does SIDS stand for?
+Sudden Infant Death Syndrome###miscellaneous
+
+427: What's the name of the star of the cooking show, "Galloping Gourmet"?
+Graham Kerr###person
+
+428: What city is 94.5 KDGE Radio located in?
+Dallas###place
+
+429: What President became Chief Justice after his presidency?
+Taft###person
+
+430: How tall is kilamanjaro?
+19,385 ft.###dimension
+
+431: Who won the nobel prize in literature in 1988?
+Naguib Mahfouz###person
+
+432: What's the name of the Tampa newspaper?
+Tampa Tribune###miscellaneous
+
+433: How long do hermit crabs live?
+70 years###time
+
+434: What is Dr. Ruth's last name?
+Westheimer###person
+
+435: What is cribbage?
+card games###miscellaneous
+
+436: Italy is the largest producer of what?
+wine###miscellaneous
+
+437: What wrestling star became "The Incredible Hulk"?
+Lou Ferrigno###person
+
+438: Who wrote "The Pit and the Pendulum"?
+Edgar Allen Poe###person
+
+439: Who manufacturers Magic Chef applicances?
+Maytag###org
+
+440: When was the first Wall Street Journal published?
+July 8 1889###time
+
+441: What is the normal resting heart rate of a healthy adult?
+under 100 beats a minute###miscellaneous
+
+442: Who's the lead singer of the Led Zeppelin band?
+Robert Plant###person
+
+443: Who wrote "An Ideal Husband"?
+Oscar Wilde###person
+
+444: What is ouzo?
+aniseed flavored fiery liquor###miscellaneous
+
+445: When did the Dow first reach 2000?
+Jan 8, 1987###time
+
+446: Who was Charles Lindbergh's wife?
+Anne Spencer Morrow Lindbergh###person
+
+447: How many miles is it from London, England to Plymouth, England?
+about 200###dimension
+
+448: Who is Secretary-General of the United Nations?
+Butrus-Ghali###person
+
+449: Who played the teacher in Dead Poet's Society?
+Robin Williams###person
+
+450: How many counties are in Indiana?
+92###dimension
+
+451: What actress starred in "The Lion in Winter"?
+Katherine Hepburn###person
+
+452: Where was Tesla born?
+Croatia###place
+
+453: What's the name of a hotel in Indianapolis?
+Holiday Inn###miscellaneous
+
+454: What U.S. Government agency registers trademarks?
+Patent and Trademark Office###miscellaneous
+
+455: Who started the Dominos Pizza chain?
+Thomas S. Monaghan###person
+
+456: What is the hair style called that new military recruits receive?
+military brush cut###miscellaneous
+
+457: In what country is a stuck-out tongue a friendly greeting?
+New Zealand###place
+
+458: Where is Kings Canyon?
+Sierra Nevada Range ###place
+
+459: Where is the Mayo Clinic?
+Rochester, Minnesota###place
+
+460: How big is the Electoral College?
+538 ###dimension
+
+461: How much does one ton of cement cost?
+$30###currency
+
+462: Where does Mother Angelica live?
+Birmingham, Ala.###place
+
+463: How many people watch network television?
+90.4 million###dimension
+
+464: What is the name of a Greek god?
+Poseidon###person
+
+465: What year was the first automobile manufactured?
+1891###time
+
+466: What's the population of Mississippi?
+2.3 million###dimension
+
+467: What was the name of Jacques Cousteau's ship?
+Calypso###miscellaneous
+
+468: What are the names of Jacques Cousteau's two sons?
+Jean Michel & Philippe###person
+
+469: What is Java?
+Indonesia's main island of Java###miscellaneous
+
+470: What does Final Four refer to in the sports world?
+NCAA basketball Final Four###miscellaneous
+
+471: What does Knight Ridder publish?
+29 Daily Newspapers###miscellaneous
+
+472: What task does the Bouvier breed of dog perform?
+herding cattle###miscellaneous
+
+473: What sport do the Cleaveland Cavaliers play?
+basketball###miscellaneous
+
+474: What year was the Avery Dennison company founded?
+1990###time
+
+475: What's the population of Biloxi, Mississippi?
+46,000###dimension
+
+476: Name a ballet company Mikhail Baryshnikov has danced for?
+George Balanchine's New York City Ballet###miscellaneous
+
+477: What was the name of the television show, staring Karl Malden, that had San Francisco in the title?
+Streets of San Francisco###miscellaneous
+
+478: Who was the founding member of the Pink Floyd band?
+Roger Waters###person
+
+479: What did Delilah do to Samson's hair?
+cut it off###miscellaneous
+
+480: What's the name of the Tokyo Stock Exchange?
+Nikkei###miscellaneous
+
+481: What actor first portrayed James Bond?
+Sean Connery###person
+
+482: What type of horses appear on the Budweiser commercials?
+Clydesdales###miscellaneous
+
+483: What do river otters eat?
+fish###miscellaneous
+
+484: When did the art of quilting begin?
+12th Century###time
+
+485: When did Amtrak begin operations?
+1971###time
+
+486: Where is the Smithsonian Institute located?
+Washington, DC###place
+
+487: What year did the Vietnam War end?
+1975###time
+
+488: What country are Godiva chocolates from?
+Belgian###place
+
+489: How many islands does Fiji have?
+320###dimension
+
+490: What card company sells Christmas ornaments?
+Hallmark Cards Inc.'s###org
+
+491: Who manufactures synthroid?
+Boots###org
+
+492: What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?
+1984###time
+
+493: What city did the Flintstones live in?
+Bedrock###place
+
+494: Who was the oldest U.S. president?
+Ronald Reagan###person
+
+495: Who was the tallest U.S. president?
+Abe Lincoln###person
+
+496: Where is Santa Lucia?
+Italy's Naples###place
+
+497: Which U.S. President is buried in Washington, D.C.?
+Woodrow Wilson###person
+
+498: Where is Ocho Rios?
+Jamaica###place
+
+499: What year was Janet Jackson's first album released?
+1986###time
+
+500: What is another name for nearsightedness?
+myopia###miscellaneous
+
+501: Winnie the Pooh is what kind of animal?  
+bear###miscellaneous
+
+502: What species was Winnie the Pooh?
+bear###miscellaneous
+
+503: Winnie the Pooh is an imitation of which animal?
+bear###miscellaneous
+
+504: What was the species of Winnie the Pooh?
+bear###miscellaneous
+
+505: Aspartame is also known as what?
+monsantos aspartame###miscellaneous
+
+506: What is a synonym for aspartame?
+monsantos aspartame###miscellaneous
+
+507: Aspartame is known by what other name?
+monsantos aspartame###miscellaneous
+
+508: Aspartame is also called what?
+monsantos aspartame###miscellaneous
+
+509: Hazmat stands for what?
+hazardous materials###miscellaneous
+
+510: What is the definition of hazmat?
+hazardous materials###miscellaneous
+
+511: What are the names of the tourist attractions in Reims?
+Cathedral###miscellaneous
+
+512: What do most tourists visit in Reims?
+Cathedral###miscellaneous
+
+513: What attracts tourists to Reims?
+Cathedral###miscellaneous
+
+514: What are tourist attractions in Reims?
+Cathedral###miscellaneous
+
+515: What could I see in Reims?
+Cathedral###miscellaneous
+
+516: What is worth seeing in Reims?
+Cathedral###miscellaneous
+
+517: What can one see in Reims?
+Cathedral###miscellaneous
+
+518: Jude Law was in what movie?
+Shopping###miscellaneous
+
+519: Jude Law acted in which film?
+Shopping###miscellaneous
+
+520: What is a film starring Jude Law?
+Shopping###miscellaneous
+
+521: What film was Jude Law in?
+Shopping###miscellaneous
+
+522: What film or films has Jude Law appeared in?
+Shopping###miscellaneous
+
+523: What city houses the U.S. headquarters of Procter and Gamble?
+Cincinnati###place
+
+524: Where is Procter & Gamble headquartered in the U.S.?
+Cincinnati###place
+
+525: What is the U.S. location of Procter & Gamble corporate offices?
+Cincinnati###place
+
+526: Procter & Gamble is headquartered in which U.S. city?
+Cincinnati###place
+
+527: Where is Procter & Gamble based in the U.S.?
+Cincinnati###place
+
+528: What is the recommended daily requirement for folic acid for pregnant women?
+400 micrograms###dimension
+
+529: How much folic acid should a pregnant woman get each day?
+400 micrograms###dimension
+
+530: What is the daily requirement of folic acid for an expectant mother?
+400 micrograms###dimension
+
+531: What amount of folic acid should an expectant mother take daily?
+400 micrograms###dimension
+
+532: Name the first Russian astronaut to do a spacewalk.
+Aleksei A. Leonov###person
+
+533: Who was the first Russian astronaut to walk in space?
+Aleksei A. Leonov###person
+
+534: Who was the first Russian to do a spacewalk?
+Aleksei A. Leonov###person
+
+535: CNN is the abbreviation for what?
+Cable News Network###miscellaneous
+
+536: CNN is an acronym for what?
+Cable News Network###miscellaneous
+
+537: What was the date of CNN's first broadcast?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+538: CNN began broadcasting in what year?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+539: CNN's first broadcast occurred on what date?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+540: When did CNN begin broadcasting?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+541: When did CNN go on the air?
+June 1, 1980, we went on the air at 6 p.m., Eastern time###time
+
+542: Who is the owner of CNN?
+Ted Turner###person
+
+543: CNN is owned by whom?
+Ted Turner###person
+
+544: What newspaper serves Salt Lake City?
+Salt Lake City Tribune###miscellaneous
+
+545: Name a Salt Lake City newspaper.
+Salt Lake City Tribune###miscellaneous
+
+546: What is Jane Goodall famous for?
+London-born primatologist###miscellaneous
+
+547: What is Jane Goodall known for?
+London-born primatologist###miscellaneous
+
+548: Why is Jane Goodall famous?
+London-born primatologist###miscellaneous
+
+549: What made Jane Goodall famous?
+London-born primatologist###miscellaneous
+
+550: Define thalassemia.
+severe form of anaemia###miscellaneous
+
+551: What is the meaning of thalassemia?
+severe form of anaemia ###miscellaneous
+
+552: How is thalassemia defined?
+severe form of anaemia ###miscellaneous
+
+553: What soft drink is most heavily caffeinated?
+Jolt Co. introduced a cola###miscellaneous
+
+554: What is the most heavily caffeinated soft drink?
+Jolt Co. introduced a cola###miscellaneous
+
+555: To get the most caffeine, what soda should I drink?
+Jolt Co. introduced a cola###miscellaneous
+
+556: Which type of soda has the greatest amount of caffeine?
+Jolt Co. introduced a cola###miscellaneous
+
+557: What soft drink would provide me with the biggest intake of caffeine?
+Jolt Co. introduced a cola###miscellaneous
+
+558: What is the collective term for geese?
+gaggle###miscellaneous
+
+559: What is the collective noun for geese?
+gaggle###miscellaneous
+
+560: What is the term for a group of geese?
+gaggle###miscellaneous
+
+561: What is the name given to a group of geese?
+gaggle###miscellaneous
+
+562: What is the gestation period for human pregnancies?
+nine months ###time
+
+563: How long is human gestation?
+nine months ###time
+
+564: What is the gestation period for humans?
+nine months ###time
+
+565: A normal human pregnancy lasts how many months?
+nine ###dimension
+
+566: What was the alternate to VHS?
+Beta###miscellaneous
+
+567: What video format was an alternative to VHS?
+Beta###miscellaneous
+
+568: What format was the major competition of VHS?
+Beta###miscellaneous
+
+569: What ethnic group introduced the idea of potlatch?
+Indian###miscellaneous
+
+570: What is the cultural origin of the ceremony of potlatch?
+Indian###miscellaneous
+
+571: Who developed potlatch?
+Indian###miscellaneous
+
+572: Where is Logan Airport?
+Boston's###place
+
+573: What city is Logan Airport in?
+Boston's###place
+
+574: Logan International serves what city?
+Boston's###place
+
+575: Logan International is located in what city?
+Boston's###place
+
+576: What city's airport is named Logan International?
+Boston's###place
+
+577: What city is served by Logan International Airport?
+Boston's###place
+
+578: Woodrow Wilson was president of which university?
+Princeton###miscellaneous
+
+579: Name the university of which Woodrow Wilson was president.
+Princeton###miscellaneous
+
+580: Woodrow Wilson served as president of what university?
+Princeton###miscellaneous
+
+581: What does the acronym CPR mean?
+Cardiopulmonary Resuscitation###miscellaneous
+
+582: What do the initials CPR stand for?
+Cardiopulmonary Resuscitation###miscellaneous
+
+583: CPR is the abbreviation for what?
+Cardiopulmonary Resuscitation###miscellaneous
+
+584: What is the meaning of "CPR"?
+Cardiopulmonary Resuscitation###miscellaneous
+
+585: What was the name of Darth Vader's son?
+Luke Skywalker###person
+
+586: What was Darth Vader's son named?
+Luke Skywalker###person
+
+587: What caused the death of Bob Marley?
+cancer###miscellaneous
+
+588: What killed Bob Marley?
+cancer###miscellaneous
+
+589: What was the cause of Bob Marley's death?
+cancer###miscellaneous
+
+590: What instrument does Ray Charles play?
+piano###miscellaneous
+
+591: Musician Ray Charles plays what instrument?
+piano###miscellaneous
+
+592: Ray Charles plays which instrument?
+piano###miscellaneous
+
+593: Ray Charles is best known for playing what instrument?
+piano###miscellaneous
+
+594: When was Dick Clark born?
+Friday Nov. 30###time
+
+595: When is Dick Clark's birthday?
+Friday Nov. 30###time
+
+596: What is Dick Clark's date of birth?
+Friday Nov. 30###time
+
+597: What was Poe's birthplace?
+Boston###place
+
+598: What was the birthplace of Edgar Allen Poe?
+Boston###place
+
+599: Where is Poe's birthplace?
+Boston###place
+
+600: What monarch signed the Magna Carta?
+King John###person
+
+601: Which king signed the Magna Carta?
+King John###person
+
+602: Who was the king who was forced to agree to the Magna Carta?
+King John###person
+
+603: What king signed the Magna Carta?
+King John###person
+
+604: Who was the king who signed the Magna Carta?
+King John###person
+
+605: Where is one's corpus callosum found?
+connects the two spheres of the brain###miscellaneous
+
+606: What part of your body contains the corpus callosum?
+connects the two spheres of the brain###miscellaneous
+
+607: The corpus callosum is in what part of the body?
+connects the two spheres of the brain###miscellaneous
+
+608: What English word has the most letters?
+pneumonoultramicroscopicsilicovolcanoconiosis###miscellaneous
+
+609: What English word contains the most letters?
+pneumonoultramicroscopicsilicovolcanoconiosis###miscellaneous
+
+610: What is the longest English word?
+pneumonoultramicroscopicsilicovolcanoconiosis###miscellaneous
+
+611: What is the name of the inventor of silly putty?
+General Electric scientist ###person
+
+612: Silly putty was invented by whom?
+General Electric scientist ###person
+
+613: Who was the inventor of silly putty?
+General Electric scientist ###person
+
+614: When was Berlin's Brandenburg gate erected?
+18th century###time
+
+615: What is the date of Boxing Day?
+the day after Christmas###time
+
+616: What date is Boxing Day?
+the day after Christmas###time
+
+617: Boxing Day is celebrated on what date?
+the day after Christmas###time
+
+618: What city does McCarren Airport serve?
+Las Vegas###place
+
+619: What city is served by McCarren Airport?
+Las Vegas###place
+
+620: McCarren Airport is located in what city?
+Las Vegas###place
+
+621: What is the location of McCarren Airport?
+Las Vegas###place
+
+622: Where is McCarren Airport located?
+Las Vegas###place
+
+623: Who invented "The Muppets"?
+Henson###person
+
+624: What was the name of "The Muppets" creator?
+Henson###person
+
+625: "The Muppets" was created by whom?
+Henson###person
+
+626: Name the creator of "The Muppets".
+Henson###person
+
+627: Who is the creator of "The Muppets"?
+Henson###person
+
+628: What is the date of Bastille Day?
+July 14, 1789###time
+
+629: Bastille Day occurs on which date?
+July 14, 1789###time
+
+630: What is the equivalent of the Red Cross in the Middle East?
+Red Crescent###miscellaneous
+
+631: What is the name of the Islamic counterpart to the Red Cross?
+Red Crescent###miscellaneous
+
+632: Name the Islamic counterpart to the Red Cross.
+Red Crescent###miscellaneous
+
+633: What is the Islamic equivalent of the Red Cross?
+Red Crescent###miscellaneous
+
+634: What is the name given to the Islamic counterpart of the Red Cross?
+Red Crescent###miscellaneous
+
+635: Colin Powell is most famous for what?
+first black to head the nation's military services###miscellaneous
+
+636: Colin Powell is best known for what achievement?
+first black to head the nation's military services###miscellaneous
+
+637: Who is Colin Powell?
+first black to head the nation's military services###miscellaneous
+
+638: Colin Powell is famous for what?
+first black to head the nation's military services###miscellaneous
+
+639: What time of year do most people fly?
+July 1 through Labor Day###time
+
+640: What time of year has the most air travel?
+July 1 through Labor Day###time
+
+641: What time of year is air travel the heaviest?
+July 1 through Labor Day###time
+
+642: At what time of year is air travel at a peak?
+July 1 through Labor Day###time
+
+643: Name a golf course in Myrtle Beach.
+The Wild Dunes resort###miscellaneous
+
+644: What is Pittsburg's baseball team called?
+Pittsburg Pirates Baseball Team###miscellaneous
+
+645: The major league baseball team in Pittsburgh is called what?
+Pittsburg Pirates Baseball Team###miscellaneous
+
+646: Name Pittsburgh's baseball team.
+Pittsburg Pirates Baseball Team###miscellaneous
+
+647: What city is the Orange Bowl in?
+Miami###place
+
+648: The Orange Bowl is in what city?
+Miami###place
+
+649: The Orange Bowl is located in what city?
+Miami###place
+
+650: Where is the Orange Bowl?
+Miami###place
+
+651: When did Mount St. Helens last erupt?
+May 18, 1980###time
+
+652: When did Mount St. Helen last have a major eruption?
+May 18, 1980###time
+
+653: When did Mount St. Helen last have a significant eruption?
+May 18, 1980###time
+
+654: How do you abbreviate "Original Equipment Manufacturer"?
+OEM###miscellaneous
+
+655: How is "Original Equipment Manufacturer" abbreviated?
+OEM###miscellaneous
+
+656: Where can one find Rider College?
+New Jersey###place
+
+657: What is the location of Rider College?
+New Jersey###place
+
+658: Rider College is located in what city?
+New Jersey###place
+
+659: Where is Rider College?
+New Jersey###place
+
+660: What is the occupation of Nicholas Cage?
+actor###miscellaneous
+
+661: What is Nicholas Cage's profession?
+actor###miscellaneous
+
+662: What is Nicholas Cage's occupation?
+actor###miscellaneous
+
+663: What does caliente translate to in English?
+hot###miscellaneous
+
+664: What is the English meaning of caliente?
+hot###miscellaneous
+
+665: What is the meaning of caliente (in English)?
+hot###miscellaneous
+
+666: What is the English translation for the word "caliente"?
+hot###miscellaneous
+
+667: What is the Jewish alphabet called?
+Alef-Beyz###miscellaneous
+
+668: The Jewish alphabet is called what?
+Alef-Beyz###miscellaneous
+
+669: The Jewish alphabet is known as what?
+Alef-Beyz###miscellaneous
+
+670: Jackson Pollock was a native of what country?
+U.S.###place
+
+671: Jackson Pollock is of what nationality?
+U.S.###place
+
+672: What was the nationality of Jackson Pollock?
+U.S.###place
+
+673: The Kentucky Horse Park is close to which American city?
+Lexington###place
+
+674: Where is the Kentucky Horse Park located?
+Lexington###place
+
+675: Where is the Kentucky Horse Park?
+Lexington###place
+
+676: What city is the Kentucky Horse Park near?
+Lexington###place
+
+677: The Kentucky Horse Park is located near what city?
+Lexington###place
+
+678: What is a nickname for Mississippi?
+Magnolia State###miscellaneous
+
+679: Mississippi is nicknamed what?
+Magnolia State###miscellaneous
+
+680: Mississippi has what name for a state nickname?
+Magnolia State###miscellaneous
+
+681: What is the nickname for the state of Mississippi?
+Magnolia State###miscellaneous
+
+682: What date in 1989 did East Germany open the Berlin Wall?
+Nov 9###time
+
+683: Who was Johnny Mathis' high school track coach?
+Lou Vasquez###person
+
+684: What is the shape of a porpoises' tooth?
+spade-shaped###miscellaneous
+
+685: What is the number of buffaloes thought to have been living in North America when Columbus landed in 1492?
+60 million ###dimension
+
+686: The Faroes are a part of what northern European country?
+Denmark###place
+
+687: The symptoms of Parkinson's disease are linked to the demise of cells in what area of the brain?
+substantia nigra###miscellaneous
+
+688: What was the date of the Chelsea flower show in 1992?
+May 18###time
+
+689: What hotel was used for a setting of the Agatha Christie novel, "And Then There Were None"?
+Burgh Island Hotel###place
+
+690: What year was the Magna Carta signed?
+1215###time
+
+691: Who was Lincoln's Secretary of State?
+William Seward###person
+
+692: How long did it take to fly from Paris to New York in a Concorde?
+3 1/2 hours###time
+
+693: How many lives were lost in the Pan Am crash in Lockerbie, Scotland?
+270 ###dimension
+
+694: What is the world's population?
+5.48bn. ###dimension
+
+695: Which country has the largest part of the Amazon rain forest?
+Brazil###place
+
+696: Which atlantic hurricane had the highest recorded wind speeds?
+Gilbert ###miscellaneous
+
+697: How long does it take to travel from London to Paris via the Chunnel?
+three hours ###time
+
+698: Who created the board game Pictionary?
+Robert Angel###person
+
+699: How long is the Appalachian Trail?
+2,167 miles###dimension
+
+700: How far is Jupiter?
+2,100 miles###dimension
+
+701: What was Malcolm X's original surname?
+Little###person
+
+702: What is the world record time for running one mile while juggling?
+4 minutes, 43 seconds###time
+
+703: What is the capital of the United States?
+Washington###place
+
+704: How tall is the Statue of Liberty?
+92m ###dimension
+
+705: What is the capital of Uganda?
+Kampala###place
+
+706: What is the capital of Wisconsin?
+Madison###place
+
+707: What is the capital of Michigan?
+Lansing###place
+
+708: Where is Bolivia?
+South America###place
+
+709: Where is Chicago?
+Illinois ###place
+
+710: What two companies produce bovine somatotrophin?
+Monsanto and Eli Lilly###org
+
+711: Who was the first person to set foot on the moon?
+Neil Armstrong###person
+
+712: When were the first free elections held in the new Republic of Hungary?
+Sunday, 25 March 1990###time
+
+713: What is the date of the official opening of the channel tunnel between the U.K. and France?
+May 6, 1994###time
+
+714: When did Nelson Mandela become President of South Africa?
+10 May 1994###time
+
+715: Who was President of Turkmenistan in 1994?
+Saparmurad Niyazov###person
+
+716: Who is the composer of Eugene Onegin?
+Tchaikovsky###person
+
+717: When will the Voyagers lose contact with Earth?
+about 2015 or 2020###time
+
+718: What is the name of the foreign marine pest infesting the Great Lakes and associated waterways since 1986?
+Zebra Mussel###miscellaneous
+
+719: Who is the CEO of General Electric?
+John F. Welch Jr.###person
+
+720: How tall is the Eiffel Tower? 
+1,000 feet high###dimension
+
+721: How many keys do most computer keyboards have ?
+Over 100###dimension
+
+722: What is the name of Mother Theresa's organization ?
+Missionaries of Charity###org
+
+723: On what U.S. currency note do you find the portrait of Lincoln ?
+5$ bill###currency
+
+724: What was the start-up cost for a McDonald's franchise in 1997 ?
+383,000$###currency
+
+725: What was the cost of the U.S. Food Stamps program in 1988 ?
+12.3 billion dollars###currency
+
+726: Which large company based in Austin, TX sells PCs ?
+Dell###org
+
+727: What is the circumference of the Earth at the equator ?
+about 25,000 miles###dimension
+
+728: How many legs does a spider have ?
+8###dimension
+
+729: How many sides does a hexagon have ?
+6###dimension
+
+730: Which U.N. organization was responsible for eradicating small pox ?
+WHO###org
+
+731: Which two planets do not have moons ?
+Mercury and Venus###miscellaneous
+
+732: What is the capital of China ?
+Beijing###place
+
+733: What is the name of the Japanese parliament ?
+Diet###miscellaneous
+
+734: How many times greater is the mass of the Sun compared to Earth ?
+330,000 times###dimension
+
+735: Which is the most abundant element in the Sun ?
+Hydrogen###miscellaneous
+
+736: Who won the World Cup in Cricket in 2003 ?
+Australia###miscellaneous
+
+737: What are the two moons of Mars called ?
+Phobos and Deimos###miscellaneous
+
+738: What is the period of rotation on Mars ?
+24 hours and 40 minutes###time
+
+739: What is the Euro ?
+Currency of the European Union###currency
+
+740: Where is the UN headquarters located ?
+New York City###place
+
+741: Where is the headquarters of the European Union located ?
+Brussels###place
+
+742: Who was the last man on the moon ?
+Eugene Cernan###person
+
+743: Which U.S. company is biggest semiconductor manufacturer ?
+Intel###org
+
+744: What is the second closest star to Earth ?
+Proximi Centauri###miscellaneous
+
+745: In which constellation do you find a shape like North America ?
+Cygnus###miscellaneous
+
+746: How many vowels does the English alphabet contain ?
+5###dimension
+
+747: What is the maximum take off weight of a jumbo jet ?
+875,000 pounds###dimension
+
+748: How many signatures are there in the U.S. declaration of independence ?
+56###dimension
+
+749: When was Napoleaon Bonaparte born ?
+1769###time
+
+750: How many bones in a human adult ?
+206###number 
+
+751: Who is the author of the book, "The Iron Lady: A Biography of Margaret Thatcher"?
+Hugo Young###person
+
+752: What was the monetary value of the Nobel Peace Prize in 1989?
+$469,000 ###currency
+
+753: What does the Peugeot company manufacture?
+cars###miscellaneous
+
+754: How much did Mercury spend on advertising in 1993?
+Pounds 12m.###currency
+
+755: What is the name of the managing director of Apricot Computer?
+Peter Horne###person
+
+756: Why did David Koresh ask the FBI for a word processor?
+To record his revelations###miscellaneous
+
+757: What debts did Qintex group leave?
+Dollars 1.5b.###currency
+
+758: What is the name of the rare neurological disease with symptoms such as: involuntary movements (tics), swearing, and incoherent vocalizations (grunts, shouts, etc.)?
+Tourette's Syndrome###miscellaneous
+
+759: How far is Yaroslavl from Moscow?
+150 miles###dimension
+
+760: Name the designer of the shoe that spawned millions of plastic imitations, known as "jellies".
+Andrea Pfister###person
+
+761: Who was President Cleveland's wife?
+Frances Folsom ###person
+
+762: How much did Manchester United spend on players in 1993?
+Pounds 4m.###currency
+
+763: How much could you rent a Volkswagen bug for in 1966?
+$1 a day###currency
+
+764: What country is the biggest producer of tungsten?
+China ###place
+
+765: When was London's Docklands Light Railway constructed?
+1980s###time
+
+766: What two US biochemists won the Nobel Prize in medicine in 1992?
+Edwin Krebs and Edmond Fischer###person
+
+767: How long did the Charles Manson murder trial last?
+9 1/2 months ###time
+
+768: Who was the first Taiwanese President?
+Lee Teng-Hui###person
+
+769: Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco, Texas in 1993?
+Mr. David Koresh###person
+
+770: Where is Inoco based?
+Norwich###place
+
+771: Who was the first American in space?
+Alan Shepard###person
+
+772: When did the Jurassic Period end?
+130 million years ago###time
+
+773: When did Spain and Korea start ambassadorial relations?
+1950###time
+
+774: When did Nixon visit China?
+February, 1972###time
+
+775: Who was the lead actress in the movie "Sleepless in Seattle"?
+Meg Ryan###person
+
+776: What is the name of the "female" counterpart to El Nino, which results in cooling temperatures and very dry weather?
+La Nina###miscellaneous
+
+777: Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place?
+Surabaya###place
+
+778: Who may be best known for breaking the color line in baseball?
+Jackie Robinson ###person
+
+779: What is the brightest star visible from Earth?
+Sirius###miscellaneous
+
+780: What are the Valdez Principles?
+10 point environmental agenda###miscellaneous
+
+781: Where was Ulysses S. Grant born?
+Point Pleasant, Ohio###place
+
+782: Who received the Will Rogers Award in 1989?
+Frank Kudos###person
+
+783: What is the largest city in Germany?
+Berlin###place
+
+784: Where is the actress, Marion Davies, buried?
+Hollywood Memorial Park###place
+
+785: What is the name of the highest mountain in Africa?
+Kilimanjaro###place
+
+786: In 1990, what day of the week did Christmas fall on?
+Tuesday###time
+
+787: What was the name of the US helicopter pilot shot down over North Korea?
+Bobby Hall###person
+
+788: Where was George Washington born?
+Westmoreland County###place
+
+789: Who was chosen to be the first black chairman of the military Joint Chiefs of Staff?
+Army Gen. Colin Powell###person
+
+790: Who won the Nobel Peace Prize in 1991?
+Aung San Suu Kyi###person
+
+791: What is the legal blood alcohol limit for the state of California?
+0.08%###dimension
+
+792: What was the target rate for M3 growth in 1992?
+3.5 to 5.5 per cent###dimension
+
+793: What costume designer decided that Michael Jackson should only wear one glove?
+Bill Whitten###person
+
+794: Who is the director of the international group called the Human Genome Organization (HUGO) that is trying to coordinate gene-mapping research worldwide?
+Victor McKusick###person
+
+795: When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die?
+10 Feb 1994###time
+
+796: Who is the mayor of Marbella?
+Jesus Gil y Gil###person
+
+797: What company is the largest Japanese ship builder?
+Mitsubishi Heavy Industries (MHI)###org
+
+798: Where is the massive North Korean nuclear complex located?
+90 km north of Pyongyang###place
+
+799: Who fired Maria Ybarra from her position in San Diego council?
+Bruce Henderson###person
+
+800: When was Dubai's first concrete house built?
+1956###time
+
+801: Who is the president of Stanford University?
+Donald Kennedy###person
+
+802: Who invented the road traffic cone?
+David Morgan###person
+
+803: Who was the first doctor to successfully transplant a liver?
+Dr. Thomas Starzl###person
+
+804: When did Nixon die?
+April 22, 1994###time
+
+805: Where is Microsoft's corporate headquarters located?
+Redmond, Wash###place
+
+806: How many calories are there in a Big Mac?
+562###dimension
+
+807: What is the acronym for the rating system for air conditioner efficiency?
+SEER ###miscellaneous
+
+808: Name a film that has won the Golden Bear in the Berlin Film Festival?
+In The Name Of The Father###miscellaneous
+
+809: Who was President of Costa Rica in 1994?
+Rafael Angel Calderon###person
+
+810: What is the fare cost for the round trip between New York and London on Concorde?
+$6,400###currency
+
+811: What brand of white rum is still made in Cuba?
+Havana Club###miscellaneous
+
+812: What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body?
+Multiple Sclerosis###miscellaneous
+
+813: What nuclear-powered Russian submarine sank in the Norwegian Sea on April 7, 1989?
+Komsomlets###miscellaneous
+
+814: Who is the voice of Miss Piggy?
+Frank Oz###person
+
+815: Name a country that is developing a magnetic levitation railway system?
+Germany###place
+
+816: Name the first private citizen to fly in space.
+Christa McAuliffe###person
+
+817: What is the longest river in the United States?
+the Mississippi###miscellaneous
+
+818: What does El Nino mean in spanish?
+boy child###miscellaneous
+
+819: Who came up with the name, El Nino? 
+Peruvian fishermen###person
+
+820: How many lives were lost in the China Airlines' crash in Nagoya, Japan?
+264###dimension
+
+821: In what year did Joe DiMaggio compile his 56-game hitting streak?
+1941###time
+
+822: When did the original Howdy Doody show go off the air?
+1960 ###time
+
+823: Where is the Taj Mahal?
+Agra ###place
+
+824: Who leads the star ship Enterprise in Star Trek?
+Captain Kirk###person
+
+825: What cancer is commonly associated with AIDS?
+Kaposi's sarcoma###miscellaneous
+
+826: In which year was New Zealand excluded from the ANZUS alliance?
+1986###time
+
+827: Who played the part of the Godfather in the movie, "The Godfather"? 
+Marlon Brando###person
+
+828: Which large U.S. city had the highest murder rate for 1988?
+Washington, DC###place
+
+829: What did Shostakovich write for Rostropovich?
+Second cello concerto, Op. 126###miscellaneous
+
+830: What is the name of the promising anticancer compound derived from the pacific yew tree?
+taxol###miscellaneous
+
+831: How many inhabitants live in the town of Ushuaia?
+30,000###dimension
+
+832: How many consecutive baseball games did Lou Gehrig play?
+2130###dimension
+
+833: What is the tallest building in Japan?
+Sunshine City Building###miscellaneous
+
+834: Which country is Australia's largest export market?
+Japan###place
+
+835: Which former Ku Klux Klan member won an elected office in the U.S.?
+David Duke###person
+
+836: Who won two gold medals in skiing in the Olympic Games in Calgary?
+Tomba###person
+
+837: Who followed Willy Brandt as chancellor of the Federal Republic of Germany?
+Helmut Schmidt###person
+
+838: What is Grenada's main commodity export?
+nutmeg ###miscellaneous
+
+839: At what age did Rossini stop writing opera?
+35###dimension
+
+840: Who is the founder of Scientology?
+L. Ron Hubbard###person
+
+841: Which city in China has the largest number of foreign financial companies?
+Shanghai###place
+
+842: Who released the Internet worm in the late 1980s?
+Robert Morris###person
+
+843: Who first circumnavigated the globe?
+Ferdinand Magellan###person
+
+844: Who wrote the song, "Stardust"?
+Hoagy Carmichael###person
+
+845: What country is the worlds leading supplier of cannabis?
+Ghana###place
+
+846: What time of day did Emperor Hirohito die?
+1.33 p.m. Friday PST###time
+
+847: How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast?
+19 million acres###dimension
+
+848: Where is the highest point in Japan?
+Mt. Fuji###place
+
+849: What is the term for the sum of all genetic material in a given organism?
+genome###miscellaneous
+
+850: What is considered the costliest disaster the insurance industry has ever faced?
+Hurricane Andrew ###miscellaneous
+
+851: How many people live in the Falklands?
+2,000###dimension
+
+852: Who is the Voyager project manager?
+Norm Haynes###person
+
+853: How many people died when the Estonia sank in 1994?
+more than 900 ###dimension
+
+854: What language is most commonly used in Bombay?
+Marathi###miscellaneous
+
+855: How many people does Honda employ in the U.S.?
+10,000 ###dimension
+
+856: What is the second highest mountain peak in the world?
+K2###miscellaneous
+
+857: When was China's first nuclear test?
+1964###time
+
+858: Which company created the Internet browser Mosaic?
+Netscape Communications###org
+
+859: Where does Buzz Aldrin want to build a permanent, manned space station?
+The moon###place
+
+860: Who killed Lee Harvey Oswald?
+Jack Ruby###person
+
+861: How long does it take to travel from Tokyo to Niigata?
+one hour and forty minutes###time
+
+862: Who is the President of Ghana?
+Jerry John Rawlings###person
+
+863: What is the name of the medical condition in which a baby is born without a brain?
+anencephaly###miscellaneous
+
+864: How much stronger is the new vitreous carbon material invented by the Tokyo Institute of Technology compared with the material made from cellulose?
+1.5 times stronger###dimension
+
+865: What is Head Start?
+federally funded pre-school program###miscellaneous
+
+866: Which team won the Super Bowl in 1968?
+Green Bay Packers###miscellaneous
+
+867: What two researchers discovered the double-helix structure of DNA in 1953?
+James Watson and Francis Crick###person
+
+868: What percentage of the world's plant and animal species can be found in the Amazon forests?
+30%###dimension
+
+869: What Nobel laureate was expelled from the Philippines before the conference on East Timor?
+Mairead Maguire###person
+
+870: Who held the endurance record for women pilots in 1929?
+Bobbi Trout###person
+
+871: Who won the first general election for President held in Malawi in May 1994?
+Bakili Muluzi###person
+
+872: Who is section manager for guidance and control systems at JPL?
+Christopher P. Jones###person
+
+873: How many Vietnamese were there in the Soviet Union?
+81,000###dimension
+
+874: What was Agent Orange used for during the Vietnam War?
+To destroy ground cover###miscellaneous
+
+875: In what city is the US Declaration of Independence located?
+Washington###place
+
+876: When did Israel begin turning the Gaza Strip and Jericho over to the PLO?
+5 May 1994###time
+
+877: Which city has the oldest relationship as a sister-city with Los Angeles?
+Nagoya###place
+
+878: Who was the second man to walk on the moon?
+Buzz Aldrin###person
+
+879: How many times was pitcher, Warren Spahn, a 20-game winner in his 21 major league seasons?
+13###dimension
+
+880: When was Yemen reunified?
+22 May 1990###time
+
+881: Which Japanese car maker had its biggest percentage of sale in the domestic market?
+Toyota ###org
+
+882: What is the capital of Uruguay?
+Montevideo###place
+
+883: What is the name for the technique of growing certain plants in soils contaminated with toxic metals, wherein the plants take up the toxic metals, are harvested, and the metals recovered for recycling?
+green remediation technique###miscellaneous
+
+884: Where is it planned to berth the merchant ship, Lane Victory, which Merchant Marine veterans are converting into a floating museum?
+Port of Sevastapol###place
+
+885: What famous communist leader died in Mexico City?
+Leon Trotsky###person
+
+886: Who is the Queen of Holland?
+Queen Beatrix###person
+
+887: Who is the president of the Spanish government?
+Felipe Gonzalez###person
+
+888: What is the name of the normal process in all living things, including humans, in which cells are programmed to "commit suicide"?
+Apoptosis###miscellaneous
+
+889: How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992?
+At least 4200 ###dimension
+
+890: How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie, Scotland, December 21, 1988?
+11 ###dimension
+
+891: What is the duration of the trip from Bristol to London by rail?
+an hour and 20 minutes###time
+
+892: What is the population of Ulan Bator, capital of Mongolia?
+Some 600,000 ###dimension
+
+893: Where does most of the marijuana entering the United States come from?
+Mexico ###place
+
+894: How many megawatts will the power project in Indonesia, built by a consortium headed by Mission Energy of US, produce?
+2,400 MW###dimension
+
+895: What did John Hinckley do to impress Jodie Foster?
+Tried to kill President Reagan###miscellaneous
+
+896: In what year did Ireland elect its first woman president?
+1990###time
+
+897: Who is the prime minister of Japan?
+Tomiichi Murayama###person
+
+898: How many soldiers were involved in the last Panama invasion by the United States of America?
+14,000###dimension
+
+899: Where is the Bulls basketball team based?
+Chicago###place
+
+900: What is the length of border between the Ukraine and Russia?
+1,270 kilometers###dimension

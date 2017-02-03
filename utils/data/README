@@ -1,0 +1,32 @@
+
+
+ Data files for tables.
+
+ File 			Description
+ ------------------------------------------------------------------------
+ co_abbrev.dat		List of abbreviations
+ co_colloc.dat		List of collocations
+ co_colloc_lead.dat	List of lead tokens of collocations
+ co_entity.dat		List of entities (currency, time, tech)
+ co_org.dat		List of organizations
+ co_person.dat		List of person names
+ co_place.dat		List of place names
+ co_ruleent.dat		List of rules for resolving entity types
+ co_rulepos.dat		List of rules for resolving POS types
+ entry_check.pl		Script to check if the number of rows match data files
+ entry_debug.pl		Script to check for discepancies in table and file data
+ qu_categories.dat	List of query categories and attributes
+ qu_perlfaq.dat		List of Perl FAQ questions
+ st_normal.dat		Std. normal distribution table
+ wn_exc_words.dat	List of exclusion words in WordNet
+ wn_synsets.dat		List of synonym sets in WordNet
+ wn_synsets_rel.dat	List of relationships between synsets
+ wn_words_a_b.dat	List of words starting from a to b and attributes
+ wn_words_all.dat	List of all words in dictionary
+ wn_words_c_d.dat	List of words starting from c to d and attributes
+ wn_words_e_g.dat	List of words starting from e to g and attributes
+ wn_words_h_l.dat	List of words starting from h to l and attributes
+ wn_words_m_p.dat	List of words starting from m to p and attributes
+ wn_words_q_s.dat	List of words starting from q to s and attributes	
+ wn_words_rel.dat	List of relationships between words
+ wn_words_t_z.dat	List of words starting from t to z and attributes

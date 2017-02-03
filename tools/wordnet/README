@@ -1,0 +1,56 @@
+
+ Steps to create the dictionary from WordNet files.
+
+ The dict directory of WordNet contains 3 files for each of
+ the 4 syntax categories - noun, verb, adjective, and adverb.
+ The index and data files are used to create the dictionary
+ while the exclusion files are loaded into a table.
+
+ 1. Run bld_dict.pl to create the dictionary files
+    Output: wn_synsets.dat wn_synsets_rel.dat wn_words.dat
+	    wn_words_rel.dat
+ 2. Run bld_colloc.pl to create the collocation lead words and collocations
+    Output: co_colloc.dat co_colloc_lead.dat
+ 3. Run bld_all_words.pl to create the dictionary words alone
+    Output: wn_words_all.dat
+ 4. Run split_wnet.pl to create the words across multiple tables
+    Output: wn_words_a_b.dat .... wn_words_t_z.dat
+ 5. Run bld_exc.pl to create the word exclusion table
+    Output: wn_exc_words.dat
+
+ Database Table		Description 
+ -----------------------------------------------------------
+ co_abbrev.dat		List of Abbreviations
+ co_colloc.dat		List of collocations
+ co_colloc_lead.dat	List of collocation lead words
+ wn_exc_words.dat	List of exclusion words
+ wn_synsets.dat		List of synsets
+ wn_synsets_rel.dat	List of synset relationships
+ wn_words.dat		List of word forms
+ wn_words_rel.dat	List of word form relationships
+ wn_words_all.dat	List of compressed word forms
+
+ Codes for 9 Syntax Types
+
+ 'a'	- adjective
+ 'v'	- verb
+ 'r'	- adverb
+ 'n'	- noun
+ 'c'	- conjunction
+ 'd'	- determiner
+ 'o'	- preposition
+ 'p'	- pronoun
+ 'i'	- interjection
+
+ A few synsets are truncated due to the 255 max length restriction
+ in the database
+
+ Files			Description
+ ----------------------------------------------------------------------
+ bld_all_words.pl	Build the wn_words_all.dat file
+ bld_colloc.pl		Build 2 files - co_colloc and co_colloc_lead.dat
+ bld_dict.pl		Create the dictionary words, synsets, and relationships
+ bld_exc.pl		Build the list of exclusion words
+ misc.dat		Data file containing the misc. words not in Wordnet
+ misc.idx		Index file for misc. words not in Wordnet
+ split_wnet.pl		Create the separate word net files

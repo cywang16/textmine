@@ -1,0 +1,29 @@
+
+ Files		Description
+ -------------------------------------------------------------------
+ Copyright	Copyright message
+ INSTALL	Instructions to install on Windows and Linux
+ MANIFEST	This file
+ RELEASE        Release notes
+ install.bat	Windows installation script
+ install.sh	Linux installation script
+
+ Directories	Description
+ --------------------------------------------------------------------
+ TextMine	Perl packages for Text Mine tools
+ cgi-bin	CGI scripts to run Text Mine tools
+ docs		Text Mine documentation
+   book_figures Figures from the book
+   html		HTML documentation
+ icons		Icons directory
+   tm		Text Mine images
+ lsi		Latent Semantic Indexing code from SVDPACKC
+ t		Scripts for testing Text Mine tools
+ tools		Tools directory
+   pos		Scripts to build POS rules table
+   quanda	Scripts to build q & a categorization table
+   reuters	Scripts to build entity extraction rules table
+   wordnet	Scripts to build Wordnet tables
+       misc	Additional words for Wordnet
+ utils		Batch utilities for Text Mine
+   data		Text Mine tables that are pre-loaded

@@ -1,0 +1,21 @@
+ Steps
+
+ 1. Create the pos_testing.txt file with bld_pos_testing.pl
+ 2. Run bld_rules_pos.pl to create the co_rulespos.txt file
+ 3. Load the co_rulespos.txt file into the co_rulespos DB table
+ 4. Run pos_test.pl to evaluate the POS tagger
+
+ Files			Description
+ --------------------------------------------------------------------
+ bld_pos_testing.pl	Create the pos_testing.txt file
+ bld_rulepos.pl		Create the co_rulepos.txt file
+ co_rulepos.dat		List of Rules for table
+ pos_testing.txt	Testing data for POS tagger
+ pos_training.txt    	Training data for POS tagger
+ rule_stopword.txt	List of words for POS backward and forward rules
+
+ Enhancements
+
+ 1. A more complete dictionary - all non-content words may not be
+    described
+ 2. A larger tagged/untagged training text 

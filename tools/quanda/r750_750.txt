@@ -1,0 +1,3059 @@
+Started qu_test.pl
+ Q1: What was the name of the first Russian astronaut to do a spacewalk?
+ A: Aleksei A. Leonov
+ Entities: person Categories: place number
+
+ Q2: Where is Belize located?
+ A: Central America
+ Entities: place Categories: place
+
+ Q3: How much folic acid should an expectant mother get daily?
+ A: 400 micrograms
+ Entities: dimension Categories: dimension
+
+ Q4: What type of bridge is the Golden Gate Bridge?
+ A: suspension
+ Entities: miscellaneous Categories: place number
+
+ Q5: What is the population of the Bahamas?
+ A: 250,000
+ Entities: number Categories: number time
+
+ Q6: How far away is the moon?
+ A: quarter of a million miles
+ Entities: dimension Categories: dimension
+
+ Q7: What is Francis Scott Key best known for?
+ A: The Star Spangled Banner
+ Entities: miscellaneous Categories: number time
+
+ Q8: What state has the most Indians?
+ A: California
+ Entities: place Categories: place number
+
+ Q9: Who invented the paper clip?
+ A: Norwegian Johan Varler
+ Entities: person Categories: person
+
+ Q10: How many dogs pull a sled in the Iditarod?
+ A: 8-12
+ Entities: number Categories: dimension number
+
+ Q11: Where did bocci originate?
+ A: Italian
+ Entities: place Categories: place
+
+ Q12: Who invented the electric guitar?
+ A: Adolph Rickenbacker
+ Entities: person Categories: person
+
+ Q13: Name a flying mammal.
+ A: Bats
+ Entities: miscellaneous Categories: person
+
+ Q14: How many hexagons are on a soccer ball?
+ A: 20
+ Entities: number Categories: dimension number
+
+ Q15: Who is the leader of India?
+ A: Prime Minister Vajpayee
+ Entities: person Categories: person
+
+ Q16: What is the primary language of the Philippines?
+ A: Filipino
+ Entities: miscellaneous Categories: number time
+
+ Q17: What is the habitat of the chickadee?
+ A: mature trees with large insect populations
+ Entities: miscellaneous Categories: number time
+
+ Q18: Who was Whitcomb Judson?
+ A: inventor of the zipper
+ Entities: miscellaneous Categories: person
+
+ Q19: What is the population of Japan?
+ A: 122 million
+ Entities: number Categories: number time
+
+ Q20: Who is the prime minister of Australia?
+ A: Paul Keating
+ Entities: person Categories: person
+
+ Q21: Who killed Martin Luther King?
+ A: James Earl Ray
+ Entities: person Categories: person
+
+ Q22: Who is Anubis?
+ A: Egyptian god Anubis
+ Entities: person Categories: person
+
+ Q23: Where's Montenegro?
+ A: Yugoslavia
+ Entities: place Categories: place
+
+ Q24: What does laser stand for?
+ A: Light Amplification by Stimulated Emission
+ Entities: miscellaneous Categories: place number
+
+ Q25: Who is the Greek God of the Sea?
+ A: Poseidon
+ Entities: person Categories: person
+
+ Q26: Where is the Danube? 
+ A: Europe
+ Entities: place Categories: place
+
+ Q27: Where does dew come from?
+ A: dew recipe: take moist air and chill
+ Entities: miscellaneous Categories: place
+
+ Q28: What is platinum?
+ A: metal
+ Entities: miscellaneous Categories: number time
+
+ Q29: Who is the fastest swimmer in the world?
+ A: Sandy Neilson
+ Entities: person Categories: person
+
+ Q30: When did the vesuvius last erupt?
+ A: 1944
+ Entities: time Categories: time
+
+ Q31: Who was the president of Vichy France?
+ A: Marshall Petain
+ Entities: person Categories: person
+
+ Q32: Who invented television?
+ A: Philo Farnsworth, Vladimir Zworykin
+ Entities: person Categories: person
+
+ Q33: Who made the first airplane?
+ A: Orville and Wilbur Wright
+ Entities: person Categories: person
+
+ Q34: Who made the first airplane that could fly?
+ A: Orville and Wilbur Wright
+ Entities: person Categories: person
+
+ Q35: How many astronauts have been on the moon?
+ A: 12 men
+ Entities: number Categories: dimension time
+
+ Q36: Who is Coronado?
+ A: Francisco Vasquez de Coronado
+ Entities: person Categories: person
+
+ Q37: Name one of the major gods of Hinduism?
+ A: Brahma
+ Entities: miscellaneous Categories: person
+
+ Q38: What does the abbreviation OAS stand for?
+ A: Organization of American States
+ Entities: miscellaneous Categories: place number
+
+ Q39: Who is Barbara Jordan?
+ A: Former U.S. Rep 
+ Entities: person Categories: person
+
+ Q40: How many years ago did the ship Titanic sink?
+ A: 73 years
+ Entities: time Categories: dimension time
+
+ Q41: What is a caldera?
+ A: huge flat craters
+ Entities: miscellaneous Categories: number time
+
+ Q42: What was the name of the famous battle in 1836 between Texas and Mexico?
+ A: Alamo
+ Entities: miscellaneous Categories: number time
+
+ Q43: Where did the ukulele originate?
+ A: Portugal
+ Entities: place Categories: place
+
+ Q44: Who invented baseball?
+ A: Alexander Cartwright (historians say)
+ Entities: person Categories: currency person
+
+ Q45: Where can you find the Venus flytrap?
+ A: North Carolina
+ Entities: place Categories: place
+
+ Q46: What did Vasco da Gama discover?
+ A: sea route to India
+ Entities: miscellaneous Categories: place number
+
+ Q47: Who won the Battle of Gettysburg?
+ A: North
+ Entities: miscellaneous Categories: person
+
+ Q48: What is the largest snake in the world?
+ A: reticulated pythons
+ Entities: miscellaneous Categories: number time
+
+ Q49: Where is the Valley of the Kings?
+ A: ancient egypt
+ Entities: place Categories: place
+
+ Q50: Where did the Maya people live?
+ A: Mexico
+ Entities: place Categories: place
+
+ Q51: How many people live in Chile?
+ A: 13 million
+ Entities: number Categories: dimension number
+
+ Q52: When was the first flush toilet invented?
+ A: 1775
+ Entities: time Categories: time
+
+ Q53: Who is William Wordsworth?
+ A: a poet laureate
+ Entities: miscellaneous Categories: person
+
+ Q54: What is California's state bird?
+ A: Valley Quail
+ Entities: miscellaneous Categories: number time
+
+ Q55: Who thought of teaching people to tie their shoe laces?
+ A: Starlace
+ Entities: person Categories: person
+
+ Q56: Who is buried in the great pyramid of Giza?
+ A: Ancient King Menkaure
+ Entities: person Categories: person
+
+ Q57: What do penguins eat?
+ A: squid and shrimp
+ Entities: miscellaneous Categories: place number
+
+ Q58: Where do lobsters like to live?
+ A: rock and coral formations
+ Entities: place Categories: place
+
+ Q59: What are birds descendents of?
+ A: dinosaurs
+ Entities: miscellaneous Categories: place number
+
+ Q60: What does NAFTA stand for?
+ A: North American Free Trade Agreement
+ Entities: miscellaneous Categories: place number
+
+ Q61: What company sells the most greeting cards?
+ A: Hallmark Cards
+ Entities: org Categories: org number
+
+ Q62: What is the name of the longest ruling dynasty of Japan?
+ A: Hiromito
+ Entities: miscellaneous Categories: number time
+
+ Q63: When was Babe Ruth born?
+ A: 1895
+ Entities: time Categories: time
+
+ Q64: Who wrote the Farmer's Almanac?
+ A: Judson Hale
+ Entities: person Categories: person
+
+ Q65: What's the farthest planet from the sun?
+ A: Pluto
+ Entities: miscellaneous Categories: place number
+
+ Q66: Where was Pythagoras born?
+ A: Greece
+ Entities: place Categories: place
+
+ Q67: What is the name for clouds that produce rain?
+ A: cumulonimbus
+ Entities: miscellaneous Categories: number time
+
+ Q68: Who killed Caesar?
+ A: group of nobles that included Brutus and Cassias
+ Entities: person Categories: person
+
+ Q69: Who was Picasso?
+ A: Pablo Picasso
+ Entities: person Categories: person
+
+ Q70: Where is the Orinoco?
+ A: Venezuela' Federal Amazonas Territory
+ Entities: place Categories: place
+
+ Q71: How tall is the giraffe?
+ A: 18-foot-tall
+ Entities: dimension Categories: dimension
+
+ Q72: Where are there aborigines?
+ A: Australia
+ Entities: place Categories: place
+
+ Q73: Who was the first U.S. president ever to resign?
+ A: Nixon
+ Entities: person Categories: currency person
+
+ Q74: Who invented the game Scrabble?
+ A: Alfred Butts
+ Entities: person Categories: person
+
+ Q75: About how many soldiers died in World War II?
+ A: 16 million
+ Entities: number Categories: dimension time
+
+ Q76: How much money does the Sultan of Brunei have?
+ A: dollars 37bn (pounds 20.7bn)
+ Entities: currency Categories: currency dimension
+
+ Q77: How large is Missouri's population?
+ A: 5,079,385
+ Entities: number Categories: dimension number
+
+ Q78: What was the death toll at the eruption of Mount Pinatubo?
+ A: 200
+ Entities: number Categories: place number
+
+ Q79: Who was Lacan?
+ A: Jean-Francois Lacan
+ Entities: person Categories: person
+
+ Q80: What's the tallest building in New York City?
+ A: Empire State Building
+ Entities: miscellaneous Categories: place number
+
+ Q81: When did Geraldine Ferraro run for vice president?
+ A: 1984
+ Entities: time Categories: time
+
+ Q82: What do ladybugs eat?
+ A: aphids
+ Entities: miscellaneous Categories: place number
+
+ Q83: Where is Ayer's rock?
+ A: Central Australia
+ Entities: place Categories: place
+
+ Q84: What is the life expectancy of an elephant?
+ A: nearly 70
+ Entities: number Categories: number time
+
+ Q85: When was the first railroad from the east coast to the west coast completed?
+ A: 1869
+ Entities: time Categories: time
+
+ Q86: What is the nickname of Pennsylvania?
+ A: Keystone State
+ Entities: miscellaneous Categories: number time
+
+ Q87: Who is Desmond Tutu?
+ A: Anglican Archbishop
+ Entities: miscellaneous Categories: person
+
+ Q88: How fast can a Corvette go?
+ A: about 180 mph
+ Entities: number Categories: dimension number
+
+ Q89: What are John C. Calhoun and Henry Clay known as?
+ A: long winded orators
+ Entities: miscellaneous Categories: place number
+
+ Q90: When was Hurricane Hugo?
+ A: 21 Sept 1989
+ Entities: time Categories: time
+
+ Q91: When did the Carolingian period begin? 
+ A: 8th thru early 10th centuries
+ Entities: time Categories: time
+
+ Q92: How big is Australia?
+ A: nearly 3 million square miles
+ Entities: dimension Categories: dimension
+
+ Q93: Who found Hawaii?
+ A: Captain Cook
+ Entities: person Categories: person
+
+ Q94: Who is the richest person in the world?
+ A: Sultan Hassanai Bolkiah
+ Entities: person Categories: person
+
+ Q95: How many films did Ingmar Bergman make?
+ A: more than 50 films
+ Entities: number Categories: dimension time
+
+ Q96: What is the federal minimum wage?
+ A: $5.05
+ Entities: currency Categories: currency number
+
+ Q97: What did brontosauruses eat?
+ A: plant-eaters
+ Entities: miscellaneous Categories: place number
+
+ Q98: What is California's state tree?
+ A: Redwood
+ Entities: miscellaneous Categories: number time
+
+ Q99: How many types of lemurs are there?
+ A: 30 types
+ Entities: number Categories: dimension number
+
+ Q100: What is leukemia?
+ A: blood cancer
+ Entities: miscellaneous Categories: number time
+
+ Q101: Who was the first coach of the Cleveland Browns?
+ A: Paul Brown
+ Entities: person Categories: person
+
+ Q102: How many people die from snakebite poisoning in the U.S. per year?
+ A: 13
+ Entities: number Categories: dimension number
+
+ Q103: Who is the prophet of the religion of Islam?
+ A: Muhammad
+ Entities: person Categories: person
+
+ Q104: Where is Tornado Alley?
+ A: Texas
+ Entities: place Categories: place
+
+ Q105: What is molybdenum?
+ A: metal
+ Entities: miscellaneous Categories: number time
+
+ Q106: Where do hyenas live?
+ A: Kruger National Park in Eastern South Africa 
+ Entities: place Categories: place
+
+ Q107: Who is Peter Weir?
+ A: director-writer
+ Entities: miscellaneous Categories: person
+
+ Q108: How many home runs did Babe Ruth hit in his lifetime?
+ A: 714
+ Entities: number Categories: dimension time
+
+ Q109: Who was Buffalo Bill?
+ A: Buffalo Bill Cody
+ Entities: person Categories: person
+
+ Q110: Where is the bridge over the river Kwai?
+ A: Thailand
+ Entities: place Categories: place
+
+ Q111: How many Superbowls have the 49ers won?
+ A: four 
+ Entities: number Categories: dimension time
+
+ Q112: Who was the architect of Central Park?
+ A: Olmstead
+ Entities: person Categories: person
+
+ Q113: Who invented paper?
+ A: China
+ Entities: place Categories: person
+
+ Q114: What is Alice Cooper's real name?
+ A: Vincent Furnier
+ Entities: person Categories: number time
+
+ Q115: Why can't ostriches fly?
+ A: wings that are too small to keep them aloft
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q116: Name a tiger that is extinct?
+ A: Tasmanian
+ Entities: miscellaneous Categories: person
+
+ Q117: Where is Guam?
+ A: halfway between Japan and New Guinea
+ Entities: place Categories: place
+
+ Q118: Where did Bill Gates go to college?
+ A: Harvard
+ Entities: place Categories: place
+
+ Q119: How many continents are there?
+ A: 7
+ Entities: number Categories: dimension number
+
+ Q120: Where is Romania located?
+ A: Balkan Region
+ Entities: place Categories: place
+
+ Q121: When was the De Beers company founded?
+ A: 1888
+ Entities: time Categories: time
+
+ Q122: Who was the first king of England?
+ A: King James
+ Entities: person Categories: person
+
+ Q123: Who is the richest woman in the world?
+ A: Queen of England
+ Entities: person Categories: person
+
+ Q124: What is California's capital?
+ A: Sacramento
+ Entities: place Categories: number time
+
+ Q125: What is the size of Argentina?
+ A: size of India
+ Entities: dimension Categories: dimension number
+
+ Q126: What do manatees eat?
+ A: unwanted vegetation
+ Entities: miscellaneous Categories: place number
+
+ Q127: When was the San Francisco fire?
+ A: April 18, 1906
+ Entities: time Categories: time
+
+ Q128: What was the man's name who was killed in a duel with Aaron Burr?
+ A: Alexander Hamilton
+ Entities: person Categories: number time
+
+ Q129: What is the population of Mexico?
+ A: 85.8 million
+ Entities: number Categories: number time
+
+ Q130: When was the slinky invented?
+ A: 1943
+ Entities: time Categories: time
+
+ Q131: How hot is the core of the earth?
+ A: may be 9,000 degrees fahrenheit (5,000 degress celsus)
+ Entities: dimension Categories: dimension number
+
+ Q132: How long would it take to get from Earth to Mars?
+ A: about 240 days to reach
+ Entities: time Categories: dimension time
+
+ Q133: What is the name of the second space shuttle?
+ A: Columbia
+ Entities: miscellaneous Categories: number time
+
+ Q134: How old is the sun?
+ A: about 5bn years
+ Entities: time Categories: dimension time
+
+ Q135: What is the wingspan of a condor?
+ A: 9-foot 
+ Entities: dimension Categories: number time
+
+ Q136: When was Microsoft established?
+ A: 1975
+ Entities: time Categories: time
+
+ Q137: What's the average salary of a professional baseball player?
+ A: $890,000
+ Entities: currency Categories: currency number
+
+ Q138: Who invented basketball?
+ A: James Naismith
+ Entities: person Categories: person
+
+ Q139: What was the ball game of ancient Mayans called?
+ A: pelota
+ Entities: miscellaneous Categories: place number
+
+ Q140: Who is Zebulon Pike?
+ A: U.S. Army Lt.
+ Entities: miscellaneous Categories: person
+
+ Q141: How wide is the Atlantic Ocean?
+ A: 2,500 mile 
+ Entities: dimension Categories: dimension number
+
+ Q142: What effect does a prism have on light?
+ A: bend the light
+ Entities: miscellaneous Categories: place number
+
+ Q143: What's the longest river in the world?
+ A: Amazon
+ Entities: miscellaneous Categories: number time
+
+ Q144: Who was considered to be the father of psychology?
+ A: Sigmund Freud
+ Entities: person Categories: person
+
+ Q145: What is the population of Kansas?
+ A: 2.49 million
+ Entities: number Categories: number time
+
+ Q146: Who is Langston Hughes?
+ A: poet
+ Entities: miscellaneous Categories: person
+
+ Q147: Who was Monet?
+ A: Claude Monet
+ Entities: person Categories: person
+
+ Q148: Who built the first pyramid?
+ A: King Zoser
+ Entities: person Categories: person
+
+ Q149: What is the best-selling book of all time?
+ A: the Bible
+ Entities: miscellaneous Categories: number time
+
+ Q150: How many Stradivarius violins were ever made?
+ A: 1,116
+ Entities: number Categories: dimension number
+
+ Q151: Who is Charles Lindbergh?
+ A: first flew solo from the United States to France
+ Entities: person Categories: person
+
+ Q152: Who invented the game bowling?
+ A: ancient Egyptians
+ Entities: miscellaneous Categories: person
+
+ Q153: The numbering system we use today was introduced to the western world by what culture?
+ A: Hindu-Arabic
+ Entities: miscellaneous Categories: place number
+
+ Q154: What is a nematode?
+ A: tiny worm
+ Entities: miscellaneous Categories: number time
+
+ Q155: What is the most expensive car in the world?
+ A: Bugatti Royale
+ Entities: miscellaneous Categories: number time
+
+ Q156: Where does chocolate come from?
+ A: Cocoa
+ Entities: miscellaneous Categories: place
+
+ Q157: What state in the United States covers the largest area?
+ A: Alaska
+ Entities: place Categories: place number
+
+ Q158: What is a meerkat?
+ A: type of mongoose
+ Entities: miscellaneous Categories: number time
+
+ Q159: Where is Melbourne?
+ A: Australia
+ Entities: place Categories: place
+
+ Q160: How much in miles is a ten K run?
+ A: 6
+ Entities: number Categories: dimension time
+
+ Q161: How hot does the inside of an active volcano get?
+ A: 1,000 degrees or more
+ Entities: dimension Categories: dimension
+
+ Q162: What is the capital of Burkina Faso?
+ A: Ouagadougou
+ Entities: place Categories: number time
+
+ Q163: What is the capital of Haiti?
+ A: Port-Au-Prince
+ Entities: place Categories: number time
+
+ Q164: How many people lived in Nebraska in the mid 1980s?
+ A: 1,605,000 (1985)
+ Entities: number Categories: dimension number
+
+ Q165: What is the population of Mozambique?	
+ A: 14.5 million
+ Entities: number Categories: number time
+
+ Q166: Who won the Superbowl in 1982?
+ A: 49ers
+ Entities: miscellaneous Categories: person
+
+ Q167: What is Martin Luther King Jr.'s real birthday?
+ A: Jan. 15, 1929
+ Entities: time Categories: number time
+
+ Q168: Where is Trinidad?
+ A: in the Caribbean
+ Entities: place Categories: place
+
+ Q169: Where did the Inuits live?
+ A: Alaska, Canada, Greenland and Soviet Union
+ Entities: place Categories: place
+
+ Q170: What is the most common cancer?
+ A: lung
+ Entities: miscellaneous Categories: number time
+
+ Q171: A corgi is a kind of what?
+ A: dog
+ Entities: miscellaneous Categories: place number
+
+ Q172: When was the Triangle Shirtwaist fire?
+ A: 1911
+ Entities: time Categories: time
+
+ Q173: Where is the Kalahari desert?
+ A: Namibia
+ Entities: place Categories: place
+
+ Q174: What is porphyria?
+ A: rare medabolic disorder
+ Entities: miscellaneous Categories: number time
+
+ Q175: What ocean did the Titanic sink in?
+ A: Atlantic
+ Entities: place Categories: place number
+
+ Q176: Who was the 33rd president of the United States?
+ A: Harry Truman
+ Entities: person Categories: person place
+
+ Q177: At what speed does the Earth revolve around the sun?
+ A: 30 km/sec.
+ Entities: number Categories: place number
+
+ Q178: Who is the emperor of Japan?
+ A: Akhito
+ Entities: person Categories: person
+
+ Q179: How big is our galaxy in diameter?
+ A: about 100,000 light years
+ Entities: dimension Categories: dimension
+
+ Q180: What language is mostly spoken in Brazil?
+ A: Portuguese
+ Entities: miscellaneous Categories: place number
+
+ Q181: Who assassinated President McKinley?
+ A: Leon Czologosz
+ Entities: person Categories: person
+
+ Q182: When did Muhammad live?
+ A: about 570
+ Entities: time Categories: time
+
+ Q183: What is the largest variety of cactus?
+ A: saguaro, (evens giganteius)
+ Entities: miscellaneous Categories: number time
+
+ Q184: Who invented the radio?
+ A: Guglielmo Marconi
+ Entities: person Categories: person
+
+ Q185: Where are zebras most likely found?
+ A: Africa
+ Entities: place Categories: place
+
+ Q186: What is anorexia nervosa?
+ A: an eating disorder
+ Entities: miscellaneous Categories: number time
+
+ Q187: What year did Montana become a state? 
+ A: 1889
+ Entities: time Categories: number time
+
+ Q188: What were the names of the three ships used by Columbus?
+ A: Nina, Pinta and Santa Maria
+ Entities: miscellaneous Categories: place number
+
+ Q189: Who was the 21st U.S. President?
+ A: Chester A. Arthur
+ Entities: person Categories: currency person
+
+ Q190: Where was John Adams born?
+ A: Braintree , now Quincy, Mass.
+ Entities: place Categories: place
+
+ Q191: Who painted Olympia?
+ A: Manet
+ Entities: person Categories: person
+
+ Q192: Who was Quetzalcoatl?
+ A: an Aztec god
+ Entities: person Categories: person
+
+ Q193: Where is your corpus callosum?
+ A: connects the two spheres of the brain
+ Entities: miscellaneous Categories: place
+
+ Q194: What is the longest word in the English language?
+ A: pneumonoultramicroscopicsilicovolcanoconiosis
+ Entities: miscellaneous Categories: number time
+
+ Q195: What is saltpeter?
+ A: potassium nitrate
+ Entities: miscellaneous Categories: number time
+
+ Q196: Who invented silly putty?
+ A: General Electric scientist 
+ Entities: person Categories: person
+
+ Q197: When was the Brandenburg Gate in Berlin built?
+ A: 18th century
+ Entities: time Categories: time
+
+ Q198: When is Boxing Day?
+ A: the day after Christmas
+ Entities: time Categories: time
+
+ Q199: What is the exchange rate between England and the U.S.?
+ A: $1.5883
+ Entities: currency Categories: number time
+
+ Q200: What is the name of the Jewish alphabet?
+ A: Alef-Beyz
+ Entities: miscellaneous Categories: number time
+
+ Q201: Who was Maria Theresa?
+ A: Empress
+ Entities: miscellaneous Categories: person
+
+ Q202: What nationality was Jackson Pollock?
+ A: American artist
+ Entities: miscellaneous Categories: place number
+
+ Q203: Tell me what city the Kentucky Horse Park is near?
+ A: Lexington
+ Entities: place Categories: place number
+
+ Q204: What is the state nickname of Mississippi?
+ A: Magnolia State
+ Entities: miscellaneous Categories: number time
+
+ Q205: Who used to make cars with rotary engines?
+ A: West German NSU Motor Works
+ Entities: org Categories: org person
+
+ Q206: What is the tallest mountain?
+ A: Mt. Everest
+ Entities: miscellaneous Categories: number time
+
+ Q207: What is Black Hills, South Dakota most famous for?
+ A: Mount Rushmore
+ Entities: miscellaneous Categories: number time
+
+ Q208: What kind of animal was Winnie the Pooh?
+ A: bear
+ Entities: miscellaneous Categories: place number
+
+ Q209: What's another name for aspartame?
+ A: monsantos aspartame
+ Entities: miscellaneous Categories: place number
+
+ Q210: What does hazmat stand for?
+ A: hazardous materials
+ Entities: miscellaneous Categories: place number
+
+ Q211: What tourist attractions are there in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q212: Name a film in which Jude Law acted.
+ A: Shopping
+ Entities: miscellaneous Categories: person
+
+ Q213: Where are the U.S. headquarters for Procter & Gamble?
+ A: Cincinnati
+ Entities: place Categories: currency place
+
+ Q214: What's the formal name for Lou Gehrig's disease?
+ A: amyotrophic lateral sclerosis
+ Entities: miscellaneous Categories: place number
+
+ Q215: What does CNN stand for?
+ A: Cable News Network
+ Entities: miscellaneous Categories: place number
+
+ Q216: When was CNN's first broadcast?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: time
+
+ Q217: Who owns CNN?
+ A: Ted Turner
+ Entities: person Categories: person
+
+ Q218: What is the name of a Salt Lake City newspaper?
+ A: Salt Lake City Tribune
+ Entities: miscellaneous Categories: number time
+
+ Q219: Who was Jane Goodall?
+ A: London-born primatologist
+ Entities: miscellaneous Categories: person
+
+ Q220: What is pandoro?
+ A: sweet Italian bread
+ Entities: miscellaneous Categories: number time
+
+ Q221: What is thalassemia?
+ A: severe form of anaemia 
+ Entities: miscellaneous Categories: number time
+
+ Q222: When did Princess Diana and Prince Charles get married?
+ A: Wednesday morning of July 29 1981
+ Entities: time Categories: time
+
+ Q223: What soft drink contains the largest amount of caffeine?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: place number
+
+ Q224: What do you call a group of geese?
+ A: gaggle
+ Entities: miscellaneous Categories: place number
+
+ Q225: How many months does a normal human pregnancy last?
+ A: nine 
+ Entities: number Categories: dimension time
+
+ Q226: What format was VHS's main competition?
+ A: Beta
+ Entities: miscellaneous Categories: place number
+
+ Q227: What culture developed the idea of potlatch?
+ A: Indian
+ Entities: miscellaneous Categories: place number
+
+ Q228: Where is Logan International located?
+ A: Boston's
+ Entities: place Categories: place
+
+ Q229: What university was Woodrow Wilson President of?
+ A: Princeton
+ Entities: miscellaneous Categories: place number
+
+ Q230: Where is Basque country located?
+ A: Spain
+ Entities: place Categories: place
+
+ Q231: What does CPR stand for?
+ A: cardiopulmonary resuscitation
+ Entities: miscellaneous Categories: place number
+
+ Q232: What state produces the best lobster to eat?
+ A: Maine
+ Entities: place Categories: place number
+
+ Q233: Who was Darth Vader's son?
+ A: Luke Skywalker
+ Entities: person Categories: person
+
+ Q234: What is a nanometer?
+ A: one billionth of a meter
+ Entities: dimension Categories: number time
+
+ Q235: How did Bob Marley die?
+ A: cancer
+ Entities: miscellaneous Categories: dimension time
+
+ Q236: What instrument is Ray Charles best known for playing?
+ A: piano
+ Entities: miscellaneous Categories: place number
+
+ Q237: What is Dick Clark's birthday?
+ A: Friday Nov. 30
+ Entities: time Categories: number time
+
+ Q238: What is titanium?
+ A: metal
+ Entities: miscellaneous Categories: number time
+
+ Q239: What is "Nine Inch Nails"?
+ A: Cleveland Rock Group
+ Entities: miscellaneous Categories: number time
+
+ Q240: Where was Poe born?
+ A: Boston
+ Entities: place Categories: place
+
+ Q241: What king was forced to agree to the Magna Carta?
+ A: King John
+ Entities: person Categories: place number
+
+ Q242: What's the name of Pittsburgh's baseball team?
+ A: Pittsburg Pirates Baseball Team
+ Entities: miscellaneous Categories: place number
+
+ Q243: What is the chemical formula/name for napalm?
+ A: naphthenic and palmitic acids
+ Entities: miscellaneous Categories: number time
+
+ Q244: Where is the location of the Orange Bowl?
+ A: Miami
+ Entities: place Categories: place
+
+ Q245: When was the last major eruption of Mount St. Helens?
+ A: May 18, 1980
+ Entities: time Categories: time
+
+ Q246: What is the abbreviation for Original Equipment Manufacturer?
+ A: OEM
+ Entities: miscellaneous Categories: number time
+
+ Q247: What is anise?
+ A: spices
+ Entities: miscellaneous Categories: number time
+
+ Q248: Where is Rider College located?
+ A: New Jersey
+ Entities: place Categories: place
+
+ Q249: What does Nicholas Cage do for a living?
+ A: actor
+ Entities: miscellaneous Categories: place number
+
+ Q250: What does caliente mean (in English)?
+ A: hot
+ Entities: miscellaneous Categories: place number
+
+ Q251: Where is McCarren Airport?
+ A: Las Vegas
+ Entities: place Categories: place
+
+ Q252: Who created "The Muppets"?
+ A: Henson
+ Entities: person Categories: person
+
+ Q253: When is Bastille Day?
+ A: July 14, 1789
+ Entities: time Categories: time
+
+ Q254: What is the Islamic counterpart to the Red Cross?
+ A: Red Crescent
+ Entities: miscellaneous Categories: number time
+
+ Q255: What is Colin Powell best known for?
+ A: first black to head the nation's military services
+ Entities: miscellaneous Categories: number time
+
+ Q256: What is the busiest air travel season?
+ A: July 1 through Labor Day
+ Entities: time Categories: number time
+
+ Q257: Where is Webster University?
+ A: St. Louis
+ Entities: place Categories: place
+
+ Q258: What's the name of a golf course in Myrtle Beach?
+ A: The Wild Dunes resort
+ Entities: miscellaneous Categories: number time
+
+ Q259: When was John D. Rockefeller born?
+ A: 1839
+ Entities: time Categories: time
+
+ Q260: Name a Gaelic language.
+ A: Irish
+ Entities: miscellaneous Categories: person
+
+ Q261: Who was the author of the book about computer hackers called "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage"?
+ A: Clifford Stoll
+ Entities: person Categories: person
+
+ Q262: What is measured in curies?
+ A: radioactivity
+ Entities: miscellaneous Categories: number time
+
+ Q263: What is a stratocaster?
+ A: guitar
+ Entities: miscellaneous Categories: number time
+
+ Q264: Where are the headquarters of Eli Lilly?
+ A: Indianapolis
+ Entities: place Categories: place
+
+ Q265: Where did Hillary Clinton graduate college?
+ A: Wellesley College
+ Entities: place Categories: place
+
+ Q266: Where is Glasgow?
+ A: Scotland
+ Entities: place Categories: place
+
+ Q267: Who was Samuel Johnsons's friend and biographer?
+ A: James Boswell
+ Entities: person Categories: person
+
+ Q268: What is tyvek?
+ A: a plastic
+ Entities: miscellaneous Categories: number time
+
+ Q269: Who coined the term "cyberspace" in his novel "Neuromancer"?
+ A: William Gibson
+ Entities: person Categories: person
+
+ Q270: Who is the president of Bolivia?
+ A: Victor Paz Estenssoro
+ Entities: person Categories: person
+
+ Q271: What year did Hitler die?
+ A: 1945
+ Entities: time Categories: number time
+
+ Q272: When did the American Civil War end?
+ A: 1865
+ Entities: time Categories: time
+
+ Q273: Who created the character of Scrooge?
+ A: Charles Dickens
+ Entities: person Categories: person
+
+ Q274: Who first broke the sound barrier?
+ A: Yeager
+ Entities: person Categories: person
+
+ Q275: What is the salary of a U.S. Representative?
+ A: $89,500
+ Entities: currency Categories: currency number
+
+ Q276: Name one of the Seven Wonders of the Ancient World.
+ A: Pharos Lighthouse
+ Entities: miscellaneous Categories: person
+
+ Q277: What are the birth dates for scorpios?
+ A: SCORPIO -- Oct. 23 thru Nov. 22 
+ Entities: time Categories: number time
+
+ Q278: What is the airport code for Los Angeles International?
+ A: LAX
+ Entities: miscellaneous Categories: number time
+
+ Q279: Who provides telephone service in Orange County, California?
+ A: Pacific Bell 
+ Entities: miscellaneous Categories: person
+
+ Q280: What is the zip code for Fremont, CA?
+ A: 94537
+ Entities: miscellaneous Categories: number time
+
+ Q281: Who shot Billy the Kid?
+ A: Sheriff Pat Garrett
+ Entities: person Categories: person
+
+ Q282: Who is the monarch of the United Kingdom?
+ A: Elizabeth II
+ Entities: person Categories: person
+
+ Q283: What is sake?
+ A: traditional Japanese rice wine
+ Entities: miscellaneous Categories: number time
+
+ Q284: What is the name of the Lion King's son in the movie, "The Lion King"?
+ A: Simba
+ Entities: miscellaneous Categories: number time
+
+ Q285: Where is Amsterdam?
+ A: The Netherlands
+ Entities: place Categories: place
+
+ Q286: How many states have a "lemon law" for new automobiles?
+ A: 44
+ Entities: number Categories: dimension number
+
+ Q287: What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger?
+ A: Total Recall
+ Entities: miscellaneous Categories: number time
+
+ Q288: What continent is Bolivia on?
+ A: South America
+ Entities: place Categories: place number
+
+ Q289: What are the Poconos?
+ A: mountains
+ Entities: miscellaneous Categories: place number
+
+ Q290: Where did guinea pigs originate?
+ A: South America
+ Entities: place Categories: place
+
+ Q291: Where did Woodstock take place?
+ A: Bethel, Sullivan County
+ Entities: place Categories: place
+
+ Q292: What is the name of the vaccine for chicken pox?
+ A: Varivax
+ Entities: miscellaneous Categories: number time
+
+ Q293: What is Betsy Ross famous for?
+ A: made the first American flag
+ Entities: miscellaneous Categories: number time
+
+ Q294: Who wrote the book, "The Grinch Who Stole Christmas"?
+ A: Dr. Seuss
+ Entities: person Categories: person
+
+ Q295: When did Aldous Huxley write, "Brave New World"?
+ A: 1932
+ Entities: time Categories: time
+
+ Q296: Who wrote the book, "Song of Solomon"?
+ A: Toni Morrison
+ Entities: person Categories: person
+
+ Q297: Who portrayed Jake in the television show, "Jake and the Fatman"?
+ A: Joe Penny
+ Entities: person Categories: person number
+
+ Q298: Who portrayed Fatman in the television show, "Jake and the Fatman"?
+ A: William Conrad
+ Entities: person Categories: person number
+
+ Q299: Where is Venezuela?
+ A: South America
+ Entities: place Categories: place
+
+ Q300: What city in Florida is Sea World in?
+ A: Orlando
+ Entities: place Categories: place number
+
+ Q301: What is the population of Ohio?
+ A: 11 million
+ Entities: number Categories: number time
+
+ Q302: What is one of the cities that the University of Minnesota is located in?
+ A: Duluth
+ Entities: place Categories: number time
+
+ Q303: What kind of sports team is the Buffalo Sabres?
+ A: hockey 
+ Entities: miscellaneous Categories: place number
+
+ Q304: Who is the founder of the Wal-Mart stores?
+ A: Sam Walton
+ Entities: person Categories: person
+
+ Q305: What city is Massachusetts General Hospital located in?
+ A: Boston
+ Entities: place Categories: place number
+
+ Q306: Who reports the weather on the "Good Morning America" television show?
+ A: Spencer Christian
+ Entities: person Categories: person number
+
+ Q307: When did the California lottery begin?
+ A: 1985
+ Entities: time Categories: time
+
+ Q308: Where is Los Vegas?
+ A: Nevada
+ Entities: place Categories: place
+
+ Q309: When was Beethoven born?
+ A: 1770
+ Entities: time Categories: time
+
+ Q310: What's the name of the tiger that advertises for Frosted Flakes cereal?
+ A: Tony
+ Entities: miscellaneous Categories: place number
+
+ Q311: Where is Tufts University?
+ A: Medford, Mass
+ Entities: place Categories: place
+
+ Q312: What movie did Madilyn Kahn star in with Gene Wilder?
+ A: Young Frankenstein
+ Entities: miscellaneous Categories: place number
+
+ Q313: When did the royal wedding of Prince Andrew and Fergie take place?
+ A: July 1986
+ Entities: time Categories: time
+
+ Q314: What cereal goes "snap, crackle, pop"?
+ A: Rice Krispies
+ Entities: miscellaneous Categories: place number
+
+ Q315: For what disease is the drug Sinemet used as a treatment?
+ A: Parkinson's disease
+ Entities: miscellaneous Categories: place number
+
+ Q316: Who is Henry Butler?
+ A: Pianist
+ Entities: miscellaneous Categories: person
+
+ Q317: What province is Edmonton located in?
+ A: Alberta
+ Entities: place Categories: place number
+
+ Q318: In what area of the world was the Six Day War fought?
+ A: Middle East
+ Entities: place Categories: number time
+
+ Q319: What is the zip code for Parsippany, NJ?
+ A: 07054
+ Entities: miscellaneous Categories: number time
+
+ Q320: When was the first Barbie produced?
+ A: March 9, 1959
+ Entities: time Categories: time
+
+ Q321: What was the distinguishing mark on the "Little Rascals" dog?
+ A: circle painted around one eye
+ Entities: miscellaneous Categories: place number
+
+ Q322: What does EKG stand for?
+ A: electrocardiograms
+ Entities: miscellaneous Categories: place number
+
+ Q323: What is Chiricahua the name of?
+ A: Mescalero Apache subtribes
+ Entities: miscellaneous Categories: number time
+
+ Q324: Where did Wicca first develop?
+ A: Western Europe
+ Entities: place Categories: place
+
+ Q325: Name a symptom of mononucleosis.
+ A: fevers, swollen glands and exhaustion
+ Entities: miscellaneous Categories: person
+
+ Q326: Where are diamonds mined?
+ A: Jwaneng mine
+ Entities: miscellaneous Categories: place
+
+ Q327: When was the NFL established?
+ A: 1920
+ Entities: time Categories: time
+
+ Q328: What are geckos?
+ A: lizards
+ Entities: miscellaneous Categories: place number
+
+ Q329: Who is Terrence Malick?
+ A: directors
+ Entities: miscellaneous Categories: person
+
+ Q330: What other name were the "Little Rascals" known as?
+ A: Our Gang
+ Entities: miscellaneous Categories: place number
+
+ Q331: What was the name of the "Little Rascals" dog?
+ A: Pete the Pup
+ Entities: person Categories: place number
+
+ Q332: What breed of dog was the "Little Rascals" dog?
+ A: pit bull
+ Entities: miscellaneous Categories: place number
+
+ Q333: Who won the rugby world cup in 1987?
+ A: New Zealand
+ Entities: miscellaneous Categories: person
+
+ Q334: Where is Windsor Castle?
+ A: Windsor, England
+ Entities: place Categories: place
+
+ Q335: Who portrayed "Rosanne Rosanna-Dana" on the television show "Saturday Night Live"?
+ A: Gilda Radner
+ Entities: person Categories: person number
+
+ Q336: What is the population of the United States?
+ A: 249,632,692
+ Entities: number Categories: number time
+
+ Q337: What animal do buffalo wings come from?
+ A: chicken
+ Entities: miscellaneous Categories: place number
+
+ Q338: When was the bar-code invented?
+ A: 1948
+ Entities: time Categories: time
+
+ Q339: What is witch hazel?
+ A: spice
+ Entities: miscellaneous Categories: number time
+
+ Q340: What's the abbreviation for limited partnership?
+ A: LP
+ Entities: miscellaneous Categories: place number
+
+ Q341: What was the purpose of the Manhattan project?
+ A: led to the world's first atomic bomb
+ Entities: miscellaneous Categories: place number
+
+ Q342: What is the most common kind of skin cancer in the U.S.?
+ A: squamous cell carcinoma
+ Entities: miscellaneous Categories: number time
+
+ Q343: Name a civil war battlefield.
+ A: Gettysburg National Military Park
+ Entities: miscellaneous Categories: person
+
+ Q344: What are pomegranates?
+ A: fruit
+ Entities: miscellaneous Categories: place number
+
+ Q345: Who wrote the song, "Silent Night"?
+ A: school teacher Franz Gruber
+ Entities: person Categories: person
+
+ Q346: Who portrayed "the man without a face" in the movie of the same name?
+ A: Mel Gibson
+ Entities: person Categories: person
+
+ Q347: When was the Hoover Dam constructed?
+ A: 1936
+ Entities: time Categories: time
+
+ Q348: What's the most famous tourist attraction in Rome?
+ A: Coliseum
+ Entities: miscellaneous Categories: place number
+
+ Q349: At Christmas time, what is the traditional thing to do under the mistletoe?
+ A: kiss
+ Entities: miscellaneous Categories: number time
+
+ Q350: What is the Pennsylvania state income tax rate?
+ A: a flat 2.1%
+ Entities: number Categories: number time
+
+ Q351: What is the name of the Michelangelo painting that shows two hands with fingers touching?
+ A: Creation of Adam
+ Entities: miscellaneous Categories: number time
+
+ Q352: What caused the Lynmouth floods?
+ A: freak storm in 1952
+ Entities: miscellaneous Categories: place number
+
+ Q353: What is the name of the company that manufactures the "American Girl" doll collection?
+ A: Pleasant Co.
+ Entities: org Categories: number time
+
+ Q354: How many zip codes are there in the U.S.?
+ A: 43,000
+ Entities: number Categories: currency dimension
+
+ Q355: What was the name of the Titanic's captain?
+ A: Smith
+ Entities: person Categories: place number
+
+ Q356: How many copies of an album must be sold for it to be a gold album?
+ A: 500,000 units
+ Entities: number Categories: dimension time
+
+ Q357: When is the Tulip Festival in Michigan?
+ A: May
+ Entities: time Categories: time
+
+ Q358: What is Giorgio Vasari famous for?
+ A: Renaissance biographer and painter
+ Entities: miscellaneous Categories: number time
+
+ Q359: Who created the character James Bond?
+ A: Ian Fleming
+ Entities: person Categories: person
+
+ Q360: What store does Martha Stewart advertise for?
+ A: K-Mart
+ Entities: miscellaneous Categories: place number
+
+ Q361: Name an American made motorcycle.
+ A: Harley Davidson
+ Entities: org Categories: org person
+
+ Q362: What Cruise Line does Kathie Lee Gifford advertise for?
+ A: Carnival Cruise Lines Inc.
+ Entities: org Categories: number time
+
+ Q363: Name a movie that the actress, Sandra Bullock, had a role in.
+ A: Who Shot Patakango
+ Entities: miscellaneous Categories: person
+
+ Q364: Where is the Thomas Edison Museum?
+ A: West Orange, NJ
+ Entities: place Categories: place
+
+ Q365: What is TCI?
+ A: Tele-Communications Inc.
+ Entities: miscellaneous Categories: number time
+
+ Q366: What state does MO stand for?
+ A: Missouri
+ Entities: miscellaneous Categories: place number
+
+ Q367: Name a female figure skater.
+ A: Yamaguchi
+ Entities: person Categories: person
+
+ Q368: What state is the Filenes store located in?
+ A: Connecticut, Maine, Massachusetts, New Hampshire, 
+ Entities: place Categories: place number
+
+ Q369: How much calcium should an adult female have daily?
+ A: 800 milligrams
+ Entities: dimension Categories: dimension number
+
+ Q370: What hockey team did Wayne Gretzky play for?
+ A: Kings
+ Entities: miscellaneous Categories: place number
+
+ Q371: What hair color can I use to just cover a little gray?
+ A: Grecian Formula 16
+ Entities: miscellaneous Categories: place number
+
+ Q372: How long would it take for a $50 savings bond to mature?
+ A: 12 years
+ Entities: time Categories: dimension time
+
+ Q373: How many home runs did Lou Gehrig have during his career?
+ A: 493
+ Entities: number Categories: dimension time
+
+ Q374: How many states have a lottery?
+ A: 33
+ Entities: number Categories: dimension number
+
+ Q375: What kind of a sports team is the Wisconsin Badgers?
+ A: basketball
+ Entities: miscellaneous Categories: place number
+
+ Q376: What is the name of Joan Jett's band?
+ A: Blackhearts
+ Entities: miscellaneous Categories: number time
+
+ Q377: Can you give me the name of a clock maker in London, England?
+ A: Bill Galbraith
+ Entities: person Categories: person org
+
+ Q378: What was the name of the sitcom that Alyssa Milano starred in with Tony Danza?
+ A: Who's The Boss
+ Entities: miscellaneous Categories: place number
+
+ Q379: What is the real name of the singer, Madonna?
+ A: Madonna Louise Veronica Ciccone
+ Entities: person Categories: number time
+
+ Q380: Where did yoga originate?
+ A: India
+ Entities: place Categories: place
+
+ Q381: What flower did Vincent Van Gogh paint?
+ A: Sunflowers
+ Entities: miscellaneous Categories: place number
+
+ Q382: What radio station did Paul Harvey work for?
+ A: KVOO
+ Entities: miscellaneous Categories: place number
+
+ Q383: What's the name of the song Will Smith sings about parents?
+ A: Parents Just Don't Understand 
+ Entities: miscellaneous Categories: place number
+
+ Q384: What does NASA stand for?
+ A: National Aeronautics and Space Administration
+ Entities: miscellaneous Categories: place number
+
+ Q385: What famous model was married to Billy Joel?
+ A: Christie Brinkley
+ Entities: person Categories: place number
+
+ Q386: What is the chemical symbol for nitrogen?
+ A: N
+ Entities: miscellaneous Categories: number time
+
+ Q387: In what book can I find the story of Aladdin?
+ A: The Arabian Nights
+ Entities: miscellaneous Categories: place number
+
+ Q388: When did World War I start?
+ A: 1914
+ Entities: time Categories: time
+
+ Q389: What state is Niagra Falls located in?
+ A: N.Y.
+ Entities: place Categories: place number
+
+ Q390: What's the name of the actress who starred in the movie, "Silence of the Lambs"?
+ A: Jodie Foster
+ Entities: person Categories: place number
+
+ Q391: Who owns the St. Louis Rams?
+ A: Georgia Frontiere
+ Entities: person Categories: person
+
+ Q392: Where could I go to take a ride on a steam locomotive?
+ A: Ft. Bragg, Calif.
+ Entities: place Categories: place
+
+ Q393: When was the movie, Caligula, made?
+ A: 1976
+ Entities: time Categories: time
+
+ Q394: Name an American war plane?
+ A: F-15C
+ Entities: miscellaneous Categories: person org
+
+ Q395: Where is Burma?
+ A: borders with Thailand and China
+ Entities: place Categories: place
+
+ Q396: How many highway miles to the gallon can you get with the Ford Fiesta?
+ A: 43mpg
+ Entities: number Categories: dimension number
+
+ Q397: Name a novel written by John Steinbeck.
+ A: The Grapes of Wrath
+ Entities: miscellaneous Categories: person
+
+ Q398: Who wrote the song, "Boys of Summer"?
+ A: Don Henley
+ Entities: person Categories: person
+
+ Q399: What is the mascot for Notre Dame University?
+ A: Leprechaun
+ Entities: miscellaneous Categories: number time
+
+ Q400: What is typhoid fever?
+ A: commonly linked to poor sanitation
+ Entities: miscellaneous Categories: number time
+
+ Q401: When did the neanderthal man live?
+ A: about 50,000 years ago
+ Entities: time Categories: time
+
+ Q402: Who manufactures the software, "PhotoShop"?
+ A: Adobe
+ Entities: org Categories: org person
+
+ Q403: How many casinos are in Atlantic City, NJ?
+ A: 12
+ Entities: number Categories: dimension number
+
+ Q404: What state does Martha Stewart live in?
+ A: Connecticut
+ Entities: place Categories: place number
+
+ Q405: Who was the first woman in space?
+ A: Ms. Tereshkova
+ Entities: person Categories: person
+
+ Q406: What are Cushman and Wakefield known for?
+ A: founders of Cushman and Wakefield Inc.
+ Entities: person Categories: place number
+
+ Q407: What is D.B. Cooper known for?
+ A: missing skyjacker
+ Entities: miscellaneous Categories: number time
+
+ Q408: When was Nostradamus born?
+ A: 1503
+ Entities: time Categories: time
+
+ Q409: When was "the Great Depression"?
+ A: 1929 to 1933
+ Entities: time Categories: time
+
+ Q410: What is Archimedes famous for?
+ A: how to measure the volume of an irregular object
+ Entities: miscellaneous Categories: number time
+
+ Q411: What is the medical condition of hypertension?
+ A: abnormally high blood pressure
+ Entities: miscellaneous Categories: number time
+
+ Q412: Who created the comic strip, "Garfield"?
+ A: Jim Davis
+ Entities: person Categories: person
+
+ Q413: Where is the Isle of Man?
+ A: in the middle of the Irish Sea
+ Entities: place Categories: place
+
+ Q414: Who wrote the book, "Huckleberry Finn"?
+ A: Samuel Clemens (a.k.a. Mark Twain)
+ Entities: person Categories: person
+
+ Q415: What day is known as the "national day of prayer"?
+ A: the first Thursday of every May
+ Entities: time Categories: number time
+
+ Q416: What is the purpose of a car bra?
+ A: fool police radar until it reaches close range 
+ Entities: miscellaneous Categories: number time
+
+ Q417: What are chloroplasts?
+ A: tiny structures in plant cells
+ Entities: miscellaneous Categories: place number
+
+ Q418: What is the name of the art of growing miniature trees?
+ A: bonsai
+ Entities: miscellaneous Categories: number time
+
+ Q419: What is the telephone number for the University of Kentucky?
+ A: (606) 233-6040
+ Entities: number Categories: number time
+
+ Q420: Who wrote "The Scarlet Letter"?
+ A: Nathaniel Hawthorne
+ Entities: person Categories: person
+
+ Q421: Name an art gallery in New York.
+ A: The Galerie St. Etienne
+ Entities: miscellaneous Categories: person org
+
+ Q422: What type of hunting are retrievers used for?
+ A: bird
+ Entities: miscellaneous Categories: place number
+
+ Q423: What party was Winston Churchill a member of?
+ A: conservatives
+ Entities: miscellaneous Categories: place number
+
+ Q424: How was Teddy Roosevelt related to FDR?
+ A: distant cousins
+ Entities: miscellaneous Categories: dimension
+
+ Q425: When did the Chernobyl nuclear accident occur?
+ A: April 26, 1:23 am
+ Entities: time Categories: time
+
+ Q426: What does SIDS stand for?
+ A: Sudden Infant Death Syndrome
+ Entities: miscellaneous Categories: place number
+
+ Q427: What's the name of the star of the cooking show, "Galloping Gourmet"?
+ A: Graham Kerr
+ Entities: person Categories: place number
+
+ Q428: What city is 94.5 KDGE Radio located in?
+ A: Dallas
+ Entities: place Categories: place number
+
+ Q429: What President became Chief Justice after his presidency?
+ A: Taft
+ Entities: person Categories: place number
+
+ Q430: How tall is kilamanjaro?
+ A: 19,385 ft.
+ Entities: dimension Categories: dimension
+
+ Q431: Who won the nobel prize in literature in 1988?
+ A: Naguib Mahfouz
+ Entities: person Categories: person
+
+ Q432: What's the name of the Tampa newspaper?
+ A: Tampa Tribune
+ Entities: miscellaneous Categories: place number
+
+ Q433: How long do hermit crabs live?
+ A: 70 years
+ Entities: time Categories: dimension time
+
+ Q434: What is Dr. Ruth's last name?
+ A: Westheimer
+ Entities: person Categories: number time
+
+ Q435: What is cribbage?
+ A: card games
+ Entities: miscellaneous Categories: number time
+
+ Q436: Italy is the largest producer of what?
+ A: wine
+ Entities: miscellaneous Categories: place number
+
+ Q437: What wrestling star became "The Incredible Hulk"?
+ A: Lou Ferrigno
+ Entities: person Categories: place number
+
+ Q438: Who wrote "The Pit and the Pendulum"?
+ A: Edgar Allen Poe
+ Entities: person Categories: person
+
+ Q439: Who manufacturers Magic Chef applicances?
+ A: Maytag
+ Entities: org Categories: org person
+
+ Q440: When was the first Wall Street Journal published?
+ A: July 8 1889
+ Entities: time Categories: time
+
+ Q441: What is the normal resting heart rate of a healthy adult?
+ A: under 100 beats a minute
+ Entities: miscellaneous Categories: number time
+
+ Q442: Who's the lead singer of the Led Zeppelin band?
+ A: Robert Plant
+ Entities: person Categories: person
+
+ Q443: Who wrote "An Ideal Husband"?
+ A: Oscar Wilde
+ Entities: person Categories: person
+
+ Q444: What is ouzo?
+ A: aniseed flavored fiery liquor
+ Entities: miscellaneous Categories: number time
+
+ Q445: When did the Dow first reach 2000?
+ A: Jan 8, 1987
+ Entities: time Categories: time
+
+ Q446: Who was Charles Lindbergh's wife?
+ A: Anne Spencer Morrow Lindbergh
+ Entities: person Categories: person
+
+ Q447: How many miles is it from London, England to Plymouth, England?
+ A: about 200
+ Entities: number Categories: dimension number
+
+ Q448: Who is Secretary-General of the United Nations?
+ A: Butrus-Ghali
+ Entities: person Categories: person place
+
+ Q449: Who played the teacher in Dead Poet's Society?
+ A: Robin Williams
+ Entities: person Categories: person
+
+ Q450: How many counties are in Indiana?
+ A: 92
+ Entities: number Categories: dimension time
+
+ Q451: What actress starred in "The Lion in Winter"?
+ A: Katherine Hepburn
+ Entities: person Categories: place number
+
+ Q452: Where was Tesla born?
+ A: Croatia
+ Entities: place Categories: place
+
+ Q453: What's the name of a hotel in Indianapolis?
+ A: Holiday Inn
+ Entities: miscellaneous Categories: place number
+
+ Q454: What U.S. Government agency registers trademarks?
+ A: Patent and Trademark Office
+ Entities: miscellaneous Categories: place number
+
+ Q455: Who started the Dominos Pizza chain?
+ A: Thomas S. Monaghan
+ Entities: person Categories: person
+
+ Q456: What is the hair style called that new military recruits receive?
+ A: military brush cut
+ Entities: miscellaneous Categories: number time
+
+ Q457: In what country is a stuck-out tongue a friendly greeting?
+ A: New Zealand
+ Entities: place Categories: place number
+
+ Q458: Where is Kings Canyon?
+ A: Sierra Nevada Range 
+ Entities: place Categories: place
+
+ Q459: Where is the Mayo Clinic?
+ A: Rochester, Minnesota
+ Entities: place Categories: place
+
+ Q460: How big is the Electoral College?
+ A: 538 
+ Entities: number Categories: dimension number
+
+ Q461: How much does one ton of cement cost?
+ A: $30
+ Entities: currency Categories: currency dimension
+
+ Q462: Where does Mother Angelica live?
+ A: Birmingham, Ala.
+ Entities: place Categories: place
+
+ Q463: How many people watch network television?
+ A: 90.4 million
+ Entities: number Categories: dimension number
+
+ Q464: What is the name of a Greek god?
+ A: Poseidon
+ Entities: person Categories: number time
+
+ Q465: What year was the first automobile manufactured?
+ A: 1891
+ Entities: time Categories: number time
+
+ Q466: What's the population of Mississippi?
+ A: 2.3 million
+ Entities: number Categories: place number
+
+ Q467: What was the name of Jacques Cousteau's ship?
+ A: Calypso
+ Entities: miscellaneous Categories: place number
+
+ Q468: What are the names of Jacques Cousteau's two sons?
+ A: Jean Michel & Philippe
+ Entities: person Categories: place number
+
+ Q469: What is Java?
+ A: Indonesia's main island of Java
+ Entities: miscellaneous Categories: number time
+
+ Q470: What does Final Four refer to in the sports world?
+ A: NCAA basketball Final Four
+ Entities: miscellaneous Categories: number time
+
+ Q471: What does Knight Ridder publish?
+ A: 29 Daily Newspapers
+ Entities: miscellaneous Categories: place number
+
+ Q472: What task does the Bouvier breed of dog perform?
+ A: herding cattle
+ Entities: miscellaneous Categories: place number
+
+ Q473: What sport do the Cleaveland Cavaliers play?
+ A: basketball
+ Entities: miscellaneous Categories: place number
+
+ Q474: What year was the Avery Dennison company founded?
+ A: 1990
+ Entities: time Categories: number time
+
+ Q475: What's the population of Biloxi, Mississippi?
+ A: 46,000
+ Entities: number Categories: place number
+
+ Q476: Name a ballet company Mikhail Baryshnikov has danced for?
+ A: George Balanchine's New York City Ballet
+ Entities: miscellaneous Categories: org person
+
+ Q477: What was the name of the television show, staring Karl Malden, that had San Francisco in the title?
+ A: Streets of San Francisco
+ Entities: miscellaneous Categories: number time
+
+ Q478: Who was the founding member of the Pink Floyd band?
+ A: Roger Waters
+ Entities: person Categories: person
+
+ Q479: What did Delilah do to Samson's hair?
+ A: cut it off
+ Entities: miscellaneous Categories: place number
+
+ Q480: What's the name of the Tokyo Stock Exchange?
+ A: Nikkei
+ Entities: miscellaneous Categories: place number
+
+ Q481: What actor first portrayed James Bond?
+ A: Sean Connery
+ Entities: person Categories: place number
+
+ Q482: What type of horses appear on the Budweiser commercials?
+ A: Clydesdales
+ Entities: miscellaneous Categories: place number
+
+ Q483: What do river otters eat?
+ A: fish
+ Entities: miscellaneous Categories: place number
+
+ Q484: When did the art of quilting begin?
+ A: 12th Century
+ Entities: miscellaneous Categories: time
+
+ Q485: When did Amtrak begin operations?
+ A: 1971
+ Entities: time Categories: time
+
+ Q486: Where is the Smithsonian Institute located?
+ A: Washington, DC
+ Entities: place Categories: place
+
+ Q487: What year did the Vietnam War end?
+ A: 1975
+ Entities: time Categories: number time
+
+ Q488: What country are Godiva chocolates from?
+ A: Belgian
+ Entities: place Categories: place number
+
+ Q489: How many islands does Fiji have?
+ A: 320
+ Entities: number Categories: dimension number
+
+ Q490: What card company sells Christmas ornaments?
+ A: Hallmark Cards Inc.'s
+ Entities: org Categories: org number
+
+ Q491: Who manufactures synthroid?
+ A: Boots
+ Entities: org Categories: org person
+
+ Q492: What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?
+ A: 1984
+ Entities: time Categories: number time
+
+ Q493: What city did the Flintstones live in?
+ A: Bedrock
+ Entities: place Categories: place number
+
+ Q494: Who was the oldest U.S. president?
+ A: Ronald Reagan
+ Entities: person Categories: currency person
+
+ Q495: Who was the tallest U.S. president?
+ A: Abe Lincoln
+ Entities: person Categories: currency person
+
+ Q496: Where is Santa Lucia?
+ A: Italy's Naples
+ Entities: place Categories: place
+
+ Q497: Which U.S. President is buried in Washington, D.C.?
+ A: Woodrow Wilson
+ Entities: person Categories: currency org
+
+ Q498: Where is Ocho Rios?
+ A: Jamaica
+ Entities: place Categories: place
+
+ Q499: What year was Janet Jackson's first album released?
+ A: 1986
+ Entities: time Categories: number time
+
+ Q500: What is another name for nearsightedness?
+ A: myopia
+ Entities: miscellaneous Categories: number time
+
+ Q501: Winnie the Pooh is what kind of animal?  
+ A: bear
+ Entities: miscellaneous Categories: place number
+
+ Q502: What species was Winnie the Pooh?
+ A: bear
+ Entities: miscellaneous Categories: place number
+
+ Q503: Winnie the Pooh is an imitation of which animal?
+ A: bear
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q504: What was the species of Winnie the Pooh?
+ A: bear
+ Entities: miscellaneous Categories: place number
+
+ Q505: Aspartame is also known as what?
+ A: monsantos aspartame
+ Entities: miscellaneous Categories: place number
+
+ Q506: What is a synonym for aspartame?
+ A: monsantos aspartame
+ Entities: miscellaneous Categories: number time
+
+ Q507: Aspartame is known by what other name?
+ A: monsantos aspartame
+ Entities: miscellaneous Categories: place number
+
+ Q508: Aspartame is also called what?
+ A: monsantos aspartame
+ Entities: miscellaneous Categories: place number
+
+ Q509: Hazmat stands for what?
+ A: hazardous materials
+ Entities: miscellaneous Categories: place number
+
+ Q510: What is the definition of hazmat?
+ A: hazardous materials
+ Entities: miscellaneous Categories: number time
+
+ Q511: What are the names of the tourist attractions in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q512: What do most tourists visit in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q513: What attracts tourists to Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q514: What are tourist attractions in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q515: What could I see in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q516: What is worth seeing in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: number time
+
+ Q517: What can one see in Reims?
+ A: Cathedral
+ Entities: miscellaneous Categories: place number
+
+ Q518: Jude Law was in what movie?
+ A: Shopping
+ Entities: miscellaneous Categories: place number
+
+ Q519: Jude Law acted in which film?
+ A: Shopping
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q520: What is a film starring Jude Law?
+ A: Shopping
+ Entities: miscellaneous Categories: number time
+
+ Q521: What film was Jude Law in?
+ A: Shopping
+ Entities: miscellaneous Categories: place number
+
+ Q522: What film or films has Jude Law appeared in?
+ A: Shopping
+ Entities: miscellaneous Categories: place number
+
+ Q523: What city houses the U.S. headquarters of Procter and Gamble?
+ A: Cincinnati
+ Entities: place Categories: place number
+
+ Q524: Where is Procter & Gamble headquartered in the U.S.?
+ A: Cincinnati
+ Entities: place Categories: place
+
+ Q525: What is the U.S. location of Procter & Gamble corporate offices?
+ A: Cincinnati
+ Entities: place Categories: currency number
+
+ Q526: Procter & Gamble is headquartered in which U.S. city?
+ A: Cincinnati
+ Entities: place Categories: currency place
+
+ Q527: Where is Procter & Gamble based in the U.S.?
+ A: Cincinnati
+ Entities: place Categories: currency place
+
+ Q528: What is the recommended daily requirement for folic acid for pregnant women?
+ A: 400 micrograms
+ Entities: dimension Categories: dimension number
+
+ Q529: How much folic acid should a pregnant woman get each day?
+ A: 400 micrograms
+ Entities: dimension Categories: dimension
+
+ Q530: What is the daily requirement of folic acid for an expectant mother?
+ A: 400 micrograms
+ Entities: dimension Categories: dimension number
+
+ Q531: What amount of folic acid should an expectant mother take daily?
+ A: 400 micrograms
+ Entities: dimension Categories: place number
+
+ Q532: Name the first Russian astronaut to do a spacewalk.
+ A: Aleksei A. Leonov
+ Entities: person Categories: person
+
+ Q533: Who was the first Russian astronaut to walk in space?
+ A: Aleksei A. Leonov
+ Entities: person Categories: person
+
+ Q534: Who was the first Russian to do a spacewalk?
+ A: Aleksei A. Leonov
+ Entities: person Categories: person
+
+ Q535: CNN is the abbreviation for what?
+ A: Cable News Network
+ Entities: miscellaneous Categories: place number
+
+ Q536: CNN is an acronym for what?
+ A: Cable News Network
+ Entities: miscellaneous Categories: place number
+
+ Q537: What was the date of CNN's first broadcast?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: number time
+
+ Q538: CNN began broadcasting in what year?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: number time
+
+ Q539: CNN's first broadcast occurred on what date?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: number time
+
+ Q540: When did CNN begin broadcasting?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: time
+
+ Q541: When did CNN go on the air?
+ A: June 1, 1980, we went on the air at 6 p.m., Eastern time
+ Entities: time Categories: time
+
+ Q542: Who is the owner of CNN?
+ A: Ted Turner
+ Entities: person Categories: person
+
+ Q543: CNN is owned by whom?
+ A: Ted Turner
+ Entities: person Categories: person
+
+ Q544: What newspaper serves Salt Lake City?
+ A: Salt Lake City Tribune
+ Entities: miscellaneous Categories: place number
+
+ Q545: Name a Salt Lake City newspaper.
+ A: Salt Lake City Tribune
+ Entities: miscellaneous Categories: person place
+
+ Q546: What is Jane Goodall famous for?
+ A: London-born primatologist
+ Entities: miscellaneous Categories: number time
+
+ Q547: What is Jane Goodall known for?
+ A: London-born primatologist
+ Entities: miscellaneous Categories: number time
+
+ Q548: Why is Jane Goodall famous?
+ A: London-born primatologist
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q549: What made Jane Goodall famous?
+ A: London-born primatologist
+ Entities: miscellaneous Categories: place number
+
+ Q550: Define thalassemia.
+ A: severe form of anaemia
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q551: What is the meaning of thalassemia?
+ A: severe form of anaemia 
+ Entities: miscellaneous Categories: number time
+
+ Q552: How is thalassemia defined?
+ A: severe form of anaemia 
+ Entities: miscellaneous Categories: dimension
+
+ Q553: What soft drink is most heavily caffeinated?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: place number
+
+ Q554: What is the most heavily caffeinated soft drink?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: number time
+
+ Q555: To get the most caffeine, what soda should I drink?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: place number
+
+ Q556: Which type of soda has the greatest amount of caffeine?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q557: What soft drink would provide me with the biggest intake of caffeine?
+ A: Jolt Co. introduced a cola
+ Entities: miscellaneous Categories: place number
+
+ Q558: What is the collective term for geese?
+ A: gaggle
+ Entities: miscellaneous Categories: number time
+
+ Q559: What is the collective noun for geese?
+ A: gaggle
+ Entities: miscellaneous Categories: number time
+
+ Q560: What is the term for a group of geese?
+ A: gaggle
+ Entities: miscellaneous Categories: number time
+
+ Q561: What is the name given to a group of geese?
+ A: gaggle
+ Entities: miscellaneous Categories: number time
+
+ Q562: What is the gestation period for human pregnancies?
+ A: nine months 
+ Entities: time Categories: number time
+
+ Q563: How long is human gestation?
+ A: nine months 
+ Entities: time Categories: dimension time
+
+ Q564: What is the gestation period for humans?
+ A: nine months 
+ Entities: time Categories: number time
+
+ Q565: A normal human pregnancy lasts how many months?
+ A: nine 
+ Entities: number Categories: dimension time
+
+ Q566: What was the alternate to VHS?
+ A: Beta
+ Entities: miscellaneous Categories: place number
+
+ Q567: What video format was an alternative to VHS?
+ A: Beta
+ Entities: miscellaneous Categories: place number
+
+ Q568: What format was the major competition of VHS?
+ A: Beta
+ Entities: miscellaneous Categories: place number
+
+ Q569: What ethnic group introduced the idea of potlatch?
+ A: Indian
+ Entities: miscellaneous Categories: place number
+
+ Q570: What is the cultural origin of the ceremony of potlatch?
+ A: Indian
+ Entities: miscellaneous Categories: number time
+
+ Q571: Who developed potlatch?
+ A: Indian
+ Entities: miscellaneous Categories: person
+
+ Q572: Where is Logan Airport?
+ A: Boston's
+ Entities: place Categories: place
+
+ Q573: What city is Logan Airport in?
+ A: Boston's
+ Entities: place Categories: place number
+
+ Q574: Logan International serves what city?
+ A: Boston's
+ Entities: place Categories: place number
+
+ Q575: Logan International is located in what city?
+ A: Boston's
+ Entities: place Categories: place number
+
+ Q576: What city's airport is named Logan International?
+ A: Boston's
+ Entities: place Categories: place number
+
+ Q577: What city is served by Logan International Airport?
+ A: Boston's
+ Entities: place Categories: place number
+
+ Q578: Woodrow Wilson was president of which university?
+ A: Princeton
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q579: Name the university of which Woodrow Wilson was president.
+ A: Princeton
+ Entities: miscellaneous Categories: person
+
+ Q580: Woodrow Wilson served as president of what university?
+ A: Princeton
+ Entities: miscellaneous Categories: place number
+
+ Q581: What does the acronym CPR mean?
+ A: Cardiopulmonary Resuscitation
+ Entities: miscellaneous Categories: place number
+
+ Q582: What do the initials CPR stand for?
+ A: Cardiopulmonary Resuscitation
+ Entities: miscellaneous Categories: place number
+
+ Q583: CPR is the abbreviation for what?
+ A: Cardiopulmonary Resuscitation
+ Entities: miscellaneous Categories: place number
+
+ Q584: What is the meaning of "CPR"?
+ A: Cardiopulmonary Resuscitation
+ Entities: miscellaneous Categories: number time
+
+ Q585: What was the name of Darth Vader's son?
+ A: Luke Skywalker
+ Entities: person Categories: place number
+
+ Q586: What was Darth Vader's son named?
+ A: Luke Skywalker
+ Entities: person Categories: place number
+
+ Q587: What caused the death of Bob Marley?
+ A: cancer
+ Entities: miscellaneous Categories: place number
+
+ Q588: What killed Bob Marley?
+ A: cancer
+ Entities: miscellaneous Categories: place number
+
+ Q589: What was the cause of Bob Marley's death?
+ A: cancer
+ Entities: miscellaneous Categories: place number
+
+ Q590: What instrument does Ray Charles play?
+ A: piano
+ Entities: miscellaneous Categories: place number
+
+ Q591: Musician Ray Charles plays what instrument?
+ A: piano
+ Entities: miscellaneous Categories: place number
+
+ Q592: Ray Charles plays which instrument?
+ A: piano
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q593: Ray Charles is best known for playing what instrument?
+ A: piano
+ Entities: miscellaneous Categories: place number
+
+ Q594: When was Dick Clark born?
+ A: Friday Nov. 30
+ Entities: time Categories: time
+
+ Q595: When is Dick Clark's birthday?
+ A: Friday Nov. 30
+ Entities: time Categories: time
+
+ Q596: What is Dick Clark's date of birth?
+ A: Friday Nov. 30
+ Entities: time Categories: number time
+
+ Q597: What was Poe's birthplace?
+ A: Boston
+ Entities: place Categories: place number
+
+ Q598: What was the birthplace of Edgar Allen Poe?
+ A: Boston
+ Entities: place Categories: place number
+
+ Q599: Where is Poe's birthplace?
+ A: Boston
+ Entities: place Categories: place
+
+ Q600: What monarch signed the Magna Carta?
+ A: King John
+ Entities: person Categories: place number
+
+ Q601: Which king signed the Magna Carta?
+ A: King John
+ Entities: person Categories: miscellaneous
+
+ Q602: Who was the king who was forced to agree to the Magna Carta?
+ A: King John
+ Entities: person Categories: person
+
+ Q603: What king signed the Magna Carta?
+ A: King John
+ Entities: person Categories: place number
+
+ Q604: Who was the king who signed the Magna Carta?
+ A: King John
+ Entities: person Categories: person
+
+ Q605: Where is one's corpus callosum found?
+ A: connects the two spheres of the brain
+ Entities: miscellaneous Categories: place
+
+ Q606: What part of your body contains the corpus callosum?
+ A: connects the two spheres of the brain
+ Entities: miscellaneous Categories: place number
+
+ Q607: The corpus callosum is in what part of the body?
+ A: connects the two spheres of the brain
+ Entities: miscellaneous Categories: place number
+
+ Q608: What English word has the most letters?
+ A: pneumonoultramicroscopicsilicovolcanoconiosis
+ Entities: miscellaneous Categories: place number
+
+ Q609: What English word contains the most letters?
+ A: pneumonoultramicroscopicsilicovolcanoconiosis
+ Entities: miscellaneous Categories: place number
+
+ Q610: What is the longest English word?
+ A: pneumonoultramicroscopicsilicovolcanoconiosis
+ Entities: miscellaneous Categories: number time
+
+ Q611: What is the name of the inventor of silly putty?
+ A: General Electric scientist 
+ Entities: person Categories: number time
+
+ Q612: Silly putty was invented by whom?
+ A: General Electric scientist 
+ Entities: person Categories: person
+
+ Q613: Who was the inventor of silly putty?
+ A: General Electric scientist 
+ Entities: person Categories: person
+
+ Q614: When was Berlin's Brandenburg gate erected?
+ A: 18th century
+ Entities: time Categories: time
+
+ Q615: What is the date of Boxing Day?
+ A: the day after Christmas
+ Entities: time Categories: number time
+
+ Q616: What date is Boxing Day?
+ A: the day after Christmas
+ Entities: time Categories: number time
+
+ Q617: Boxing Day is celebrated on what date?
+ A: the day after Christmas
+ Entities: time Categories: number time
+
+ Q618: What city does McCarren Airport serve?
+ A: Las Vegas
+ Entities: place Categories: place number
+
+ Q619: What city is served by McCarren Airport?
+ A: Las Vegas
+ Entities: place Categories: place number
+
+ Q620: McCarren Airport is located in what city?
+ A: Las Vegas
+ Entities: place Categories: place number
+
+ Q621: What is the location of McCarren Airport?
+ A: Las Vegas
+ Entities: place Categories: number time
+
+ Q622: Where is McCarren Airport located?
+ A: Las Vegas
+ Entities: place Categories: place
+
+ Q623: Who invented "The Muppets"?
+ A: Henson
+ Entities: person Categories: person
+
+ Q624: What was the name of "The Muppets" creator?
+ A: Henson
+ Entities: person Categories: place number
+
+ Q625: "The Muppets" was created by whom?
+ A: Henson
+ Entities: person Categories: person
+
+ Q626: Name the creator of "The Muppets".
+ A: Henson
+ Entities: person Categories: person
+
+ Q627: Who is the creator of "The Muppets"?
+ A: Henson
+ Entities: person Categories: person
+
+ Q628: What is the date of Bastille Day?
+ A: July 14, 1789
+ Entities: time Categories: number time
+
+ Q629: Bastille Day occurs on which date?
+ A: July 14, 1789
+ Entities: time Categories: time
+
+ Q630: What is the equivalent of the Red Cross in the Middle East?
+ A: Red Crescent
+ Entities: miscellaneous Categories: number time
+
+ Q631: What is the name of the Islamic counterpart to the Red Cross?
+ A: Red Crescent
+ Entities: miscellaneous Categories: number time
+
+ Q632: Name the Islamic counterpart to the Red Cross.
+ A: Red Crescent
+ Entities: miscellaneous Categories: person
+
+ Q633: What is the Islamic equivalent of the Red Cross?
+ A: Red Crescent
+ Entities: miscellaneous Categories: number time
+
+ Q634: What is the name given to the Islamic counterpart of the Red Cross?
+ A: Red Crescent
+ Entities: miscellaneous Categories: number time
+
+ Q635: Colin Powell is most famous for what?
+ A: first black to head the nation's military services
+ Entities: miscellaneous Categories: place number
+
+ Q636: Colin Powell is best known for what achievement?
+ A: first black to head the nation's military services
+ Entities: miscellaneous Categories: place number
+
+ Q637: Who is Colin Powell?
+ A: first black to head the nation's military services
+ Entities: miscellaneous Categories: person
+
+ Q638: Colin Powell is famous for what?
+ A: first black to head the nation's military services
+ Entities: miscellaneous Categories: place number
+
+ Q639: What time of year do most people fly?
+ A: July 1 through Labor Day
+ Entities: time Categories: number time
+
+ Q640: What time of year has the most air travel?
+ A: July 1 through Labor Day
+ Entities: time Categories: number time
+
+ Q641: What time of year is air travel the heaviest?
+ A: July 1 through Labor Day
+ Entities: time Categories: number time
+
+ Q642: At what time of year is air travel at a peak?
+ A: July 1 through Labor Day
+ Entities: time Categories: number time
+
+ Q643: Name a golf course in Myrtle Beach.
+ A: The Wild Dunes resort
+ Entities: miscellaneous Categories: person
+
+ Q644: What is Pittsburg's baseball team called?
+ A: Pittsburg Pirates Baseball Team
+ Entities: miscellaneous Categories: number time
+
+ Q645: The major league baseball team in Pittsburgh is called what?
+ A: Pittsburg Pirates Baseball Team
+ Entities: miscellaneous Categories: place number
+
+ Q646: Name Pittsburgh's baseball team.
+ A: Pittsburg Pirates Baseball Team
+ Entities: miscellaneous Categories: person
+
+ Q647: What city is the Orange Bowl in?
+ A: Miami
+ Entities: place Categories: place number
+
+ Q648: The Orange Bowl is in what city?
+ A: Miami
+ Entities: place Categories: place number
+
+ Q649: The Orange Bowl is located in what city?
+ A: Miami
+ Entities: place Categories: place number
+
+ Q650: Where is the Orange Bowl?
+ A: Miami
+ Entities: place Categories: place
+
+ Q651: When did Mount St. Helens last erupt?
+ A: May 18, 1980
+ Entities: time Categories: time
+
+ Q652: When did Mount St. Helen last have a major eruption?
+ A: May 18, 1980
+ Entities: time Categories: time
+
+ Q653: When did Mount St. Helen last have a significant eruption?
+ A: May 18, 1980
+ Entities: time Categories: time
+
+ Q654: How do you abbreviate "Original Equipment Manufacturer"?
+ A: OEM
+ Entities: miscellaneous Categories: dimension
+
+ Q655: How is "Original Equipment Manufacturer" abbreviated?
+ A: OEM
+ Entities: miscellaneous Categories: dimension
+
+ Q656: Where can one find Rider College?
+ A: New Jersey
+ Entities: place Categories: place
+
+ Q657: What is the location of Rider College?
+ A: New Jersey
+ Entities: place Categories: number time
+
+ Q658: Rider College is located in what city?
+ A: New Jersey
+ Entities: place Categories: place number
+
+ Q659: Where is Rider College?
+ A: New Jersey
+ Entities: place Categories: place
+
+ Q660: What is the occupation of Nicholas Cage?
+ A: actor
+ Entities: miscellaneous Categories: number time
+
+ Q661: What is Nicholas Cage's profession?
+ A: actor
+ Entities: miscellaneous Categories: number time
+
+ Q662: What is Nicholas Cage's occupation?
+ A: actor
+ Entities: miscellaneous Categories: number time
+
+ Q663: What does caliente translate to in English?
+ A: hot
+ Entities: miscellaneous Categories: place number
+
+ Q664: What is the English meaning of caliente?
+ A: hot
+ Entities: miscellaneous Categories: number time
+
+ Q665: What is the meaning of caliente (in English)?
+ A: hot
+ Entities: miscellaneous Categories: number time
+
+ Q666: What is the English translation for the word "caliente"?
+ A: hot
+ Entities: miscellaneous Categories: number time
+
+ Q667: What is the Jewish alphabet called?
+ A: Alef-Beyz
+ Entities: miscellaneous Categories: number time
+
+ Q668: The Jewish alphabet is called what?
+ A: Alef-Beyz
+ Entities: miscellaneous Categories: place number
+
+ Q669: The Jewish alphabet is known as what?
+ A: Alef-Beyz
+ Entities: miscellaneous Categories: place number
+
+ Q670: Jackson Pollock was a native of what country?
+ A: U.S.
+ Entities: place Categories: place number
+
+ Q671: Jackson Pollock is of what nationality?
+ A: U.S.
+ Entities: place Categories: place number
+
+ Q672: What was the nationality of Jackson Pollock?
+ A: U.S.
+ Entities: place Categories: place number
+
+ Q673: The Kentucky Horse Park is close to which American city?
+ A: Lexington
+ Entities: place Categories: place
+
+ Q674: Where is the Kentucky Horse Park located?
+ A: Lexington
+ Entities: place Categories: place
+
+ Q675: Where is the Kentucky Horse Park?
+ A: Lexington
+ Entities: place Categories: place
+
+ Q676: What city is the Kentucky Horse Park near?
+ A: Lexington
+ Entities: place Categories: place number
+
+ Q677: The Kentucky Horse Park is located near what city?
+ A: Lexington
+ Entities: place Categories: place number
+
+ Q678: What is a nickname for Mississippi?
+ A: Magnolia State
+ Entities: miscellaneous Categories: number time
+
+ Q679: Mississippi is nicknamed what?
+ A: Magnolia State
+ Entities: miscellaneous Categories: place number
+
+ Q680: Mississippi has what name for a state nickname?
+ A: Magnolia State
+ Entities: miscellaneous Categories: place number
+
+ Q681: What is the nickname for the state of Mississippi?
+ A: Magnolia State
+ Entities: miscellaneous Categories: number time
+
+ Q682: What date in 1989 did East Germany open the Berlin Wall?
+ A: Nov 9
+ Entities: time Categories: number time
+
+ Q683: Who was Johnny Mathis' high school track coach?
+ A: Lou Vasquez
+ Entities: person Categories: person
+
+ Q684: What is the shape of a porpoises' tooth?
+ A: spade-shaped
+ Entities: miscellaneous Categories: number time
+
+ Q685: What is the number of buffaloes thought to have been living in North America when Columbus landed in 1492?
+ A: 60 million 
+ Entities: number Categories: dimension number
+
+ Q686: The Faroes are a part of what northern European country?
+ A: Denmark
+ Entities: place Categories: place number
+
+ Q687: The symptoms of Parkinson's disease are linked to the demise of cells in what area of the brain?
+ A: substantia nigra
+ Entities: miscellaneous Categories: place number
+
+ Q688: What was the date of the Chelsea flower show in 1992?
+ A: May 18
+ Entities: time Categories: place time
+
+ Q689: What hotel was used for a setting of the Agatha Christie novel, "And Then There Were None"?
+ A: Burgh Island Hotel
+ Entities: place Categories: place number
+
+ Q690: What year was the Magna Carta signed?
+ A: 1215
+ Entities: time Categories: number time
+
+ Q691: Who was Lincoln's Secretary of State?
+ A: William Seward
+ Entities: person Categories: person place
+
+ Q692: How long did it take to fly from Paris to New York in a Concorde?
+ A: 3 1/2 hours
+ Entities: time Categories: dimension time
+
+ Q693: How many lives were lost in the Pan Am crash in Lockerbie, Scotland?
+ A: 270 
+ Entities: number Categories: dimension time
+
+ Q694: What is the world's population?
+ A: 5.48bn. 
+ Entities: number Categories: number time
+
+ Q695: Which country has the largest part of the Amazon rain forest?
+ A: Brazil
+ Entities: place Categories: place
+
+ Q696: Which atlantic hurricane had the highest recorded wind speeds?
+ A: Gilbert 
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q697: How long does it take to travel from London to Paris via the Chunnel?
+ A: three hours 
+ Entities: time Categories: dimension time
+
+ Q698: Who created the board game Pictionary?
+ A: Robert Angel
+ Entities: person Categories: person
+
+ Q699: How long is the Appalachian Trail?
+ A: 2,167 miles
+ Entities: dimension Categories: dimension time
+
+ Q700: How far is Jupiter?
+ A: 2,100 miles
+ Entities: dimension Categories: dimension
+
+ Q701: What was Malcolm X's original surname?
+ A: Little
+ Entities: person Categories: number time
+
+ Q702: What is the world record time for running one mile while juggling?
+ A: 4 minutes, 43 seconds
+ Entities: time Categories: number time
+
+ Q703: What is the capital of the United States?
+ A: Washington
+ Entities: place Categories: number time
+
+ Q704: How tall is the Statue of Liberty?
+ A: 92m 
+ Entities: dimension Categories: dimension time
+
+ Q705: What is the capital of Uganda?
+ A: Kampala
+ Entities: place Categories: number time
+
+ Q706: What is the capital of Wisconsin?
+ A: Madison
+ Entities: place Categories: number time
+
+ Q707: What is the capital of Michigan?
+ A: Lansing
+ Entities: place Categories: number time
+
+ Q708: Where is Bolivia?
+ A: South America
+ Entities: place Categories: place
+
+ Q709: Where is Chicago?
+ A: Illinois 
+ Entities: place Categories: place
+
+ Q710: What two companies produce bovine somatotrophin?
+ A: Monsanto and Eli Lilly
+ Entities: org Categories: org number
+
+ Q711: Who was the first person to set foot on the moon?
+ A: Neil Armstrong
+ Entities: person Categories: person
+
+ Q712: When were the first free elections held in the new Republic of Hungary?
+ A: Sunday, 25 March 1990
+ Entities: time Categories: time
+
+ Q713: What is the date of the official opening of the channel tunnel between the U.K. and France?
+ A: May 6, 1994
+ Entities: time Categories: number time
+
+ Q714: When did Nelson Mandela become President of South Africa?
+ A: 10 May 1994
+ Entities: time Categories: time
+
+ Q715: Who was President of Turkmenistan in 1994?
+ A: Saparmurad Niyazov
+ Entities: person Categories: person
+
+ Q716: Who is the composer of Eugene Onegin?
+ A: Tchaikovsky
+ Entities: person Categories: person
+
+ Q717: When will the Voyagers lose contact with Earth?
+ A: about 2015 or 2020
+ Entities: time Categories: time
+
+ Q718: What is the name of the foreign marine pest infesting the Great Lakes and associated waterways since 1986?
+ A: Zebra Mussel
+ Entities: miscellaneous Categories: number time
+
+ Q719: Who is the CEO of General Electric?
+ A: John F. Welch Jr.
+ Entities: person Categories: person
+
+ Q720: How tall is the Eiffel Tower? 
+ A: 1,000 feet high
+ Entities: dimension Categories: dimension
+
+ Q721: How many keys do most computer keyboards have ?
+ A: Over 100
+ Entities: number Categories: dimension time
+
+ Q722: What is the name of Mother Theresa's organization ?
+ A: Missionaries of Charity
+ Entities: org Categories: number time
+
+ Q723: On what U.S. currency note do you find the portrait of Lincoln ?
+ A: 5$ bill
+ Entities: currency Categories: currency number
+
+ Q724: What was the start-up cost for a McDonald's franchise in 1997 ?
+ A: 383,000$
+ Entities: currency Categories: currency number
+
+ Q725: What was the cost of the U.S. Food Stamps program in 1988 ?
+ A: 12.3 billion dollars
+ Entities: currency Categories: currency number
+
+ Q726: Which large company based in Austin, TX sells PCs ?
+ A: Dell
+ Entities: org Categories: org
+
+ Q727: What is the circumference of the Earth at the equator ?
+ A: about 25,000 miles
+ Entities: dimension Categories: dimension number
+
+ Q728: How many legs does a spider have ?
+ A: 8
+ Entities: number Categories: dimension number
+
+ Q729: How many sides does a hexagon have ?
+ A: 6
+ Entities: number Categories: dimension number
+
+ Q730: Which U.N. organization was responsible for eradicating small pox ?
+ A: WHO
+ Entities: org Categories: org
+
+ Q731: Which two planets do not have moons ?
+ A: Mercury and Venus
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q732: What is the capital of China ?
+ A: Beijing
+ Entities: place Categories: number time
+
+ Q733: What is the name of the Japanese parliament ?
+ A: Diet
+ Entities: miscellaneous Categories: number time
+
+ Q734: How many times greater is the mass of the Sun compared to Earth ?
+ A: 330,000 times
+ Entities: number Categories: dimension number
+
+ Q735: Which is the most abundant element in the Sun ?
+ A: Hydrogen
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q736: Who won the World Cup in Cricket in 2003 ?
+ A: Australia
+ Entities: miscellaneous Categories: person
+
+ Q737: What are the two moons of Mars called ?
+ A: Phobos and Deimos
+ Entities: miscellaneous Categories: place number
+
+ Q738: What is the period of rotation on Mars ?
+ A: 24 hours and 40 minutes
+ Entities: time Categories: number time
+
+ Q739: What is the Euro ?
+ A: Currency of the European Union
+ Entities: currency Categories: number time
+
+ Q740: Where is the UN headquarters located ?
+ A: New York City
+ Entities: place Categories: place
+
+ Q741: Where is the headquarters of the European Union located ?
+ A: Brussels
+ Entities: place Categories: place
+
+ Q742: Who was the last man on the moon ?
+ A: Eugene Cernan
+ Entities: person Categories: person
+
+ Q743: Which U.S. company is biggest semiconductor manufacturer ?
+ A: Intel
+ Entities: org Categories: currency org
+
+ Q744: What is the second closest star to Earth ?
+ A: Proximi Centauri
+ Entities: miscellaneous Categories: number time
+
+ Q745: In which constellation do you find a shape like North America ?
+ A: Cygnus
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q746: How many vowels does the English alphabet contain ?
+ A: 5
+ Entities: number Categories: dimension time
+
+ Q747: What is the maximum take off weight of a jumbo jet ?
+ A: 875,000 pounds
+ Entities: dimension Categories: dimension number
+
+ Q748: How many signatures are there in the U.S. declaration of independence ?
+ A: 56
+ Entities: number Categories: currency number
+
+ Q749: When was Napoleaon Bonaparte born ?
+ A: 1769
+ Entities: time Categories: time
+
+ Q750: How many bones in a human adult ?
+ A: 206
+ Entities: number Categories: dimension time
+
+       Category        Correct          Error          Total     Avg. Diff.
+--------------------------------------------------------------------------------
+       currency              8              2             10        0.24886
+         person            105             27            132        0.45717
+            org             11              3             14        0.35436
+  miscellaneous             12            288            300        0.96000
+      dimension             20              3             23        0.24166
+          place            111             14            125        0.27942
+           time             92              0             92        0.20744
+         number             38             16             54        0.37894
+--------------------------------------------------------------------------------
+          Total            397            353            750
+--------------------------------------------------------------------------------
+
+Total percent correct : 52.9%
+Normalized Percent correct : 73.5%
+
+False Positives:
+          place:    156
+         number:    135
+         person:     36
+      dimension:     20
+       currency:      3
+            org:      1
+  miscellaneous:      1
+           time:      1
+
+Categorization Errors:
+  No.        Correct          Error                                    Questions
+--------------------------------------------------------------------------------
+  137  miscellaneous          place
+4 24 27 38 46 57 59 60 65 80 82 89 97 126 139 142 153 156 171 180 188 193 202 208 209 210 211 214 215 223 224 226 227 229 231 236 242 249 250 289 303 310 312 314 315 321 322 326 328 330 332 337 340 341 344 348 352 360 366 370 371 375 378 381 382 383 384 387 417 422 423 426 432 436 453 454 467 471 472 473 479 480 482 483 501 502 504 505 507 508 509 511 512 513 514 515 517 518 521 522 535 536 544 549 553 555 557 566 567 568 569 580 581 582 583 587 588 589 590 591 593 605 606 607 608 609 635 636 638 645 663 668 669 679 680 687 737 
+  109  miscellaneous         number
+7 16 17 28 41 42 48 54 62 67 86 98 100 105 133 143 149 154 155 158 170 174 183 186 194 195 200 204 206 207 218 220 221 238 239 243 246 247 254 255 258 262 263 268 278 280 283 284 287 292 293 319 323 339 342 349 351 358 365 376 386 399 400 407 410 411 416 418 435 441 444 456 469 470 477 500 506 510 516 520 546 547 551 554 558 559 560 561 570 584 610 630 631 633 634 644 660 661 662 664 665 666 667 678 681 684 718 733 744 
+   35  miscellaneous         person
+13 18 37 47 53 87 107 116 140 146 152 166 201 212 219 260 276 279 316 325 329 333 343 363 394 397 421 545 571 579 632 637 643 646 736 
+   18         person          place
+          1 241 331 355 385 390 406 427 429 437 451 468 481 585 586 600 603 624 
+   15         number      dimension
+                       35 75 95 108 111 160 225 356 373 450 565 693 721 746 750 
+   12          place         number
+                                124 162 163 302 318 621 657 703 705 706 707 732 
+    7         person         number                 114 128 379 434 464 611 701 
+    5  miscellaneous      dimension                         235 424 552 654 655 
+    3            org         number                                 353 362 722 
+    2       currency         number                                     199 739 
+    2      dimension         number                                     135 234 
+    1         person       currency                                         497 
+    1         person  miscellaneous                                         601 
+    1          place       currency                                         525 
+    1      dimension          place                                         531 
+    1         number       currency                                         354 
+    1          place         person                                         113 
+    1  miscellaneous           time                                         484 
+    1  miscellaneous            org                                         476 
+--------------------------------------------------------------------------------
+Total Errors: 353
+Finished qu_test.pl

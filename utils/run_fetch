@@ -1,0 +1,3 @@
+#!/bin/sh
+
+ perl fetch_b_url.pl books.mcgraw-hill.com/getpage.php?page=author_downloads_centercontent.php\&template=authors___60___/home/manuk/tmp/mcgraw/sp_1_1_0.html___1___Y___1___1

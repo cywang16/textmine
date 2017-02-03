@@ -1,0 +1,159 @@
+
+ November 1st, 2005
+
+                   Release Notes for Text Mine 0.2
+
+ This is the second version of Text Mine (version 0.2) tested on Linux 
+ and Microsoft Windows). The Perl code from Text Mine uses
+ common modules that are available on both platforms. An installer
+ for each platform can be used to configure directories,
+ load dependent modules, and create and load tables.
+ Online documentation is included in the HTML directory under docs.
+
+ Several scripts in the t directory can be used to test Text Mine functions
+ from the command line. These scripts can be run independently.
+ The web based scripts to test Text Mine are in the cgi-bin directory.
+
+ 1. About Text Mine
+
+ Text Mine is a set of packages developed in Perl to implement
+ text mining tools for applications. Text mining covers a number of topics
+ including - information retrieval, natural language processing,
+ search engines, and machine learning.
+
+ There are several tools in the TextMine package. Some of these
+ tools can be run from a web based interface and others from the
+ command line. The command line tools can be run like any other
+ Perl script. A Text Mine userid and password for the MySql database is
+ created during installation and the same userid and password must
+ be used in the command line scripts.
+
+ The web based interface accepts an userid and password that
+ is used to manage session data. Some of the web based scripts 
+ to search, manage e-mail, or monitor news will be 
+ empty initially. You can load your e-mail or index files using
+ scripts in the utils directory. 
+
+ 2. TextMine Packages
+
+ Following are some text mining applications you can
+ implement using these tools
+
+ 2.1	A search engine for images, audio, video and text files
+	
+	This a basic search engine using an inverted file with
+	tokens and associated pointers to files. The tokens in
+        the index can be generated automatically or added manually.
+        The description for images, audio, and video files is
+        generated from the file name. 
+
+	HTML, POD, and text files are tokenized to create the index.
+ 	The index is searched from a web based form. 
+
+ 2.2 	A parts of speech tagger
+
+	Text is tokenized and individual tokens are assigned one
+        of 10 tags (conjunction, noun, pronoun, etc.)
+
+ 2.3 	Dictionary/thesaurus based on WordNet
+	
+	WordNet is a package from the Cognitive Science Department,
+	Princeton University. Text Mine dictionary tables are
+	loaded with data from WordNet and a web based interface
+    	is provided to search the tables for words, associations,
+	relationships, and examples.
+
+ 2.4 	An entity extractor to identify people, places, and organizations
+
+	This function accepts text and returns the tokens and associated
+	entity types. Current entity types include person, place, org,
+	currency, time, dimension, and tech. A multi-pass extractor
+	finds entities in text and attempts to classify them using
+	information in database tables.
+
+ 2.5 	Clustering function to group together documents based on content
+
+	A genetic algorithm clusters text documents. The text of documents
+	is indexed and a similarity matrix is computed. The matrix
+	elements are the similarity values between all pairs of
+	documents. The genetic algorithm uses the matrix to find
+	an arrangement of the documents such that documents that
+	are similar to each other are arranged close to each other.
+	Clusters are then built around central documents.
+
+ 2.6 	Summarizer for web pages and articles
+
+	The text from web pages or articles is split into separate
+	text chunks. When the document is well formed ( a news
+	article), the text chunks represent sentences from the
+	article. For a web page without much punctuation, the text
+	chunks are possible sections of text dealing with individual
+	sub-topics.
+
+	The text chunks are expanded using their synonyms and then
+	clustered. The key text chunks in the top clusters are
+	selected for the summary.
+
+ 2.7 	A phrase extractor 
+
+	Summarizing the text can be time consuming and a simpler
+	approach is to find particular phrases that are mentioned
+	often. Phrases are selected based on their likelihood
+	probability.
+
+ 2.8 	A spider to search the web
+
+	This is a web based spider to search the web. It is
+	provided with a set of starting links (pages) and given
+	guidelines such as the number of levels, words that
+	must appear in the link text, banned sites, and
+	the number of URLs to fetch. The pages are fetched
+	and saved in a directory. Images can also be optionally
+	saved. The results can be searched for particular tokens.
+
+ 2.9 	A tool to find sentences in text that may answer questions
+
+	A natural language query is submitted for a
+	text repository. The text is scanned for the most likely
+	sentence that may answer the question. The question is 
+	classified as a person, place, org, or miscellaneous
+	question using a neural net.
+
+	Text chunks from the repository are ranked based on how
+	closely they match the query and contain the entity that
+	the question may require.
+
+ 2.10 	A tool to find the closest question in a FAQ for any question
+
+	The Perl FAQ is used an example. It consists of about 300
+	questions. A natural language query is submitted and the
+	top 10 queries which are 'closest' to the submitted query
+	are presented in descending order of similarity.
+
+ 2.11 	An archive system to save, search, catalog, and manage e-mails
+
+	Tracking and managing e-mails is a chore. This is not an
+	e-mail client. It is a repository to save and organize
+	your e-mail. You can search, categorize, and track e-mails
+	that have been sent or received. You can also keep distribution
+	lists, e-mail IDs and other personal information on your
+	local machine.
+
+ 2.12 	A news collector and organizer
+
+	News sites update web pages periodically and you can automatically
+	download, organize, and search web pages. Since the same news
+	is often repeated by different sources, you can build clusters
+	around a particular topic and quickly identify key topics
+	in the collection.
+
+ 3. REQUIREMENTS:
+
+ Apache (Version 1.3.?+), Perl (5.6+), and MySql (3.22+)
+
+ 4. INSTALLATION:
+
+ Check the INSTALL file before installation.
+
+ Linux: run install.sh
+ Windows: run install.bat 

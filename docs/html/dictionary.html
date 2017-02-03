@@ -1,0 +1,193 @@
+<html>
+  <head>
+   <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=ISO-8859-1">
+   <title>Text Mine Dictionary </title>
+  </script>
+  </head>
+
+  <body bgcolor='#FFFFFF' text=#000000 link=#0000cc vlink=#551a8b 
+     alink=#ff0000>
+  <center>
+   <table cellpadding=0 cellspacing=0 border=0>
+    <tr><td align=right valign=bottom>
+      <img src="images/tm_logo.jpg"  alt="Text Mine">
+    </td></tr>
+   </table>
+
+   <table border=0 cellspacing=0 cellpadding=0>
+   <tr><td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap>
+                 <a href="index.html">
+                 <font size=+1>Home</font> </a> </td>
+       <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="about.html">
+                 <font size=+1>About</font></a> </td>
+        <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="install.html">
+                 <font size=+1>Install</font></a> </td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="faq.html">
+                 <font size=+1>FAQ</font></a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="screens.html">
+                 <font size=+1>Screens</font></a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <font size=+1 color=darkred>Tools</font></td>
+     </tr>
+     <tr><td colspan=12 bgcolor=#ffcc33><img width=1 height=1 alt=""></td> </tr>
+   <tr><td colspan=12> &nbsp; </td></tr>
+   <tr><td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap>
+                 <a href="tools.html">
+                 <font size=+1>Search</font> </a> </td>
+       <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="extract.html">
+                 <font size=+1>Extract</font> </a> </td>
+        <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="qanda.html">
+                 <font size=+1>Q & A</font> </a> </td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="email.html">
+                 <font size=+1>E-Mail</font> </a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="cluster.html">
+                 <font size=+1>Cluster</font></a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <font color=darkred size=+1>Dictionary</font></td>
+     </tr>
+     <tr><td colspan=12 bgcolor=#ffcc33><img width=1 height=1 alt=""></td> </tr>
+   </table>
+
+   <table border=0 cellspacing=0 cellpadding=0 width=60%>
+   <tr><td><br></td></tr>
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightblue> <font color=darkred size=+1>
+     Dictionary </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue> 
+     The Text Mine dictionary is based on 
+     <a href=http://www.cogsci.princeton.edu/~wn/> WordNet </a>
+     developed by the Cognitive Science Laboratory at Princeton
+     University. The dictionary file data is converted to tables
+     and stored in a MySql database. The tables include synonym
+     sets for words, relationships between words, relationships
+     between synonym sets, and examples of usage.
+     </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue> 
+     For each word, the different parts of speech categories
+     to which it may belong as well as the different senses
+     are shown. Each entry has an example of usage. A number
+     is associated with each sense. This is a 'tag sense' that
+     roughly indicates the frequency with which the sense
+     occurs compared to other senses. A tag count is not always available
+     for every word sense.
+     </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue> 
+     If a word is mispelled, Text Mine will find the 12 nearest
+     words. The nearest words are located by stripping the last
+     character of the search word and finding all close words.
+     This process ends when 12 or more words have been found.
+     </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightblue> <font color=darkred size=+1>
+     Modules </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue>
+     <font color=darkred size=+1> WordNet - </font> 
+     This module contains functions to manipulate the WordNet
+     database tables in Text Mine. The functions include checking
+     if a word exists in the dictionary, all words that are related
+     (synonyms, antonyms, hypernyms) to this word, and other functions.
+     An example of usage can be found in the <font color=darkred>
+     wn_dict.pl </font> CGI script.
+     <br><br>
+     </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightblue> <font color=darkred size=+1>
+     Function Calls for get_rel_words </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue>
+     The <font color=darkred> get_rel_words </font> function
+     accepts a word and a list of the relationships. For each
+     relationship, the words associated with the word are collected
+     in a hash. The <font color=darkred> in_dictionary </font>
+     function is used to check if the word exists in the dictionary
+     or not. The <font color=darkred> get_synset </font> function
+     is called to get all the synset words for the synsets in which
+     the word participates.  
+     <br><br>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6> <img src=images/get_rel_words.jpg>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightblue> <font color=darkred size=+1>
+     Projects </font>
+     </td></tr>
+   <tr><td><br></td></tr>
+
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6 bgcolor=lightyellow> <font color=darkblue>
+     1. The list of function words is not complete. The Text Mine dictionary
+     a combination of the WordNet words and a much smaller list of
+     function words (conjunctions, prepositions, etc.) <br><br>
+     2. Add functions to compute the anagrams of a word that exist in
+     the dictionary. Compute anagrams of various word lengths.
+     <br><br>
+     </font>
+     </td></tr>
+
+   </table>
+ </center>
+<hr>
+</body>
+
+</html>

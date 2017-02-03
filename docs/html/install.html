@@ -1,0 +1,142 @@
+<html>
+  <head>
+   <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=ISO-8859-1">
+   <title>Install Text Mine </title>
+  </script>
+  </head>
+
+  <body bgcolor='#FFFFFF' text=#000000 link=#0000cc vlink=#551a8b 
+     alink=#ff0000>
+  <center>
+   <table cellpadding=0 cellspacing=0 border=0>
+    <tr><td align=right valign=bottom>
+      <img src="images/tm_logo.jpg"  alt="About Text Mine">
+    </td></tr>
+   </table>
+
+   <table border=0 cellspacing=0 cellpadding=0>
+   <tr><td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap>
+                 <a href="index.html">
+                 <font size=+1>Home</font> </a> </td>
+       <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="about.html">
+                 <font size=+1>About</font></a> </td>
+        <td width=15>&nbsp;</td>
+       <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <font color=darkred size=+1>Install</font> </td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="faq.html">
+                 <font size=+1>FAQ</font></a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="screens.html">
+                 <font size=+1>Screens</font></a></td>
+        <td width=15>&nbsp;</td>
+        <td bgcolor=#efefef align=center width=120 nowrap> 
+                 <a href="tools.html">
+                 <font size=+1>Tools</font></a></td>
+     </tr>
+     <tr><td colspan=12 bgcolor=#ffcc33><img width=1 height=1 alt=""></td> </tr>
+   </table>
+
+   <table border=0 cellspacing=0 cellpadding=0 width=60%>
+   <tr>
+     <td colspan=2> </td>
+     <td colspan=6> <br>
+      
+      <font color=darkred size=4> Downloading Text Mine: </font> <br> 
+      <font color=darkblue> Download the zipped tar file - 
+      <font color=darkred size=3> textmine-0.1.tar.gz </font>
+      for both
+      Windows and Linux platforms. Untar the file into a temporary
+      directory and run the install scripts. </font> <br><br>
+
+      <font color=darkred size=4> Installing Text Mine: </font> <br> 
+      <font color=darkblue>  
+      A group of perl scripts perform the installation. You run either 
+      install.bat or install.sh depending on your platform. </font> <br><br>
+      
+      <font color=darkred size=4> Requirements: </font> <br> 
+      <font color=darkblue> Text Mine uses Perl, Apache, and MySql. <br>
+      Perl versions (5.6 or 5.8), Apache version (2.0.35), 
+      and MySql version (3.23) have been used on Linux and Windows.
+      Other versions (lower or higher) may work. </font> <br><br>
+      
+      <font color=darkred size=4> Perl Modules: </font> <br> 
+      <font color=darkblue> Text Mine uses several Perl modules that
+      can be downloaded during installation. </font> <br>
+
+      <font color=darkred size=4> a) </font> 
+      <font color=darkblue> Crypt::Rot13 - used for encryption of
+      session data </font> <br>
+
+      <font color=darkred size=4> b) </font> 
+      <font color=darkblue> DBI - the common database interface module 
+      </font> <br>
+
+      <font color=darkred size=4> c) </font> 
+      <font color=darkblue> DBD::mysql - the database driver for mysql 
+      </font> <br>
+
+      <font color=darkred size=4> d) </font> 
+      <font color=darkblue> Digest::MD5 - used to create MD5 signatures 
+      of files </font> <br>
+
+      <font color=darkred size=4> e) </font> 
+      <font color=darkblue> HTML::Parser - used to parse HTML pages 
+      </font> <br>
+
+      <font color=darkred size=4> g) </font> 
+      <font color=darkblue> GD - an optional module to create dynamic
+      images in web pages </font> <br> <br>
+
+      <font color=darkred size=4> Install Script: </font> <br> 
+      <font color=darkblue> You will need the name of the installation
+      directory, the full path to the web root directory, the relative
+      web path to the Text Mine cgi scripts and the relative web path to the
+      Text Mine icons. The install script performs the following functions 
+      </font> <br>
+      <font color=darkred size=4> 1. </font>
+      <font color=darkblue> Sets the directory names in the Constants.pm
+      file (TextMine directory) using provided names.
+      </font> <br>
+      <font color=darkred size=4> 2. </font>
+      <font color=darkblue> On Linux, creates the LSI executable. An
+      executable is included for Windows.
+      </font> <br>
+      <font color=darkred size=4> 3. </font>
+      <font color=darkblue> Download and install the dependent Perl modules.
+      If you are using ActiveState Perl, then you must provide the 
+      path to the PPM directory in step 1. Otherwise, the Perl CPAN module
+      will be used to download modules. Any modules installed earlier
+      can be skipped.
+      </font> <br>
+      <font color=darkred size=4> 4. </font>
+      <font color=darkblue> The MySql tables will created and loaded with   
+      the dictionary tables. The userid and password in the <font color=darkred>
+      setup.pl </font> script
+      of the <font color=darkred> utils </font> directory should have 
+      sufficient privileges to create users and a database.
+      </font> <br>
+      <font color=darkred size=4> 5. </font>
+      <font color=darkblue> Finally, files will be copied to the installation
+      directories and the web cgi-bin and icons directories.
+      </font> <br><br>
+      
+      <font color=darkred size=4> Running Text Mine: </font> <br> 
+      <font color=darkblue> Text Mine can be run using a web based interface
+      or the command line. To use the web based interface load the
+      http://host/cgi-bin/????/co_login.pl script. Provide the userid
+      and password created in step 4. 
+      
+     </td>
+   </tr>
+   </table>
+ </center>
+<hr>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+#*----------------------------------------------------------------------
+#*- additional training data for time, currency, number, tech, 
+#*- dimension and misc. entities
+#*----------------------------------------------------------------------
+<ORG>Agilent Technologies</ORG> totaled five million in the quarter ended <TIME>March</TIME> 29, 2003.
+On the <TIME>29th</TIME> of <TIME>January</TIME> an announcement was made.
+<PLACE>NEW YORK</PLACE>, <TIME>June</TIME> 18 -
+<PLACE_STATE>KARNATAKA</PLACE_STATE>
+It costs only 500 <CURRENCY>$</CURRENCY>.
+How much is that in <CURRENCY>Rs.</CURRENCY>?
+Do you mean in <CURRENCY>USD</CURRENCY>?
+The value of the <CURRENCY>dollar</CURRENCY> against other currencies has fallen.
+It is 10 <DIMENSION>cms.</DIMENSION> long.
+It is 10 <DIMENSION>ms.</DIMENSION> long.
+But it weighs 20 <DIMENSION>kgs.</DIMENSION>.
+The population of China is <NUMBER>1.2</NUMBER> billion.
+The population of India is 1.1 <NUMBER>bn.</NUMBER> or 1100 <NUMBER>ms.</NUMBER> .
+How many zeroes in a <NUMBER>m.</NUMBER> ?
+There are <NUMBER>9</NUMBER> planets in the solar system.
+<TECH>Tourette's Syndrome</TECH> is a rare neurological disorder.
+<MISCELLANEOUS>Sirius</MISCELLANEOUS> is the brightest star visible from Earth.
+<MISCELLANEOUS>Mt. Kilimanjaro</MISCELLANEOUS> is the highest mountain in Africa.
+The rating system for air conditioner efficiency is <TECH>SEER</TECH>
+The <MISCELLANEOUS>Havana Club</MISCELLANEOUS> is a brand of white rum made in Cuba.
+<TECH>Multiple Sclerosis</TECH> is a chronic neurological autoimmune disease
+<TECH>Kaposi's sarcoma</TECH> is a cancer commonly associated with AIDS.
+<TECH>Taxol</TECH> is a promising anticancer compound.
+Grenada's main commodity export is <MISCELLANEOUS>nutmeg</MISCELLANOUS>.
+The <MISCELLANEOUS>Sunshine City Building</MISCELLANEOUS> is the tallest building in Japan.
+The sum of all genetic material in an organism is called the <MISCELLANEOUS>genome</MISCELLANEOUS>.
+<MISCELLANEOUS>Marathi</MISCELLANEOUS> is the most common language spoken in Mumbai.
+The <MISCELLANEOUS>Green Bay Packers</MISCELLANEOUS> won the superbowl in 1968.

@@ -1,0 +1,21 @@
+
+ The purpose of this directory is to create the misc.idx
+ and misc.dat files
+
+ Files		Description
+ -----		-----------
+ c.dat		List of conjunctions
+ d.dat		List of determiners
+ format		Description of Wordnet index and data formats
+ i.dat		List of interjections
+ masher.pl	A simple grinder to generate misc.dat and misc.idx
+ missing_words		List of missing words 
+ missing_words.pl	Script to build the missing word lists
+ n.dat		List of additional nouns
+ o.dat		List of prepositions
+ p.dat		List of pronouns
+
+ Steps:
+
+ 1. Create/verify the List files
+ 2. Run masher.pl and fix any errors with synsets

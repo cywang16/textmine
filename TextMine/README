@@ -1,0 +1,24 @@
+
+ Contents: TextMine modules to extract entities, cluster documents, index 
+ text, find parts of speech in text, answer questions, extract
+ tokens, and search the WordNet dictionary.
+
+ Files		Description
+ ------------------------------------------------------------------------
+ Cluster.pm	Clustering function for a group of documents
+ Constants.pm	Constants used by other modules
+ DbCall.pm	Database functions
+ Entity.pm	Functions to extract entities from text
+ Index.pm	Functions to maintain an inverted index
+ MailUtil.pm	Functions for the mail routines
+ MyNix		Linux functions to fetch URLs
+ MyProc.pm	Either Linux or Win implementation
+ MyURL.pm	Utilities to process web pages
+ MyWin		Windows functions to fetch URLs
+ Pos.pm		Functions to extract parts of speech
+ Quanda.pm	Question and Answer functions
+ Summary.pm	Function to compute the summary of text
+ Tokens.pm	Functions to extract tokens from text
+ Utils.pm	General utilities
+ Wordnet.pm	Functions to extract information from the Wordnet database
+ WordUtil.pm	Utilities to build vectors and other functions

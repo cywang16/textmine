@@ -1,0 +1,90 @@
+
+  #*--------------------------------------------------------------------------
+  #*- Windows version of MyProc.pm
+  #*-            				
+  #*-    Functions:
+  #*-      1. create_process	Create an independent Win32 process
+  #*-      2. get_src		Get the source for an URL 
+  #*-      3. get_drives		Get the root drives
+  #*--------------------------------------------------------------------------
+ 
+  package TextMine::MyProc;
+ 
+  use Config; use warnings;
+  use strict;
+  use lib qw/../;
+  use TextMine::Constants qw($PROXY);
+  use Win32;
+  use Win32::Process; 
+  require Exporter;
+  our @ISA = qw(Exporter);
+  our @EXPORT    = qw(create_process get_src);
+  our @EXPORT_OK = qw(get_drives);
+ 
+  #*------------------------------------------------------------------
+  #*- create_process
+  #*- Description: Create a process that may run independently           
+  #*------------------------------------------------------------------
+  sub create_process
+  { 
+    (my $cmdline, my $proctype, my $exe, my $exe_dir) = @_; 
+    my $retval = ''; 
+    foreach (@$cmdline) { s/^\s+//; s/\s+$//; s/^(.*)$/"$1"/ if (/ /); }
+    local $" = ' '; $cmdline = "@$cmdline";
+ 
+    if ($proctype)
+     { $retval = Win32::Process::Create($_, "$exe_dir", 
+                   "$exe $cmdline", 1, DETACHED_PROCESS, "."); }
+    else 
+     { $retval = Win32::Process::Create($_, "$exe_dir", 
+                   "$exe $cmdline", 1, HIGH_PRIORITY_CLASS, "."); }
+    return ( ($retval) ? 0: "Could not create process $exe_dir $cmdline ");  
+  }
+ 
+  #*------------------------------------------------------------------
+  #*- get_src
+  #*- Description: fetch the source for an URL             
+  #*------------------------------------------------------------------
+  sub get_src
+  { 
+   my ($url, $times) = @_; 
+ 
+   #*-- first try LWP
+   use HTTP::Headers;
+   use HTTP::Request;
+   use URI::URL;
+   use LWP::UserAgent;
+ 
+   #*-- try LWP to fetch the page
+   my $headers = new HTTP::Headers(UserAgent => 'Mozilla/4.0');
+   my $uri_url = new URI::URL($url);
+   my $req     = new HTTP::Request("GET", $uri_url, $headers);
+   my $ua      = new LWP::UserAgent( "agent"        => 'Explorer/4.0',
+                                     "redirect_ok"  => 1 );
+   $ua->proxy(['http','ftp'] => "$PROXY") if ($PROXY);
+   my $resp = $ua->request($req);
+   my $src;
+   if ($resp->is_success) { $src = $resp->content; }
+   else
+    {
+     #*-- try the win32 module
+     use Win32::Internet;
+     my $inet = ($PROXY) ?
+     new Win32::Internet('Explorer', INTERNET_OPEN_TYPE_PROXY, "$PROXY",'',''):
+     new Win32::Internet('Explorer', INTERNET_OPEN_TYPE_DIRECT, '', '', '');
+     $src = ($inet) ? $inet->FetchURL("$url"):
+                       "TextMine get_src cannot fetch $url $!..\n";
+    }
+   unless ($src) { return('', ''); }
+ 
+   #$src =~ s/\015?\012/\n/g; #*-- fix newline problem
+   return($src);
+  }
+ 
+  #*------------------------------------------------------------------
+  #*- Description: Return the drive names on this machine  
+  #*------------------------------------------------------------------
+  sub get_drives
+   { use Win32API::File qw( getLogicalDrives ); return(getLogicalDrives());}
+ 
+ 1; #return true 

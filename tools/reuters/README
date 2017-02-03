@@ -1,0 +1,23 @@
+
+ Steps to building and testing the entity extraction rules
+
+ You need access to the reuter corpus to run these scripts.
+
+ 1. Extract training data from articles with extract_txt.pl
+
+ 2. Verify a_train.txt and r_train.txt
+
+ 3. Run bld_ruleent.pl to create the co_ruleent.txt file
+
+ 4. Load the co_ruleent.txt file into the co_ruleent DB table
+
+ Files			Description
+ ---------------------------------------------------------------------------
+ a_train.txt		Additional training text
+ bld_ruleent.pl		Build the entity extraction rules
+ co_ruleent.txt		Entity extraction rules
+ doc.txt		Output file after running extract_doc.pl
+ extract_doc.pl		Extract articles from the Reuters collection for
+                        a set of categories
+ extract_txt.pl		Extract training data from the Reuters articles
+ r_train.txt		Output file after running extract_txt.pl

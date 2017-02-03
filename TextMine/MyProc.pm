@@ -1,0 +1,74 @@
+
+      #*-----------------------------------------------------------------------
+      #*- Linux version of MyProc.pm				
+      #*-
+      #*-    Functions:
+      #*-      1. create_process	Create an independent Unix process
+      #*-      2. get_src             Get the source for an URL
+      #*-      3. get_drives          Get the root dir
+      #*-----------------------------------------------------------------------
+     
+      package TextMine::MyProc;
+     
+      use Config; use warnings;
+      use strict;
+      use lib qw/../;
+      use TextMine::Constants qw($PROXY $ROOT_DIR);
+      require Exporter;
+      our @ISA = qw(Exporter);
+      our @EXPORT = qw(create_process get_src);
+      our @EXPORT_OK = qw(get_drives);
+     
+      #*------------------------------------------------------------------
+      #*- create_process
+      #*- Description: Create an independent process           
+      #*------------------------------------------------------------------
+      sub create_process
+      { 
+        (my $cmdline, my $proctype, my $exe, my $exe_dir) = @_;
+        $proctype = ($proctype) ? "&": "";
+        unshift(@$cmdline, "-I$ROOT_DIR");
+        foreach (@$cmdline) { s/^\s+//; s/\s+$//; s/^(.*)$/"$1"/ if (/ /); }
+    #    local $" = " "; $cmdline = "-I$ROOT_DIR " . "@$cmdline";
+        local $" = " "; $cmdline = "@$cmdline";
+        
+        #*-- return null if successful
+        return(system("$exe_dir $cmdline $proctype"));
+      }
+     
+      #*------------------------------------------------------------------
+      #*- get_src
+      #*- Description: fetch the source for an URL
+      #*------------------------------------------------------------------
+      sub get_src
+      {
+       my ($url, $times) = @_; 
+    
+       #*-- try LWP
+       use HTTP::Headers;
+       use HTTP::Request;
+       use URI::URL;
+       use LWP::UserAgent;
+    
+       my $headers = new HTTP::Headers(UserAgent => 'Mozilla/4.0');
+       my $uri_url = new URI::URL($url);
+       my $req = new HTTP::Request("GET", $uri_url, $headers);
+       my $ua  = new LWP::UserAgent( "agent"        => 'Mozilla/4.0',
+                                    "redirect_ok"  => 1 );
+       $ua->proxy(['http','ftp'] => "$PROXY") if ($PROXY);
+       my $resp = $ua->request($req);
+       my $src = ($resp->is_success) ? $resp->content: 
+                  "TextMine get_src cannot fetch $url $! \n";
+   
+       #*-- if refresh, then try the new URL........
+       #$src =~ s/\015?\012/\n/g; #*-- fix newline problem
+       return($src);
+      }
+    
+      #*------------------------------------------------------------------
+      #*- Description: Return the drive names on this machine  
+      #*------------------------------------------------------------------
+      sub get_drives { return('/');}
+    
+     1; #return true 
+

@@ -1,0 +1,304 @@
+
+#*---------------------------------------------------------------------
+#*- Mixture of 100 Q&A from TREC and other sources
+#*---------------------------------------------------------------------
+
+1: Where did Dylan Thomas die?
+New York###place
+
+2: How many people live in Tokyo?
+12 million###dimension
+
+3: What is the capital of California?
+Sacramento###place
+
+4: How many Grand Slam titles did Bjorn Borg win?
+11###dimension
+
+5: Who was the Democratic nominee in the American presidential election?
+Bill Clinton###person
+
+6: When was General Manuel Noriega ousted as the leader of Panama and turned over to U.S. authorities?
+3 January 1990###time
+
+7: Where is  Dartmouth College?
+Hanover, N.H.###place
+
+8: How many mines can still be found in the Falklands after the war ended?
+30,000 ###dimension
+
+9: Why are electric cars less efficient in the north-east than in California?
+cold ###miscellaneous
+
+10: When did French revolutionaries storm the Bastille?
+July 14, 1789###time
+
+11: How rich is Bill Gates?
+more than Dollars 9bn ###currency
+
+12: What is the capital of Kosovo?
+Pristina###place
+
+13: What state does Charles Robb represent?
+Virginia###place
+
+14: Who is the leading competitor of Trans Union Company?
+Equifax###org
+
+15: Which type of submarine was bought recently by South Korea?
+209###miscellaneous
+
+16: When did communist control end in Hungary?
+23 October 1989###time
+
+17: What nationality is Pope John Paul II?
+Polish###miscellaneous
+
+18: Who was the captain of the tanker, Exxon Valdez, involved in the oil spill in Prince William Sound, Alaska, 1989?
+Joseph Hazlewood###person
+
+19: Who did the Chicago Bulls beat in the 1993 championship?
+Phoenix Suns###miscellaneous
+
+20: Who was President of Afghanistan in 1994?
+Prof. Borhanoddin Rabbani###person
+
+21: Who is the director of intergovernmental affairs for the San Diego county?
+John Sweeten###person
+
+22: Where is the Keck telescope?
+Hawaii###place
+
+23: How many moons does Jupiter have?
+four moons###dimension
+
+24: When did Jaco Pastorius die?
+1987###time
+
+25: When did beethoven die?
+March 26, 1827###time
+
+26: How many people in Tucson?
+over 500,000###dimension
+
+27: How tall is Mt. Everest?
+29,028 feet high ###dimension
+
+28: What is the capital of Congo?
+Brazzaville###place
+
+29: What is the capital of Italy?
+Rome###place
+
+30: What is the capital of Sri Lanka?
+Colombo###place
+
+31: What novel inspired the movie BladeRunner?
+Do Androids Dream Of Electric Sheep###miscellaneous
+
+32: What was the first Gilbert and Sullivan opera?
+Trial by Jury###miscellaneous
+
+33: What was the name of the computer in "2001: A Space Odyssey"?
+HAL###miscellaneous
+
+34: When was Queen Victoria born?
+1837###time
+
+35: When was the battle of the Somme fought?
+1916###time
+
+36: Where did the Battle of the Bulge take place?
+Luxembourg###place
+
+37: Where was Lincoln assassinated?
+Washington, D.C.###place
+
+38: When was the women's suffrage amendment ratified?
+Aug. 18, 1920###time
+
+39: Where is Qatar?
+Persian Gulf###place
+
+40: Where is South Bend?
+Ind.###place
+
+41: Where was Harry Truman born?
+Lamar, Mo.###place
+
+42: Who was Secretary of State during the Nixon administration?
+Henry A. Kissinger###person
+
+43: Who was the 16th President of the United States?
+Lincoln###person
+
+44: Who wrote "The Pines of Rome"?
+Respighi###person
+
+45: Who wrote "Dubliners"? 
+JAMES JOYCE###person
+
+46: Who wrote "Hamlet"?
+Shakespeare###person
+
+47: What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics?
+"Yeah, but I'm sleeping !"###miscellaneous
+
+48: How did Socrates die?
+poisonous hemlock###miscellaneous
+
+49: How tall is the Matterhorn?
+14,776 feet 9 inches###dimension
+
+50: How tall is the replica of the Matterhorn at Disneyland?
+147 feet###dimension
+
+51: What was the U.S. budget deficit in 1997?
+22 billion dollars###currency
+
+52: What was the per capita GDP of New Zealand in 1996?
+18,500 USD###currency
+
+53: What was the U.S. budget deficit in 2003 ?
+472 billion dollars###currency
+
+54: How much does 1 cubic inch of water weigh ?
+0.036 lbs.###dimension
+
+55: How much smaller is Pluto than Earth ?
+6.5 times###dimension
+
+56: How much bigger is the Sun's diameter than Earth's diameter ?
+1000 times###dimension
+
+57: What is the speed of sound ?
+1,088 feet per second###dimension
+
+58: What is the speed of light ?
+186,000 miles per second###dimension
+
+59: How much does 1 carat weigh ?
+200 milligrams###dimension
+
+60: How much is 1 acre in feet ?
+43,600 square feet###dimension
+
+61: How long is one cubit ?
+21.8 inches###dimension
+
+62: How far is the Moon from Earth ?
+256,000 miles###dimension
+
+63: Which company received the largest dollar volume of defense contracts in 1997 ?
+Lockheed Martin###org
+
+64: Name the premier aerospace company in the U.S.
+Boeing###org
+
+65: In which company did Dick Cheney work before becoming vice president in 2001 ?
+Halliburton###org
+
+66: What organization was created to foster world peace after World War II ?
+United Nations###org
+
+67: Which organization was responsible for eradicating small pox ?
+WHO###org
+
+68: Which Swedish company sells furniture to assemble worldwide ?
+IKEA###org
+
+69: Name a Japanese company famous for its cameras ?
+Minolta###org
+
+70: Which company makes an operating system in Redmond, Washington ?
+Microsoft###org
+
+71: Where does a king live ?
+Palace###miscellaneous
+
+72: Who lives at Buckingham Palace ?
+Queen of England###person
+
+73: Where is the Taj Mahal ?
+Agra###place
+
+74: What is a book of maps called ?
+Atlas###miscellaneous
+
+75: What is a warship that carries planes called ?
+Aircraft carrier###miscellaneous
+
+76: What is a period of 14 days called ?
+Fortnight###time
+
+77: How many grams in a Kilogram ?
+1000###dimension
+
+78: What is a group of puppies called ?
+Litter###miscellaneous
+
+79: How long is a fortnight ?
+14 days###time
+
+80: When did India gain independence ?
+1947###time
+
+81: When do cyclones occur ?
+Between June and November###time
+
+82: When was the U.S. Declaration of Independence signed ?
+July 4th, 1776###time
+
+83: How many are the wonders of the ancient world ?
+7###dimension
+
+84: When did World War II start ?
+1939###time
+
+85: When was the Berlin Wall opened ?
+1989###time
+
+86: When was Prime Minister Tony Blair elected ?
+1997###time
+
+87: How many centimeters make an inch?
+2.54###dimension
+
+88: How tall was World Trade Center 1 ?
+1,368 feet###dimension
+
+89: How tall is Empire State Building ?
+1,250 feet###dimension
+
+90: How long is the Golden Gate Bridge ?
+4200 feet###dimension
+
+91: How long is the Chunnel ?
+31.04 miles###dimension
+
+92: Which language is spoken by the most people ?
+Mandarin###miscellaneous
+
+93: Which country was the top tourist destination in 1997 ?
+France###place
+
+94: Name two countries starting with the letter 'Z' 
+Zambia and Zimbabwe###place
+
+95: How long does it take for Jupiter to complete one rotation ?
+10 hours###time
+
+96: How old is the Universe ?
+13.7 billion years###time
+
+97: How far is the Sun from Earth ?
+94 million miles###dimension
+
+98: How far is Mars from Earth ?
+300 million miles###dimension
+
+99: How long does it take for Earth to complete 1 rotation ?
+23 hours, 56 minutes, and 4.2 seconds###time
+
+100: How many times heavier than Earth is Jupiter ?
+318###dimension

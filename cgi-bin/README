@@ -1,0 +1,26 @@
+
+ CGI Scripts:
+
+ File			Description
+ -----------------------------------------------------------------------------
+ co_login.pl		Login script to create a session id and validate user
+ db_monitor.pl		Database view/edit
+ db_save.pl		User interface to backup and restore tables
+ em_category.pl		E-Mail categorizer
+ em_compose.pl		Display a form to compose an e-mail
+ em_lists.pl		A form to create, edit, and view e-mail lists
+ em_people.pl		A form to create, edit, and view e-mail ids
+ em_search.pl		A search engine interface to locate e-mails
+ em_workflow.pl		Manage e-mail receive/send tasks
+ me_index.pl		Build index information for multimedia documents
+ me_search.pl		A search interface for location multimedia documents
+ ne_browse.pl		Display the news collection results 
+ ne_view.pl		Add/Delete/Update news sources
+ qu_browse.pl		Browse the 300 questions for the Perl FAQ
+ sp_links.pl		Show the links for a search
+ sp_search.pl		A form to enter spider search parameters
+ sp_text.pl		Script to show the page associated with a retrieved page
+ tx_entities.pl		Extract the entities from text
+ tx_pos.pl		Extract the parts of speech from text
+ tx_stats.pl		Show plots of statistics for text
+ wn_dict.pl		WordNet based dictionary

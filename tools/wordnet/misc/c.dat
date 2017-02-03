@@ -1,0 +1,94 @@
+#*-----------------------------------------------
+#*- List of conjunctions
+#*-
+#*- lemma:c:similar words separated by spaces
+#*-----------------------------------------------
+albeit:c::
+although:c:though:
+and:c::used to build a compound sentence "Jack and Jill went up the hill"
+because:c::
+if:c::
+nor:c::
+than:c::
+unless:c::
+whenever:c::
+whereas:c::
+whether:c::
+and_or:c::
+as_far_as:c::
+as_if:c::
+as_long_as:c::
+as_much_as:c::
+as_soon_as:c::
+as_though:c::
+even_if:c::
+even_though:c::
+even_when:c::
+except_that:c::
+given_that:c::
+in_order_that:c::
+inasmuch_as:c::
+now_that:c::
+provided:c::
+provided_that:c::
+so_as:c::
+so_long_as:c::
+so_that:c::
+whether_or_not:c::
+whilst:c::
+for:c::
+rather_than:c::
+since:c::
+that:c::
+until:c::
+which:c::
+whom:c::
+accordingly:c:consequently therefore thus hence:
+after:c::
+also:c:besides:
+anyhow:c::
+anyway:c::
+as:c::
+before:c:earlier:
+besides:c:also:
+both:c::
+but:c::
+consequently:c:accordingly therefore thus hence:
+cos:c::
+earlier:c:before:
+either:c::
+except:c:excluding:
+excluding:c:except:
+furthermore:c:moreover:
+hence:c:therefore accordingly thus consequently:
+how:c::
+however:c:nevertheless nonetheless:
+in_case:c::
+in_that:c::
+indeed:c::
+like:c::
+likewise:c:similarly:
+moreover:c:furthermore:
+namely:c::
+neither:c::
+nevertheless:c:however nonetheless:
+nonetheless:c:however nevertheless:
+not_only:c::
+once:c::
+or:c::
+otherwise:c::
+similarly:c:likewise:
+so:c::
+still:c:yet:
+then:c::
+therefore:c:consequently accordingly thus hence:
+though:c:although:
+thus:c:consequently accordingly therefore hence:
+till:c::
+when:c::
+where:c:wherever:
+wherever:c:where:
+while:c::
+who:c::
+why:c::
+yet:c:still:

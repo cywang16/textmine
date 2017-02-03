@@ -1,0 +1,1035 @@
+Started qu_test.pl
+ Q1: Who is the author of the book, "The Iron Lady: A Biography of Margaret Thatcher"?
+ A: Hugo Young
+ Entities: person Categories: person miscellaneous
+
+ Q2: What was the monetary value of the Nobel Peace Prize in 1989?
+ A: $469,000 
+ Entities: currency Categories: currency person
+
+ Q3: What does the Peugeot company manufacture?
+ A: cars
+ Entities: miscellaneous Categories: miscellaneous org
+
+ Q4: How much did Mercury spend on advertising in 1993?
+ A: Pounds 12m.
+ Entities: currency Categories: currency dimension
+
+ Q5: What is the name of the managing director of Apricot Computer?
+ A: Peter Horne
+ Entities: person Categories: miscellaneous person
+
+ Q6: Why did David Koresh ask the FBI for a word processor?
+ A: To record his revelations
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q7: What debts did Qintex group leave?
+ A: Dollars 1.5b.
+ Entities: currency Categories: currency miscellaneous
+
+ Q8: What is the name of the rare neurological disease with symptoms such as: involuntary movements (tics), swearing, and incoherent vocalizations (grunts, shouts, etc.)?
+ A: Tourette's Syndrome
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q9: How far is Yaroslavl from Moscow?
+ A: 150 miles
+ Entities: dimension Categories: dimension
+
+ Q10: Name the designer of the shoe that spawned millions of plastic imitations, known as "jellies".
+ A: Andrea Pfister
+ Entities: person Categories: person miscellaneous
+
+ Q11: Who was President Cleveland's wife?
+ A: Frances Folsom 
+ Entities: person Categories: person
+
+ Q12: How much did Manchester United spend on players in 1993?
+ A: Pounds 4m.
+ Entities: currency Categories: currency dimension
+
+ Q13: How much could you rent a Volkswagen bug for in 1966?
+ A: $1 a day
+ Entities: currency Categories: currency dimension
+
+ Q14: What country is the biggest producer of tungsten?
+ A: China 
+ Entities: place Categories: miscellaneous place
+
+ Q15: When was London's Docklands Light Railway constructed?
+ A: 1980s
+ Entities: time Categories: time
+
+ Q16: What two US biochemists won the Nobel Prize in medicine in 1992?
+ A: Edwin Krebs and Edmond Fischer
+ Entities: person Categories: person miscellaneous
+
+ Q17: How long did the Charles Manson murder trial last?
+ A: 9 1/2 months 
+ Entities: time Categories: dimension time
+
+ Q18: Who was the first Taiwanese President?
+ A: Lee Teng-Hui
+ Entities: person Categories: person
+
+ Q19: Who was the leader of the Branch Davidian Cult confronted by the FBI in Waco, Texas in 1993?
+ A: Mr. David Koresh
+ Entities: person Categories: person miscellaneous
+
+ Q20: Where is Inoco based?
+ A: Norwich
+ Entities: place Categories: place
+
+ Q21: Who was the first American in space?
+ A: Alan Shepard
+ Entities: person Categories: person miscellaneous
+
+ Q22: When did the Jurassic Period end?
+ A: 130 million years ago
+ Entities: time Categories: time
+
+ Q23: When did Spain and Korea start ambassadorial relations?
+ A: 1950
+ Entities: time Categories: miscellaneous time
+
+ Q24: When did Nixon visit China?
+ A: February, 1972
+ Entities: time Categories: time
+
+ Q25: Who was the lead actress in the movie "Sleepless in Seattle"?
+ A: Meg Ryan
+ Entities: person Categories: person miscellaneous
+
+ Q26: What is the name of the "female" counterpart to El Nino, which results in cooling temperatures and very dry weather?
+ A: La Nina
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q27: Where did the 6th annual meeting of Indonesia-Malaysia forest experts take place?
+ A: Surabaya
+ Entities: place Categories: miscellaneous place
+
+ Q28: Who may be best known for breaking the color line in baseball?
+ A: Jackie Robinson 
+ Entities: person Categories: person miscellaneous
+
+ Q29: What is the brightest star visible from Earth?
+ A: Sirius
+ Entities: miscellaneous Categories: miscellaneous number
+
+ Q30: What are the Valdez Principles?
+ A: 10 point environmental agenda
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q31: Where was Ulysses S. Grant born?
+ A: Point Pleasant, Ohio
+ Entities: place Categories: place
+
+ Q32: Who received the Will Rogers Award in 1989?
+ A: Frank Kudos
+ Entities: person Categories: person
+
+ Q33: What is the largest city in Germany?
+ A: Berlin
+ Entities: place Categories: dimension place
+
+ Q34: Where is the actress, Marion Davies, buried?
+ A: Hollywood Memorial Park
+ Entities: place Categories: place
+
+ Q35: What is the name of the highest mountain in Africa?
+ A: Kilimanjaro
+ Entities: place Categories: person miscellaneous
+
+ Q36: In 1990, what day of the week did Christmas fall on?
+ A: Tuesday
+ Entities: time Categories: miscellaneous time
+
+ Q37: What was the name of the US helicopter pilot shot down over North Korea?
+ A: Bobby Hall
+ Entities: person Categories: miscellaneous person
+
+ Q38: Where was George Washington born?
+ A: Westmoreland County
+ Entities: place Categories: place
+
+ Q39: Who was chosen to be the first black chairman of the military Joint Chiefs of Staff?
+ A: Army Gen. Colin Powell
+ Entities: person Categories: person miscellaneous
+
+ Q40: Who won the Nobel Peace Prize in 1991?
+ A: Aung San Suu Kyi
+ Entities: person Categories: person miscellaneous
+
+ Q41: What is the legal blood alcohol limit for the state of California?
+ A: 0.08%
+ Entities: number Categories: place number
+
+ Q42: What was the target rate for M3 growth in 1992?
+ A: 3.5 to 5.5 per cent
+ Entities: number Categories: person number
+
+ Q43: What costume designer decided that Michael Jackson should only wear one glove?
+ A: Bill Whitten
+ Entities: person Categories: person
+
+ Q44: Who is the director of the international group called the Human Genome Organization (HUGO) that is trying to coordinate gene-mapping research worldwide?
+ A: Victor McKusick
+ Entities: person Categories: person miscellaneous
+
+ Q45: When did Lucelly Garcia, a former ambassador of Columbia to Honduras, die?
+ A: 10 Feb 1994
+ Entities: time Categories: miscellaneous time
+
+ Q46: Who is the mayor of Marbella?
+ A: Jesus Gil y Gil
+ Entities: person Categories: person
+
+ Q47: What company is the largest Japanese ship builder?
+ A: Mitsubishi Heavy Industries (MHI)
+ Entities: org Categories: miscellaneous org
+
+ Q48: Where is the massive North Korean nuclear complex located?
+ A: 90 km north of Pyongyang
+ Entities: dimension Categories: dimension place
+
+ Q49: Who fired Maria Ybarra from her position in San Diego council?
+ A: Bruce Henderson
+ Entities: person Categories: person miscellaneous
+
+ Q50: When was Dubai's first concrete house built?
+ A: 1956
+ Entities: time Categories: miscellaneous time
+
+ Q51: Who is the president of Stanford University?
+ A: Donald Kennedy
+ Entities: person Categories: person
+
+ Q52: Who invented the road traffic cone?
+ A: David Morgan
+ Entities: person Categories: person
+
+ Q53: Who was the first doctor to successfully transplant a liver?
+ A: Dr. Thomas Starzl
+ Entities: person Categories: person miscellaneous
+
+ Q54: When did Nixon die?
+ A: April 22, 1994
+ Entities: time Categories: miscellaneous time
+
+ Q55: Where is Microsoft's corporate headquarters located?
+ A: Redmond, Wash
+ Entities: place Categories: place
+
+ Q56: How many calories are there in a Big Mac?
+ A: 562
+ Entities: number Categories: dimension number
+
+ Q57: What is the acronym for the rating system for air conditioner efficiency?
+ A: SEER 
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q58: Name a film that has won the Golden Bear in the Berlin Film Festival?
+ A: In The Name Of The Father
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q59: Who was President of Costa Rica in 1994?
+ A: Rafael Angel Calderon
+ Entities: person Categories: person
+
+ Q60: What is the fare cost for the round trip between New York and London on Concorde?
+ A: $6,400
+ Entities: currency Categories: currency place
+
+ Q61: What brand of white rum is still made in Cuba?
+ A: Havana Club
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q62: What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body?
+ A: Multiple Sclerosis
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q63: What nuclear-powered Russian submarine sank in the Norwegian Sea on April 7, 1989?
+ A: Komsomlets
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q64: Who is the voice of Miss Piggy?
+ A: Frank Oz
+ Entities: person Categories: person
+
+ Q65: Name a country that is developing a magnetic levitation railway system?
+ A: Germany
+ Entities: place Categories: miscellaneous person
+
+ Q66: Name the first private citizen to fly in space.
+ A: Christa McAuliffe
+ Entities: person Categories: person miscellaneous
+
+ Q67: What is the longest river in the United States?
+ A: the Mississippi
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q68: What does El Nino mean in spanish?
+ A: boy child
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q69: Who came up with the name, El Nino? 
+ A: Peruvian fishermen
+ Entities: person Categories: miscellaneous person
+
+ Q70: How many lives were lost in the China Airlines' crash in Nagoya, Japan?
+ A: 264
+ Entities: number Categories: dimension number
+
+ Q71: In what year did Joe DiMaggio compile his 56-game hitting streak?
+ A: 1941
+ Entities: time Categories: time
+
+ Q72: When did the original Howdy Doody show go off the air?
+ A: 1960 
+ Entities: time Categories: dimension time
+
+ Q73: Where is the Taj Mahal?
+ A: Agra 
+ Entities: place Categories: place
+
+ Q74: Who leads the star ship Enterprise in Star Trek?
+ A: Captain Kirk
+ Entities: person Categories: miscellaneous person
+
+ Q75: What cancer is commonly associated with AIDS?
+ A: Kaposi's sarcoma
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q76: In which year was New Zealand excluded from the ANZUS alliance?
+ A: 1986
+ Entities: time Categories: time
+
+ Q77: Who played the part of the Godfather in the movie, "The Godfather"? 
+ A: Marlon Brando
+ Entities: person Categories: person miscellaneous
+
+ Q78: Which large U.S. city had the highest murder rate for 1988?
+ A: Washington, DC
+ Entities: place Categories: currency place
+
+ Q79: What did Shostakovich write for Rostropovich?
+ A: Second cello concerto, Op. 126
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q80: What is the name of the promising anticancer compound derived from the pacific yew tree?
+ A: taxol
+ Entities: miscellaneous Categories: person miscellaneous
+
+ Q81: How many inhabitants live in the town of Ushuaia?
+ A: 30,000
+ Entities: number Categories: dimension number
+
+ Q82: How many consecutive baseball games did Lou Gehrig play?
+ A: 2130
+ Entities: number Categories: dimension number
+
+ Q83: What is the tallest building in Japan?
+ A: Sunshine City Building
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q84: Which country is Australia's largest export market?
+ A: Japan
+ Entities: place Categories: miscellaneous place
+
+ Q85: Which former Ku Klux Klan member won an elected office in the U.S.?
+ A: David Duke
+ Entities: person Categories: person
+
+ Q86: Who won two gold medals in skiing in the Olympic Games in Calgary?
+ A: Tomba
+ Entities: person Categories: person
+
+ Q87: Who followed Willy Brandt as chancellor of the Federal Republic of Germany?
+ A: Helmut Schmidt
+ Entities: person Categories: person miscellaneous
+
+ Q88: What is Grenada's main commodity export?
+ A: nutmeg 
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q89: At what age did Rossini stop writing opera?
+ A: 35
+ Entities: number Categories: miscellaneous
+
+ Q90: Who is the founder of Scientology?
+ A: L. Ron Hubbard
+ Entities: person Categories: person
+
+ Q91: Which city in China has the largest number of foreign financial companies?
+ A: Shanghai
+ Entities: place Categories: miscellaneous place
+
+ Q92: Who released the Internet worm in the late 1980s?
+ A: Robert Morris
+ Entities: person Categories: person
+
+ Q93: Who first circumnavigated the globe?
+ A: Ferdinand Magellan
+ Entities: person Categories: miscellaneous person
+
+ Q94: Who wrote the song, "Stardust"?
+ A: Hoagy Carmichael
+ Entities: person Categories: person
+
+ Q95: What country is the worlds leading supplier of cannabis?
+ A: Ghana
+ Entities: place Categories: miscellaneous number
+
+ Q96: What time of day did Emperor Hirohito die?
+ A: 1.33 p.m. Friday PST
+ Entities: time Categories: miscellaneous time
+
+ Q97: How large is the Arctic refuge to preserve unique wildlife and wilderness value on Alaska's north coast?
+ A: 19 million acres
+ Entities: dimension Categories: dimension
+
+ Q98: Where is the highest point in Japan?
+ A: Mt. Fuji
+ Entities: place Categories: miscellaneous place
+
+ Q99: What is the term for the sum of all genetic material in a given organism?
+ A: genome
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q100: What is considered the costliest disaster the insurance industry has ever faced?
+ A: Hurricane Andrew 
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q101: How many people live in the Falklands?
+ A: 2,000
+ Entities: number Categories: miscellaneous number
+
+ Q102: Who is the Voyager project manager?
+ A: Norm Haynes
+ Entities: person Categories: person
+
+ Q103: How many people died when the Estonia sank in 1994?
+ A: more than 900 
+ Entities: number Categories: miscellaneous number
+
+ Q104: What language is most commonly used in Bombay?
+ A: Marathi
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q105: How many people does Honda employ in the U.S.?
+ A: 10,000 
+ Entities: number Categories: miscellaneous number
+
+ Q106: What is the second highest mountain peak in the world?
+ A: K2
+ Entities: miscellaneous Categories: miscellaneous time
+
+ Q107: When was China's first nuclear test?
+ A: 1964
+ Entities: time Categories: time
+
+ Q108: Which company created the Internet browser Mosaic?
+ A: Netscape Communications
+ Entities: org Categories: miscellaneous org
+
+ Q109: Where does Buzz Aldrin want to build a permanent, manned space station?
+ A: The moon
+ Entities: place Categories: miscellaneous place
+
+ Q110: Who killed Lee Harvey Oswald?
+ A: Jack Ruby
+ Entities: person Categories: person
+
+ Q111: How long does it take to travel from Tokyo to Niigata?
+ A: one hour and forty minutes
+ Entities: time Categories: dimension time
+
+ Q112: Who is the President of Ghana?
+ A: Jerry John Rawlings
+ Entities: person Categories: person
+
+ Q113: What is the name of the medical condition in which a baby is born without a brain?
+ A: anencephaly
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q114: How much stronger is the new vitreous carbon material invented by the Tokyo Institute of Technology compared with the material made from cellulose?
+ A: 1.5 times stronger
+ Entities: number Categories: miscellaneous dimension
+
+ Q115: What is Head Start?
+ A: federally funded pre-school program
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q116: Which team won the Super Bowl in 1968?
+ A: Green Bay Packers
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q117: What two researchers discovered the double-helix structure of DNA in 1953?
+ A: James Watson and Francis Crick
+ Entities: person Categories: person
+
+ Q118: What percentage of the world's plant and animal species can be found in the Amazon forests?
+ A: 30%
+ Entities: number Categories: miscellaneous
+
+ Q119: What Nobel laureate was expelled from the Philippines before the conference on East Timor?
+ A: Mairead Maguire
+ Entities: person Categories: person
+
+ Q120: Who held the endurance record for women pilots in 1929?
+ A: Bobbi Trout
+ Entities: person Categories: person
+
+ Q121: Who won the first general election for President held in Malawi in May 1994?
+ A: Bakili Muluzi
+ Entities: person Categories: person
+
+ Q122: Who is section manager for guidance and control systems at JPL?
+ A: Christopher P. Jones
+ Entities: person Categories: person
+
+ Q123: How many Vietnamese were there in the Soviet Union?
+ A: 81,000
+ Entities: number Categories: dimension number
+
+ Q124: What was Agent Orange used for during the Vietnam War?
+ A: To destroy ground cover
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q125: In what city is the US Declaration of Independence located?
+ A: Washington
+ Entities: place Categories: place
+
+ Q126: When did Israel begin turning the Gaza Strip and Jericho over to the PLO?
+ A: 5 May 1994
+ Entities: time Categories: miscellaneous time
+
+ Q127: Which city has the oldest relationship as a sister-city with Los Angeles?
+ A: Nagoya
+ Entities: place Categories: place
+
+ Q128: Who was the second man to walk on the moon?
+ A: Buzz Aldrin
+ Entities: person Categories: person miscellaneous
+
+ Q129: How many times was pitcher, Warren Spahn, a 20-game winner in his 21 major league seasons?
+ A: 13
+ Entities: number Categories: dimension number
+
+ Q130: When was Yemen reunified?
+ A: 22 May 1990
+ Entities: time Categories: time
+
+ Q131: Which Japanese car maker had its biggest percentage of sale in the domestic market?
+ A: Toyota 
+ Entities: org Categories: org miscellaneous
+
+ Q132: What is the capital of Uruguay?
+ A: Montevideo
+ Entities: place Categories: dimension place
+
+ Q133: What is the name for the technique of growing certain plants in soils contaminated with toxic metals, wherein the plants take up the toxic metals, are harvested, and the metals recovered for recycling?
+ A: green remediation technique
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q134: Where is it planned to berth the merchant ship, Lane Victory, which Merchant Marine veterans are converting into a floating museum?
+ A: Port of Sevastapol
+ Entities: place Categories: place
+
+ Q135: What famous communist leader died in Mexico City?
+ A: Leon Trotsky
+ Entities: person Categories: miscellaneous person
+
+ Q136: Who is the Queen of Holland?
+ A: Queen Beatrix
+ Entities: person Categories: person
+
+ Q137: Who is the president of the Spanish government?
+ A: Felipe Gonzalez
+ Entities: person Categories: person
+
+ Q138: What is the name of the normal process in all living things, including humans, in which cells are programmed to "commit suicide"?
+ A: Apoptosis
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q139: How many people did the United Nations commit to help restore order and distribute humanitarian relief in Somalia in September 1992?
+ A: At least 4200 
+ Entities: number Categories: miscellaneous number
+
+ Q140: How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie, Scotland, December 21, 1988?
+ A: 11 
+ Entities: number Categories: miscellaneous number
+
+ Q141: What is the duration of the trip from Bristol to London by rail?
+ A: an hour and 20 minutes
+ Entities: time Categories: place time
+
+ Q142: What is the population of Ulan Bator, capital of Mongolia?
+ A: Some 600,000 
+ Entities: number Categories: place number
+
+ Q143: Where does most of the marijuana entering the United States come from?
+ A: Mexico 
+ Entities: place Categories: miscellaneous place
+
+ Q144: How many megawatts will the power project in Indonesia, built by a consortium headed by Mission Energy of US, produce?
+ A: 2,400 MW
+ Entities: number Categories: miscellaneous number
+
+ Q145: What did John Hinckley do to impress Jodie Foster?
+ A: Tried to kill President Reagan
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q146: In what year did Ireland elect its first woman president?
+ A: 1990
+ Entities: time Categories: time
+
+ Q147: Who is the prime minister of Japan?
+ A: Tomiichi Murayama
+ Entities: person Categories: person miscellaneous
+
+ Q148: How many soldiers were involved in the last Panama invasion by the United States of America?
+ A: 14,000
+ Entities: number Categories: dimension number
+
+ Q149: Where is the Bulls basketball team based?
+ A: Chicago
+ Entities: place Categories: miscellaneous place
+
+ Q150: What is the length of border between the Ukraine and Russia?
+ A: 1,270 kilometers
+ Entities: dimension Categories: dimension place
+
+ Q151: Where did Dylan Thomas die?
+ A: New York
+ Entities: place Categories: miscellaneous place
+
+ Q152: How many people live in Tokyo?
+ A: 12 million
+ Entities: number Categories: miscellaneous number
+
+ Q153: What is the capital of California?
+ A: Sacramento
+ Entities: place Categories: dimension place
+
+ Q154: How many Grand Slam titles did Bjorn Borg win?
+ A: 11
+ Entities: number Categories: dimension number
+
+ Q155: Who was the Democratic nominee in the American presidential election?
+ A: Bill Clinton
+ Entities: person Categories: person
+
+ Q156: When was General Manuel Noriega ousted as the leader of Panama and turned over to U.S. authorities?
+ A: 3 January 1990
+ Entities: time Categories: miscellaneous time
+
+ Q157: Where is  Dartmouth College?
+ A: Hanover, N.H.
+ Entities: place Categories: place
+
+ Q158: How many mines can still be found in the Falklands after the war ended?
+ A: 30,000 
+ Entities: number Categories: dimension number
+
+ Q159: Why are electric cars less efficient in the north-east than in California?
+ A: cold 
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q160: When did French revolutionaries storm the Bastille?
+ A: July 14, 1789
+ Entities: time Categories: time
+
+ Q161: How rich is Bill Gates?
+ A: more than Dollars 9bn 
+ Entities: currency Categories: currency dimension
+
+ Q162: What is the capital of Kosovo?
+ A: Pristina
+ Entities: place Categories: dimension place
+
+ Q163: What state does Charles Robb represent?
+ A: Virginia
+ Entities: place Categories: miscellaneous place
+
+ Q164: Who is the leading competitor of Trans Union Company?
+ A: Equifax
+ Entities: org Categories: person org
+
+ Q165: Which type of submarine was bought recently by South Korea?
+ A: 209
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q166: When did communist control end in Hungary?
+ A: 23 October 1989
+ Entities: time Categories: time
+
+ Q167: What nationality is Pope John Paul II?
+ A: Polish
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q168: Who was the captain of the tanker, Exxon Valdez, involved in the oil spill in Prince William Sound, Alaska, 1989?
+ A: Joseph Hazlewood
+ Entities: person Categories: person
+
+ Q169: Who did the Chicago Bulls beat in the 1993 championship?
+ A: Phoenix Suns
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q170: Who was President of Afghanistan in 1994?
+ A: Prof. Borhanoddin Rabbani
+ Entities: person Categories: person
+
+ Q171: Who is the director of intergovernmental affairs for the San Diego county?
+ A: John Sweeten
+ Entities: person Categories: person
+
+ Q172: Where is the Keck telescope?
+ A: Hawaii
+ Entities: place Categories: place
+
+ Q173: How many moons does Jupiter have?
+ A: four moons
+ Entities: number Categories: dimension number
+
+ Q174: When did Jaco Pastorius die?
+ A: 1987
+ Entities: time Categories: miscellaneous time
+
+ Q175: When did beethoven die?
+ A: March 26, 1827
+ Entities: time Categories: miscellaneous time
+
+ Q176: How many people in Tucson?
+ A: over 500,000
+ Entities: number Categories: miscellaneous number
+
+ Q177: How tall is Mt. Everest?
+ A: 29,028 feet high 
+ Entities: dimension Categories: dimension
+
+ Q178: What is the capital of Congo?
+ A: Brazzaville
+ Entities: place Categories: dimension place
+
+ Q179: What is the capital of Italy?
+ A: Rome
+ Entities: place Categories: dimension place
+
+ Q180: What is the capital of Sri Lanka?
+ A: Colombo
+ Entities: place Categories: dimension place
+
+ Q181: What novel inspired the movie BladeRunner?
+ A: Do Androids Dream Of Electric Sheep
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q182: What was the first Gilbert and Sullivan opera?
+ A: Trial by Jury
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q183: What was the name of the computer in "2001: A Space Odyssey"?
+ A: HAL
+ Entities: miscellaneous Categories: miscellaneous person
+
+ Q184: When was Queen Victoria born?
+ A: 1837
+ Entities: time Categories: time
+
+ Q185: When was the battle of the Somme fought?
+ A: 1916
+ Entities: time Categories: time
+
+ Q186: Where did the Battle of the Bulge take place?
+ A: Luxembourg
+ Entities: place Categories: place
+
+ Q187: Where was Lincoln assassinated?
+ A: Washington, D.C.
+ Entities: place Categories: place
+
+ Q188: When was the women's suffrage amendment ratified?
+ A: Aug. 18, 1920
+ Entities: time Categories: time
+
+ Q189: Where is Qatar?
+ A: Persian Gulf
+ Entities: place Categories: place
+
+ Q190: Where is South Bend?
+ A: Ind.
+ Entities: place Categories: place
+
+ Q191: Where was Harry Truman born?
+ A: Lamar, Mo.
+ Entities: place Categories: place
+
+ Q192: Who was Secretary of State during the Nixon administration?
+ A: Henry A. Kissinger
+ Entities: person Categories: person miscellaneous
+
+ Q193: Who was the 16th President of the United States?
+ A: Lincoln
+ Entities: person Categories: person miscellaneous
+
+ Q194: Who wrote "The Pines of Rome"?
+ A: Respighi
+ Entities: person Categories: person
+
+ Q195: Who wrote "Dubliners"? 
+ A: JAMES JOYCE
+ Entities: person Categories: person
+
+ Q196: Who wrote "Hamlet"?
+ A: Shakespeare
+ Entities: person Categories: person
+
+ Q197: What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics?
+ A: "Yeah, but I'm sleeping !"
+ Entities: miscellaneous Categories: miscellaneous
+
+ Q198: How did Socrates die?
+ A: poisonous hemlock
+ Entities: miscellaneous Categories: miscellaneous dimension
+
+ Q199: How tall is the Matterhorn?
+ A: 14,776 feet 9 inches
+ Entities: dimension Categories: dimension
+
+ Q200: How tall is the replica of the Matterhorn at Disneyland?
+ A: 147 feet
+ Entities: dimension Categories: dimension
+
+ Q201: What was the U.S. budget deficit in 1997?
+ A: 22 billion dollars
+ Entities: currency Categories: currency person
+
+ Q202: What was the per capita GDP of New Zealand in 1996?
+ A: 18,500 USD
+ Entities: currency Categories: currency person
+
+ Q203: What was the U.S. budget deficit in 2003 ?
+ A: 472 billion dollars
+ Entities: currency Categories: currency person
+
+ Q204: How much does 1 cubic inch of water weigh ?
+ A: 0.036 lbs.
+ Entities: dimension Categories: currency dimension
+
+ Q205: How much smaller is Pluto than Earth ?
+ A: 6.5 times
+ Entities: number Categories: miscellaneous number
+
+ Q206: How much bigger is the Sun's diameter than Earth's diameter ?
+ A: 1000 times
+ Entities: number Categories: dimension number
+
+ Q207: What is the speed of sound ?
+ A: 1,088 feet per second
+ Entities: dimension Categories: dimension place
+
+ Q208: What is the speed of light ?
+ A: 186,000 miles per second
+ Entities: dimension Categories: dimension place
+
+ Q209: How much does 1 carat weigh ?
+ A: 200 milligrams
+ Entities: dimension Categories: currency dimension
+
+ Q210: How much is 1 acre in feet ?
+ A: 43,600 square feet
+ Entities: dimension Categories: currency dimension
+
+ Q211: How long is one cubit ?
+ A: 21.8 inches
+ Entities: dimension Categories: dimension time
+
+ Q212: How far is the Moon from Earth ?
+ A: 256,000 miles
+ Entities: dimension Categories: miscellaneous number
+
+ Q213: Which company received the largest dollar volume of defense contracts in 1997 ?
+ A: Lockheed Martin
+ Entities: org Categories: miscellaneous org
+
+ Q214: Name the premier aerospace company in the U.S.
+ A: Boeing
+ Entities: org Categories: person miscellaneous
+
+ Q215: In which company did Dick Cheney work before becoming vice president in 2001 ?
+ A: Halliburton
+ Entities: org Categories: miscellaneous org
+
+ Q216: What organization was created to foster world peace after World War II ?
+ A: United Nations
+ Entities: org Categories: miscellaneous number
+
+ Q217: Which organization was responsible for eradicating small pox ?
+ A: WHO
+ Entities: org Categories: org miscellaneous
+
+ Q218: Which Swedish company sells furniture to assemble worldwide ?
+ A: IKEA
+ Entities: org Categories: miscellaneous org
+
+ Q219: Name a Japanese company famous for its cameras ?
+ A: Minolta
+ Entities: org Categories: person miscellaneous
+
+ Q220: Which company makes an operating system in Redmond, Washington ?
+ A: Microsoft
+ Entities: org Categories: miscellaneous org
+
+ Q221: Where does a king live ?
+ A: Palace
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q222: Who lives at Buckingham Palace ?
+ A: Queen of England
+ Entities: person Categories: person miscellaneous
+
+ Q223: Where is the Taj Mahal ?
+ A: Agra
+ Entities: place Categories: place
+
+ Q224: What is a book of maps called ?
+ A: Atlas
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q225: What is a warship that carries planes called ?
+ A: Aircraft carrier
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q226: What is a period of 14 days called ?
+ A: Fortnight
+ Entities: time Categories: place time
+
+ Q227: How many grams in a Kilogram ?
+ A: 1000
+ Entities: number Categories: dimension number
+
+ Q228: What is a group of puppies called ?
+ A: Litter
+ Entities: miscellaneous Categories: miscellaneous place
+
+ Q229: How long is a fortnight ?
+ A: 14 days
+ Entities: time Categories: dimension time
+
+ Q230: When did India gain independence ?
+ A: 1947
+ Entities: time Categories: miscellaneous time
+
+ Q231: When do cyclones occur ?
+ A: Between June and November
+ Entities: time Categories: time
+
+ Q232: When was the U.S. Declaration of Independence signed ?
+ A: July 4th, 1776
+ Entities: time Categories: currency time
+
+ Q233: How many are the wonders of the ancient world ?
+ A: 7
+ Entities: number Categories: miscellaneous number
+
+ Q234: When did World War II start ?
+ A: 1939
+ Entities: time Categories: miscellaneous time
+
+ Q235: When was the Berlin Wall opened ?
+ A: 1989
+ Entities: time Categories: miscellaneous time
+
+ Q236: When was Prime Minister Tony Blair elected ?
+ A: 1997
+ Entities: time Categories: miscellaneous time
+
+ Q237: How many centimeters make an inch?
+ A: 2.54
+ Entities: number Categories: dimension number
+
+ Q238: How tall was World Trade Center 1 ?
+ A: 1,368 feet
+ Entities: dimension Categories: miscellaneous dimension
+
+ Q239: How tall is Empire State Building ?
+ A: 1,250 feet
+ Entities: dimension Categories: miscellaneous place
+
+ Q240: How long is the Golden Gate Bridge ?
+ A: 4200 feet
+ Entities: dimension Categories: dimension time
+
+ Q241: How long is the Chunnel ?
+ A: 31.04 miles
+ Entities: dimension Categories: dimension time
+
+ Q242: Which language is spoken by the most people ?
+ A: Mandarin
+ Entities: miscellaneous Categories: miscellaneous number
+
+ Q243: Which country was the top tourist destination in 1997 ?
+ A: France
+ Entities: place Categories: miscellaneous place
+
+ Q244: Name two countries starting with the letter 'Z' 
+ A: Zambia and Zimbabwe
+ Entities: place Categories: person miscellaneous
+
+ Q245: How long does it take for Jupiter to complete one rotation ?
+ A: 10 hours
+ Entities: time Categories: dimension time
+
+ Q246: How old is the Universe ?
+ A: 13.7 billion years
+ Entities: time Categories: miscellaneous dimension
+
+ Q247: How far is the Sun from Earth ?
+ A: 94 million miles
+ Entities: dimension Categories: miscellaneous number
+
+ Q248: How far is Mars from Earth ?
+ A: 300 million miles
+ Entities: dimension Categories: miscellaneous number
+
+ Q249: How long does it take for Earth to complete 1 rotation ?
+ A: 23 hours, 56 minutes, and 4.2 seconds
+ Entities: time Categories: miscellaneous time
+
+ Q250: How many times heavier than Earth is Jupiter ?
+ A: 318
+ Entities: number Categories: miscellaneous number
+
+       Category        Correct          Error          Total     Avg. Diff.
+--------------------------------------------------------------------------------
+       currency             10              0             10        0.16434
+         person             57              0             57        0.03083
+            org              9              3             12        0.37378
+  miscellaneous             43              0             43        0.01576
+      dimension             16              4             20        0.38578
+          place             36              4             40        0.21313
+           time             37              1             38        0.02794
+         number             27              3             30        0.12942
+--------------------------------------------------------------------------------
+          Total            235             15            250
+--------------------------------------------------------------------------------
+
+Total percent correct : 94%
+Normalized Percent correct : 91.5%
+
+False Positives:
+  miscellaneous:     11
+         person:      4
+
+Categorization Errors:
+  No.        Correct          Error                                    Questions
+--------------------------------------------------------------------------------
+    4      dimension  miscellaneous                             212 239 247 248 
+    3         number  miscellaneous                                  89 114 118 
+    2          place  miscellaneous                                       65 95 
+    2          place         person                                      35 244 
+    2            org         person                                     214 219 
+    1           time  miscellaneous                                         246 
+    1            org  miscellaneous                                         216 
+--------------------------------------------------------------------------------
+Total Errors: 15
+Finished qu_test.pl

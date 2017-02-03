@@ -1,0 +1,34 @@
+
+ Semantic relation between all words of synset B and all words
+ of synset C. Lexical relations between a single word of word
+ forms A and a single word of word forms B.
+
+ Index File Format:
+
+ Line 	--> lemma synset_cnt pos pointers sense_cnt tagsense_cnt synsets
+ 
+ lemma 		--> variable length non-space characters
+ synset_cnt	--> Number of synsets y
+ pos   		--> one char (a, n, v, r)
+ pointers 	--> number x followed by x pointer symbols
+ sense_cnt 	--> number of senses for the lemma (same as synset_cnt)
+ tagsense_cnt	--> number of ranked senses for the lemma
+ synsets	--> y synset offsets
+
+ e.g.  abnormality n 4 3 ! @ ~ 4 1 12245565 04849051 04152097 00558456
+
+ Data File Format
+
+ Line 	--> offset fileno pos words pointers frames or | gloss
+ 
+ offset		--> 8 digit number with leading zeroes
+ fileno		--> 2 digit number
+ pos		--> 1 character (n,v,a,s,r)
+ words		--> 2 digit hex no. x followed by x lemma and lex_id seqs.
+ lex_id		--> 1 digit sense number
+ pointers	--> 3 digit decimal number x followed by x (pointer) seqs.
+ pointer	--> ptr_symbol offset pos source/target
+ ptr_symbol	--> 1/2 character symbol
+ source/target	--> 4 digit hex number
+ frames		--> 2 digit decimal no. x followed by x (+ frame_no word_no)
+ gloss		--> a text string with one or more examples

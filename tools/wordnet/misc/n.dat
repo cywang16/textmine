@@ -1,0 +1,54 @@
+#*-----------------------------------------------
+#*- List of additional nouns, verbs, adverbs
+#*-
+#*- lemma:n:similar words separated by spaces
+#*-----------------------------------------------
+text_mining:n:information_retrieval: the field of analysis of and finding patterns in text; "Text mining aims to extract useful knowledge from unstructured text."
+information_retrieval:n:text_mining:
+o'reilly:n:: A well known publisher of technical books in California. "80% of the tech. book market is owned by Pearson, Wiley, O'Reilly, and Microsoft Press, in that order."
+open_source:a:: of or relating to or being computer software for which the source code is freely available
+.com:n::
+.edu:n::
+.gov:n::
+.mil:n::
+.net:n::
+.org:n::
+ain't:v:is_not isn't:
+is_not:v:ain't isn't:
+isn't:v:is_not ain't:
+aren't:v:are_not arn't:
+are_not:v:aren't arn't:
+arn't:v:are_not aren't:
+can't:v:can_not:
+can_not:v:can't:
+couldn't:v:could_not:
+could_not:v:couldn't:
+didn't:v:did_not:
+did_not:v:didn't:
+doesn't:v:does_not:
+does_not:v:doesn't:
+don't:v:do_not:
+do_not:v:don't:
+weren't:v:were_not:
+were_not:v:weren't:
+won't:v:will_not:
+will_not:v:won't:
+would't:v:would_not wouldn't:
+would_not:v:would't wouldn't:
+wouldn't:v:would_not would't:
+pay'n:v:pay_and:
+pay_and:v:pay'n:
+shouldn't:v:should_not:
+should_not:v:shouldn't:
+wasn't:v:was_not:
+was_not:v:wasn't:
+hadn't:v:had_not:
+had_not:v:hadn't:
+hasn't:v:has_not:
+has_not:v:hasn't:
+haven't:v:have_not:
+have_not:v:haven't:
+d'affaires:n:responsible_person:
+responsible_person:n:d'affaires:
+there'll:r:there_will:
+there_will:r:there'll:

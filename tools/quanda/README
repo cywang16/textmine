@@ -1,0 +1,38 @@
+ 
+ Steps to create and test query categorization
+
+ 1. Run bld_qcat.pl to create the qu_cat_temp.txt file
+
+ 2. Run bld_nnet.pl to create the qu_categories.txt file
+
+ 3. Load the qu_categories file into the qu_categories DB table
+
+ 4. Run the qu_test.pl to test query categorization
+
+ 5. Run se_test.pl to test sentence extraction
+
+ Files			Description
+ -----			---------------------------------------------------
+ bld_nnet.pl		Build the neural net weights and creare the
+                        qu_categories file
+ bld_qcat.pl		Create the qu_cat_temp.txt using the training.txt
+ perlfaq.pl		Load the perl faq into a table
+ pfile			File of patterns for bld_nnet.pl
+ plot_data.pl		Dump data to create plots for sigmoid function
+ qu_filecheck.pl	Verify the format of the question training file
+ qu_perlfaq.dat		List of Perl FAQ questions and attributes
+ qu_test.pl		Script to evaluate query classification
+ se_test.pl		Test sentence extraction using HTML files from a query
+ testing.txt		Questions for evaluating query categorization
+ training.txt		Questions for training the query categorizer
+
+ Notes:
+
+ Training with more noisy data was not successful. Miscellaneous category
+ could not be identified and the category was misclassified in many 
+ cases. The neural net for several categories did not converge when
+ a larger training set of 750 questions was used.
+
+ The sample list of questions can be downloaded from
+
+ http://trec.nist.gov/data/qa/T8_QAdata/topics.qa_questions.txt

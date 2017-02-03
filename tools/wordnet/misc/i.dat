@@ -1,0 +1,27 @@
+#*-----------------------------------------------
+#*- List of interjections
+#*-
+#*- lemma:i:similar words separated by spaces
+#*-----------------------------------------------
+ah:i::
+adieu:i:bye goodbye:
+aye:i::
+hey:i::
+aha:i::
+eh:i::
+mhm:i::
+ooh:i::
+yep:i::
+gosh:i::
+ugh:i::
+bye:i:adieu goodbye:
+dear:i::
+goodbye:i:adieu bye:
+ha:i::
+hello:i::
+mm:i::
+no:i::
+oh:i::
+yea:i:yeah:
+yeah:i:yea:
+yes:i::
