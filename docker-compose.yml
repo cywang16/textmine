@@ -1,0 +1,29 @@
+version: '2'
+
+services:
+  mysql:
+    image: mysql
+    ports:
+      - "8306:3306"
+    environment:
+      MYSQL_DATABASE: 'tm'
+      MYSQL_USER: 'keycloak'
+      MYSQL_PASSWORD: 'test'
+      MYSQL_ROOT_PASSWORD: 'roottest'
+
+  perldev:
+    build: .
+    ports:
+      - "800:8080"
+    # links:
+    #   - mysql
+    volumes:
+      - .:/mnt/shares
+    environment:
+      MYSQL_DATABASE: 'tm'
+      MYSQL_USERNAME: 'keycloak'
+      MYSQL_PASSWORD: 'test'
+      MYSQL_PORT_3306_TCP_ADDR: mysql
+      MYSQL_PORT_3306_TCP_PORT: 3306
+    depends_on:
+      - mysql

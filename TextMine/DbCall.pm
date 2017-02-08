@@ -37,12 +37,15 @@
   foreach (keys %hash) { $self->{$_} = $hash{$_}; }
 
   #*-- set defaults and open optional debug file
-  $self->{'Host'} = 'localhost' unless ($self->{'Host'});
+  # $self->{'Host'} = 'localhost' unless ($self->{'Host'});
+  $self->{'Host'} = 'mysql' unless ($self->{'Host'});
 
   #*-- try establishing a connection
   #*-- Fix by Jeff Gentes, Feb 5, 2005: 
   #*-- Added mysql_local_infile=1 to allow load data local stmt. 
-  my $dbh = DBI->connect("DBI:mysql:$self->{'Dbname'}:$self->{'Host'}:3306" .
+  # my $dbh = DBI->connect("DBI:mysql:database=$self->{'Dbname'};host=$self->{'Host'}" .
+  #  ";mysql_local_infile=1", "$self->{'Userid'}", "$self->{'Password'}");
+  my $dbh = DBI->connect("DBI:mysql:database=tm;host=$self->{'Host'}" .
    ";mysql_local_infile=1", "$self->{'Userid'}", "$self->{'Password'}");
   DBI->trace(1, $self->{'DebugFile'}) if ($self->{'DebugFile'});
 
@@ -127,7 +130,8 @@
   my ($dbname, $userid, $pass) = @_;
 
   #*-- check for a duplicate db
-  my $dbh = DBI->connect("DBI:mysql:mysql:localhost:3306","$userid","$pass");
+  # my $dbh = DBI->connect("DBI:mysql:mysql:localhost:3306","$userid","$pass");
+  my $dbh = DBI->connect("DBI:mysql:database=tm;host=mysql","$userid","$pass");
   my @dbs = $dbh->func('_ListDBs');
   foreach my $db (@dbs) 
    { if ($db eq $dbname) { $dbh->disconnect(); return(); } }
@@ -143,7 +147,8 @@
  sub drop_db
  { 
   my ($dbname, $userid, $pass) = @_;
-  my $dbh = DBI->connect("DBI:mysql:mysql:localhost:3306","$userid","$pass");
+  # my $dbh = DBI->connect("DBI:mysql:mysql:localhost:3306","$userid","$pass");
+  my $dbh = DBI->connect("DBI:mysql:database=tm;host=mysql","$userid","$pass");
   $dbh->do("drop database $dbname"); $dbh->disconnect();
   return();
  }

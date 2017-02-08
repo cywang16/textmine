@@ -16,7 +16,7 @@
  our @ISA = qw(Exporter);
  our @EXPORT = qw(
      $OSNAME    $ROOT_DIR $CGI_DIR  $ICON_DIR $TMP_DIR
-     $UTILS_DIR $DB_NAME  $PERL_EXE $DELIM $SDELIM    $ISEP     $EQUAL   MAXDATA
+     $UTILS_DIR $DB_HOST $DB_NAME  $PERL_EXE $DELIM $SDELIM    $ISEP     $EQUAL   MAXDATA
      &clean_filename &fetch_dirname);
 
  our @EXPORT_OK = qw(
@@ -39,6 +39,7 @@
       $PPM_DIR,		#*-- optional path to the PPM dir. of Active Perl
       $ICON_DIR,	#*-- web path to icons dir. for TextMine
       $LSI_DIR,		#*-- full path to the LSI dir. 
+      $DB_HOST,		#*-- name of the database host(mysql)
       $DB_NAME,		#*-- name of the TextMine database (tm)
       $PROXY,		#*-- optional proxy server name 
       @MFILE_TYPES,	#*-- all media file types
@@ -66,16 +67,17 @@
 
    #*-- enter dir. names, add a trailing / for directories
    $OSNAME   = ($Config{'osname'} =~ /win/i) ? "win": "nix";
-   $ROOT_DIR  = '/home/manuk/textmine-0.2/';	#*-- top level dir.
-   $WEB_DIR  = '/home/manuk/';	#*-- web root dir.
-   $CGI_DIR  = '/cgi-bin/textmine-0.2/';	#*-- cgi scripts
-   $PACK_DIR  = '/home/manuk/textmine-0.2/';	#*-- package dir.
-   $UTILS_DIR  = '/home/manuk/textmine-0.2/utils/';	#*-- utilities dir.
-   $LSI_DIR  = '/home/manuk/textmine-0.2/lsi/';	#*-- lsi dir.
-   $TMP_DIR  = '/home/manuk/textmine-0.2/tmp/';	#*-- temporary dir.
+   $ROOT_DIR  = '/mnt/shares/';	#*-- top level dir.
+   $WEB_DIR  = '/usr/src/myapp/web/';	#*-- web root dir.
+   $CGI_DIR  = '/cgi-bin/tm/';	#*-- cgi scripts
+   $PACK_DIR  = '/mnt/shares/';	#*-- package dir.
+   $UTILS_DIR  = '/mnt/shares/utils/';	#*-- utilities dir.
+   $LSI_DIR  = '/mnt/shares/lsi/';	#*-- lsi dir.
+   $TMP_DIR  = '/mnt/shares/tmp/';	#*-- temporary dir.
    $ICON_DIR  = '/icons/tm/';	#*-- icon dir.
 
    #*-- optional fields that maybe changed
+   $DB_HOST  = 'mysql';                    #*-- database host name
    $DB_NAME  = 'tm';                    #*-- database name
    $PROXY    = '';		        #*-- URL for proxy server 
    $PPM_DIR  = '/';	#*-- ppm dir.
@@ -178,6 +180,11 @@ use TextMine::Constants;
 
   Contains a list of constants used by various TextMine modules
   including directory names, media types, delimiters, and date constants
+
+=head1 AUTHOR
+
+Manu Konchady <mkonchady@yahoo.com>
+ and date constants
 
 =head1 AUTHOR
 
