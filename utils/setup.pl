@@ -9,11 +9,12 @@
  use strict; use warnings; 
  use TextMine::DbCall;
  use TextMine::Constants qw($DB_NAME $UTILS_DIR $PPM_DIR 
-                            $PACK_DIR $ROOT_DIR $PERL_EXE $OSNAME
+                            $PACK_DIR $ROOT_DIR $PERL_EXE $OSNAME $DB_HOST
      clean_filename fetch_dirname); 
 
  #*-- userid and password for Mysql
- our ($USERID, $PASSWORD) = ('root', '');
+ # our ($USERID, $PASSWORD) = ('root', '');
+ our ($USERID, $PASSWORD) = ('keycloak', 'test');
 
  print ("Started setup.pl\n");
  print ("Setting up the database ...\n");
@@ -50,7 +51,7 @@
  my ($dbh, $sth, $command, @tables, $db_msg);
  print ("Started creating and loading the database....\n");
  TextMine::DbCall::create_db("$DB_NAME", $USERID, $PASSWORD);
- ($dbh, $db_msg) = TextMine::DbCall->new ( 'Host' => '',
+ ($dbh, $db_msg) = TextMine::DbCall->new ( 'Host' => $DB_HOST,
        'Userid' => $USERID, 'Password' => $PASSWORD, 'Dbname' => $DB_NAME);
  print ("DB Error Message: $db_msg\n") if ($db_msg);
 
