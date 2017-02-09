@@ -64,7 +64,9 @@
     { 
      #*-- connect to the appropriate database
      $dbh->disconnect_db($sth) if ($dbh);
-     ($dbh, $db_msg) = TextMine::DbCall->new ( 'Host' => '',
+     # ($dbh, $db_msg) = TextMine::DbCall->new ( 'Host' => '',
+     #   'Userid' => $USERID, 'Password' => $PASSWORD, 'Dbname' => $1); }
+     ($dbh, $db_msg) = TextMine::DbCall->new ( 'Host' => 'mysql',
        'Userid' => $USERID, 'Password' => $PASSWORD, 'Dbname' => $1); }
    else
     { (undef, $db_msg) = $dbh->execute_stmt($command); }
@@ -72,8 +74,10 @@
   }
 
  $dbh->disconnect_db($sth) if ($dbh);
- ($dbh, undef) = TextMine::DbCall->new ( 'Host' => '',
-       'Userid' => 'root', 'Password' => $PASSWORD, 'Dbname' => $DB_NAME);
+ # ($dbh, undef) = TextMine::DbCall->new ( 'Host' => '',
+ #       'Userid' => 'root', 'Password' => $PASSWORD, 'Dbname' => $DB_NAME);
+ ($dbh, undef) = TextMine::DbCall->new ( 'Host' => 'mysql',
+       'Userid' => 'root', 'Password' => 'roottest', 'Dbname' => $DB_NAME);
  $/ = "\n";
  print ("Loading the tables ....\n");
  my %files = (
