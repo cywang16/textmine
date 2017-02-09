@@ -7,7 +7,7 @@
  #*- Summary: load perl modules using ppm or CPAN
  #*- 
  #*- Module Dependencies: 
- #*-  1.  Crypt::Rot13 
+ #*-  1.  Crypt::Rot47 
  #*-  2.  DBI
  #*-  3.  DBD::mysql 
  #*-  4.  Digest::MD5
@@ -38,7 +38,7 @@
  sub setup_modules
  {
   my @MOD_DEP = qw/
-			Crypt::Rot13 
+			Crypt::Rot47 
 			DBI 
 			DBD::mysql 
 			Digest::MD5 

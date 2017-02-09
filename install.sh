@@ -12,7 +12,7 @@ if [ $INP = n ];
 fi
 
 #*-- generate the lsi executable
-cd lsi; make; cd ../utils
+cd lsi; make clean; make; cd ../utils
 
 #*-- load dependent perl modules
 echo -n "Load dependent modules (y/n): "

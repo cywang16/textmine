@@ -29,7 +29,7 @@
  use strict; use warnings;
  use lib qw/../;
  use Config;
- use Crypt::Rot13;
+ use Crypt::Rot47;
  use TextMine::DbCall;
  use TextMine::MyProc    qw/get_drives/;
  use TextMine::Constants qw/FMONTH_NAME MONTH_NAME WEEK_DAYS MONTH_DAYS
@@ -672,8 +672,8 @@ EOF
  sub encode
  {
   (my $text) = @_; return ($text); #*-- to skip encrypt
-  my $crypto = new Crypt::Rot13; $crypto->charge("$text");
-  my @enc_text = $crypto->rot13(10); return("@enc_text");
+  my $crypto = new Crypt::Rot47; $crypto->charge("$text");
+  my @enc_text = $crypto->rot47(10); return("@enc_text");
  }
 
  #*------------------------------------------------------------------
@@ -683,8 +683,8 @@ EOF
  sub decode
  {
   (my $text) = @_; return ($text); #*-- to skip decrypt
-  my $crypto = new Crypt::Rot13; $crypto->charge("$text");
-  my @dec_text = $crypto->rot13(16); return("@dec_text");
+  my $crypto = new Crypt::Rot47; $crypto->charge("$text");
+  my @dec_text = $crypto->rot47(16); return("@dec_text");
  }
 
 1; #return true 
