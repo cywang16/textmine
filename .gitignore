@@ -1,0 +1,8 @@
+# find some instructions in https://stackoverflow.com/questions/11498059/strange-gitignore-behavior-for-emacs-temporary-files
+#
+
+__pycache__/
+*~
+[#]*[#]
+.\#*
+*.pyc
