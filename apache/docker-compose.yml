@@ -1,0 +1,13 @@
+#
+# Apache workplace
+#
+
+version: '3'
+
+services:
+  httpd:
+    build: .
+    volumes:
+      - .:/workplace
+    ports:
+      - "8080:80"
